@@ -47,11 +47,192 @@ const latestMovies: Movie[] = [
       }
     ]
   },
+    {
+    id: '5',
+    title: 'Jailer',
+    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
+    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    year: 2023,
+    genre: ['Action', 'Drama', 'Thriller'],
+    director: 'Nelson Dilipkumar',
+    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
+    rating: 4.5,
+    duration: '2h 48m',
+    quality: ['4K HDR', '1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 150000,
+    likes: 25000,
+    channelName: 'TamilRockers',
+    channelLink: 'https://example.com/tamilrockers',
+    downloadLinks: [
+      {
+        quality: '4K HDR',
+        size: '8.5 GB',
+        url: 'https://example.com/download/jailer-4k'
+      },
+      {
+        quality: '1080p',
+        size: '2.1 GB',
+        url: 'https://example.com/download/jailer-1080p'
+      },
+      {
+        quality: '720p',
+        size: '1.1 GB',
+        url: 'https://example.com/download/jailer-720p'
+      }
+    ]
+  },
+      {
+    id: '3',
+    title: 'Hisaab Barabar',
+    description: 'Hisaab Barabar (2025) 1080p [H.265 - 1.55 GB | H.264 - 2.11 GB] 720p [H.265 - 1.25 GB | H.264 - 1.46 GB] 🎧 Tamil | Telugu | Hindi (AAC 2.0 @ 248 kb/s) 📄 ESubs - GDRIVE',
+    posterUrl: 'https://assets.gadgets360cdn.com/pricee/assets/product/202501/Hisaab_Barabar_Poster_1_1736768897.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    cast: ['R Madhavan', 'Neil Nitin Mukesh', 'Rashmi Desai', 'Kirti Kulhari'],
+    rating: 4.5,
+    duration: '1h 51m',
+    quality: ['1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 15,
+    likes: 25,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/BE6iH'
+      },
+      {
+        quality: '1080p',
+        size: '1.55 GB',
+        url: 'https://gplinks.co/Jsud'
+      },
+      {
+        quality: '720p',
+        size: '1.46 GB',
+        url: 'https://gplinks.co/MH6SaPyX'        
+      },
+      {
+        quality: '720p',
+        size: '1.25 GB',
+        url: 'https://gplinks.co/2IJT8TIW'
+      }
+    ]
+  },
+  {
+    id: '4',
+    title: 'Thiru Manickam',
+    description: 'Thiru Manickam - 2024 2160p | 1080p | 720p [ H.265 - 2.66 GB | 1.57 GB | 1.13 GB ] 🎧 Tamil | Hindi | Telugu | Dolby Digital Plus 5.1 @ 640 kb/s 📄 ESubs  - GDRIVE',
+    posterUrl: 'https://media.assettype.com/cinemaexpress%2Fimport%2Fuploads%2Fuser%2Fckeditor_images%2Farticle%2F2024%2F1%2F1%2F3aa7878c-182d-48b7-bd50-09bd15b0c089.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
+    rating: 4.5,
+    duration: '2h 48m',
+    quality: ['2160p', '1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 15,
+    likes: 25,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p',
+        size: '2.66 GB',
+        url: 'https://gplinks.co/j4Ler'
+      },
+      {
+        quality: '1080p',
+        size: '1.57 GB',
+        url: 'https://gplinks.co/u4ERZwG'
+      },
+      {
+        quality: '720p',
+        size: '1.13 GB',
+        url: 'https://gplinks.co/gOVj4w'
+      }
+    ]
+  },
   // ... (keep other movie data)
 ];
 
 const allMovies = [
   ...latestMovies,
+      {
+    id: '8',
+    title: 'Hisaab Barabar',
+    description: 'Hisaab Barabar (2025) 1080p [H.265 - 1.55 GB | H.264 - 2.11 GB] 720p [H.265 - 1.25 GB | H.264 - 1.46 GB] 🎧 Tamil | Telugu | Hindi (AAC 2.0 @ 248 kb/s) 📄 ESubs - GDRIVE',
+    posterUrl: 'https://assets.gadgets360cdn.com/pricee/assets/product/202501/Hisaab_Barabar_Poster_1_1736768897.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    cast: ['R Madhavan', 'Neil Nitin Mukesh', 'Rashmi Desai', 'Kirti Kulhari'],
+    rating: 4.5,
+    duration: '1h 51m',
+    quality: ['1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 15,
+    likes: 25,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/BE6iH'
+      },
+      {
+        quality: '1080p',
+        size: '1.55 GB',
+        url: 'https://gplinks.co/Jsud'
+      },
+      {
+        quality: '720p',
+        size: '1.46 GB',
+        url: 'https://gplinks.co/MH6SaPyX'        
+      },
+      {
+        quality: '720p',
+        size: '1.25 GB',
+        url: 'https://gplinks.co/2IJT8TIW'
+      }
+    ]
+  },
+  {
+    id: '7',
+    title: 'Thiru Manickam',
+    description: 'Thiru Manickam - 2024 2160p | 1080p | 720p [ H.265 - 2.66 GB | 1.57 GB | 1.13 GB ] 🎧 Tamil | Hindi | Telugu | Dolby Digital Plus 5.1 @ 640 kb/s 📄 ESubs  - GDRIVE',
+    posterUrl: 'https://media.assettype.com/cinemaexpress%2Fimport%2Fuploads%2Fuser%2Fckeditor_images%2Farticle%2F2024%2F1%2F1%2F3aa7878c-182d-48b7-bd50-09bd15b0c089.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
+    rating: 4.5,
+    duration: '2h 48m',
+    quality: ['2160p', '1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 15,
+    likes: 25,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p',
+        size: '2.66 GB',
+        url: 'https://gplinks.co/j4Ler'
+      },
+      {
+        quality: '1080p',
+        size: '1.57 GB',
+        url: 'https://gplinks.co/u4ERZwG'
+      },
+      {
+        quality: '720p',
+        size: '1.13 GB',
+        url: 'https://gplinks.co/gOVj4w'
+      }
+    ]
+  },
   {
     id: '6',
     title: 'Captain Miller',
