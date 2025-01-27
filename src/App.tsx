@@ -14,6 +14,147 @@ import type { Movie } from './types';
 const latestMovies: Movie[] = [
   {
     id: '1',
+    title: 'Stranger Things',
+    description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
+    posterUrl: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWPh6PeuTgtO_Zzmap6eXJrwBro7Rpz-VOBSqo_7j1-CW9rmEhD0fGArmbXSoWphgcr4ml',
+    year: 2016,
+    genre: ['Horror', 'Drama', 'Fantasy'],
+    director: 'Nelson Dilipkumar',
+    cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
+    rating: 8.7,
+    duration: '42m - 55m',
+    quality: ['1080p', 'AV1', 'HEVC'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English'],
+    downloads: 150,
+    likes: 250,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p HEVC GDFLIX',
+        size: '13.48 GB',
+        url: 'https://gplinks.co/1V3a3D'
+      },
+      {
+        quality: '1080p HEVC GDTOT',
+        size: '13.48 GB',
+        url: 'https://gplinks.co/aUAC4'
+      },
+      {
+        quality: '1080p AV1 GDTOT',
+        size: '6.42 GB',
+        url: 'https://gplinks.co/Hczs2N4J'
+             },
+      {
+        quality: '1080p AV1 GDRIVE',
+        size: '6.42 GB',
+        url: 'https://gplinks.co/4niDbFvG'
+      }
+    ]
+  },
+    id: '2',
+    title: 'Jailer',
+    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
+    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    year: 2023,
+    genre: ['Action', 'Drama', 'Thriller'],
+    director: 'Nelson Dilipkumar',
+    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
+    rating: 4.5,
+    duration: '2h 48m',
+    quality: ['4K HDR', '1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 150000,
+    likes: 25000,
+    channelName: 'TamilRockers',
+    channelLink: 'https://example.com/tamilrockers',
+    downloadLinks: [
+      {
+        quality: '4K HDR',
+        size: '8.5 GB',
+        url: 'https://example.com/download/jailer-4k'
+      },
+      {
+        quality: '1080p',
+        size: '2.1 GB',
+        url: 'https://example.com/download/jailer-1080p'
+      },
+      {
+        quality: '720p',
+        size: '1.1 GB',
+        url: 'https://example.com/download/jailer-720p'
+      }
+    ]
+  },
+    id: '3',
+    title: 'Jailer',
+    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
+    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    year: 2023,
+    genre: ['Action', 'Drama', 'Thriller'],
+    director: 'Nelson Dilipkumar',
+    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
+    rating: 4.5,
+    duration: '2h 48m',
+    quality: ['4K HDR', '1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 150000,
+    likes: 25000,
+    channelName: 'TamilRockers',
+    channelLink: 'https://example.com/tamilrockers',
+    downloadLinks: [
+      {
+        quality: '4K HDR',
+        size: '8.5 GB',
+        url: 'https://example.com/download/jailer-4k'
+      },
+      {
+        quality: '1080p',
+        size: '2.1 GB',
+        url: 'https://example.com/download/jailer-1080p'
+      },
+      {
+        quality: '720p',
+        size: '1.1 GB',
+        url: 'https://example.com/download/jailer-720p'
+      }
+    ]
+  },
+    id: '4',
+    title: 'Jailer',
+    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
+    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    year: 2023,
+    genre: ['Action', 'Drama', 'Thriller'],
+    director: 'Nelson Dilipkumar',
+    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
+    rating: 4.5,
+    duration: '2h 48m',
+    quality: ['4K HDR', '1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 150000,
+    likes: 25000,
+    channelName: 'TamilRockers',
+    channelLink: 'https://example.com/tamilrockers',
+    downloadLinks: [
+      {
+        quality: '4K HDR',
+        size: '8.5 GB',
+        url: 'https://example.com/download/jailer-4k'
+      },
+      {
+        quality: '1080p',
+        size: '2.1 GB',
+        url: 'https://example.com/download/jailer-1080p'
+      },
+      {
+        quality: '720p',
+        size: '1.1 GB',
+        url: 'https://example.com/download/jailer-720p'
+      }
+    ]
+  },
+    id: '5',
     title: 'Jailer',
     description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
     posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
