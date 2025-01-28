@@ -12,54 +12,87 @@ import type { Movie } from './types';
 
 // Sample data
 const latestMovies: Movie[] = [
-  {
-    id: '1',
-    title: 'Stranger Things S01',
-    description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
-    posterUrl: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWPh6PeuTgtO_Zzmap6eXJrwBro7Rpz-VOBSqo_7j1-CW9rmEhD0fGArmbXSoWphgcr4ml',
-    year: 2016,
-    genre: ['Horror', 'Drama', 'Fantasy'],
-    director: ['Matt Duffer', 'Shawn Levy'],
-    cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
-    rating: 8.7,
-    duration: '42m - 55m',
-    quality: ['1080p', 'AV1', 'HEVC'],
-    audio: ['Tamil', 'Telugu', 'Hindi', 'English'],
-    downloads: 150,
-    likes: 250,
+        {
+    id: '6',
+    title: 'Hisaab Barabar',
+    description: 'Hisaab Barabar (2025) 1080p [H.265 - 1.55 GB | H.264 - 2.11 GB] 720p [H.265 - 1.25 GB | H.264 - 1.46 GB] 🎧 Tamil | Telugu | Hindi (AAC 2.0 @ 248 kb/s) 📄 ESubs - GDRIVE',
+    posterUrl: 'https://assets.gadgets360cdn.com/pricee/assets/product/202501/Hisaab_Barabar_Poster_1_1736768897.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    cast: ['R Madhavan', 'Neil Nitin Mukesh', 'Rashmi Desai', 'Kirti Kulhari'],
+    rating: 4.5,
+    duration: '1h 51m',
+    quality: ['1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 15,
+    likes: 25,
     channelName: 'Tamilpasanga',
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
       {
-        quality: '1080p HEVC GDFLIX',
-        size: '13.48 GB',
-        url: 'https://gplinks.co/1V3a3D'
+        quality: '1080p',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/BE6iH'
       },
       {
-        quality: '1080p HEVC GDTOT',
-        size: '13.48 GB',
-        url: 'https://gplinks.co/aUAC4'
+        quality: '1080p',
+        size: '1.55 GB',
+        url: 'https://gplinks.co/Jsud'
       },
       {
-        quality: '1080p AV1 GDTOT',
-        size: '6.42 GB',
-        url: 'https://gplinks.co/Hczs2N4J'
-             },
+        quality: '720p',
+        size: '1.46 GB',
+        url: 'https://gplinks.co/MH6SaPyX'        
+      },
       {
-        quality: '1080p AV1 GDFLIX',
-        size: '6.42 GB',
-        url: 'https://gplinks.co/4niDbFvG'
+        quality: '720p',
+        size: '1.25 GB',
+        url: 'https://gplinks.co/2IJT8TIW'
       }
     ]
   },
-    {
-    id: '2',
-    title: 'Stranger Things S02',
+  {
+    id: '5',
+    title: 'Thiru Manickam',
+    description: 'Thiru Manickam - 2024 2160p | 1080p | 720p [ H.265 - 2.66 GB | 1.57 GB | 1.13 GB ] 🎧 Tamil | Hindi | Telugu | Dolby Digital Plus 5.1 @ 640 kb/s 📄 ESubs  - GDRIVE',
+    posterUrl: 'https://media.assettype.com/cinemaexpress%2Fimport%2Fuploads%2Fuser%2Fckeditor_images%2Farticle%2F2024%2F1%2F1%2F3aa7878c-182d-48b7-bd50-09bd15b0c089.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
+    rating: 4.5,
+    duration: '2h 48m',
+    quality: ['2160p', '1080p', '720p'],
+    audio: ['Tamil', 'Telugu', 'Hindi'],
+    downloads: 15,
+    likes: 25,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p',
+        size: '2.66 GB',
+        url: 'https://gplinks.co/j4Ler'
+      },
+      {
+        quality: '1080p',
+        size: '1.57 GB',
+        url: 'https://gplinks.co/u4ERZwG'
+      },
+      {
+        quality: '720p',
+        size: '1.13 GB',
+        url: 'https://gplinks.co/gOVj4w'
+      }
+    ]
+  },
+          {
+    id: '4',
+    title: 'Stranger Things S04',
     description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
-    posterUrl: 'https://www.techoffside.com/wp-content/uploads/2017/11/Stranger-things-season-2.jpg',
-    year: 2017,
+    posterUrl: 'https://es.web.img2.acsta.net/c_310_420/pictures/22/05/14/13/26/5638861.jpg',
+    year: 2022,
     genre: ['Horror', 'Drama', 'Fantasy'],
-    director: ['Ross Duffer', 'Andrew Stanton'],
+    director: ['Rebecca Thomas', 'Frank Darabont'],
     cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
     rating: 8.7,
     duration: '42m - 55m',
@@ -72,23 +105,23 @@ const latestMovies: Movie[] = [
     downloadLinks: [
       {
         quality: '1080p HEVC GDFLIX',
-        size: '16.69 GB',
-        url: 'https://gplinks.co/B8FwEjy'
+        size: '33.06 GB',
+        url: 'https://gplinks.co/4niDbFvG'
       },
       {
         quality: '1080p HEVC GDTOT',
-        size: '16.69 GB',
-        url: 'https://gplinks.co/Cwfiq'
+        size: '33.06 GB',
+        url: 'https://gplinks.co/Hczs2N4J'
       },
       {
         quality: '1080p AV1 GDTOT',
-        size: '7.61 GB',
-        url: 'https://gplinks.co/FQYi'
+        size: '14.41 GB',
+        url: 'https://gplinks.co/YjhPqN'
              },
       {
         quality: '1080p AV1 GDFLIX',
-        size: '7.61 GB',
-        url: 'https://gplinks.co/0fgtjj'
+        size: '14.41 GB',
+        url: 'https://gplinks.co/MTHV9idN'
       }
     ]
   },
@@ -131,15 +164,15 @@ const latestMovies: Movie[] = [
         url: 'https://gplinks.co/X3O1T'
       }
     ]
-  },
-        {
-    id: '4',
-    title: 'Stranger Things S04',
+  },  
+    {
+    id: '2',
+    title: 'Stranger Things S02',
     description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
-    posterUrl: 'https://es.web.img2.acsta.net/c_310_420/pictures/22/05/14/13/26/5638861.jpg',
-    year: 2022,
+    posterUrl: 'https://www.techoffside.com/wp-content/uploads/2017/11/Stranger-things-season-2.jpg',
+    year: 2017,
     genre: ['Horror', 'Drama', 'Fantasy'],
-    director: ['Rebecca Thomas', 'Frank Darabont'],
+    director: ['Ross Duffer', 'Andrew Stanton'],
     cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
     rating: 8.7,
     duration: '42m - 55m',
@@ -152,23 +185,63 @@ const latestMovies: Movie[] = [
     downloadLinks: [
       {
         quality: '1080p HEVC GDFLIX',
-        size: '33.06 GB',
-        url: 'https://gplinks.co/4niDbFvG'
+        size: '16.69 GB',
+        url: 'https://gplinks.co/B8FwEjy'
       },
       {
         quality: '1080p HEVC GDTOT',
-        size: '33.06 GB',
-        url: 'https://gplinks.co/Hczs2N4J'
+        size: '16.69 GB',
+        url: 'https://gplinks.co/Cwfiq'
       },
       {
         quality: '1080p AV1 GDTOT',
-        size: '14.41 GB',
-        url: 'https://gplinks.co/YjhPqN'
+        size: '7.61 GB',
+        url: 'https://gplinks.co/FQYi'
              },
       {
         quality: '1080p AV1 GDFLIX',
-        size: '14.41 GB',
-        url: 'https://gplinks.co/MTHV9idN'
+        size: '7.61 GB',
+        url: 'https://gplinks.co/0fgtjj'
+      }
+    ]
+  },  
+  {
+    id: '1',
+    title: 'Stranger Things S01',
+    description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
+    posterUrl: 'https://img.rgstatic.com/content/show/244c3e6a-0057-4354-b535-8b52fd83c3e1/poster-342.jpg',
+    year: 2016,
+    genre: ['Horror', 'Drama', 'Fantasy'],
+    director: ['Matt Duffer', 'Shawn Levy'],
+    cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
+    rating: 8.7,
+    duration: '42m - 55m',
+    quality: ['1080p', 'AV1', 'HEVC'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English'],
+    downloads: 150,
+    likes: 250,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p HEVC GDFLIX',
+        size: '13.48 GB',
+        url: 'https://gplinks.co/1V3a3D'
+      },
+      {
+        quality: '1080p HEVC GDTOT',
+        size: '13.48 GB',
+        url: 'https://gplinks.co/aUAC4'
+      },
+      {
+        quality: '1080p AV1 GDTOT',
+        size: '6.42 GB',
+        url: 'https://gplinks.co/Hczs2N4J'
+             },
+      {
+        quality: '1080p AV1 GDFLIX',
+        size: '6.42 GB',
+        url: 'https://gplinks.co/4niDbFvG'
       }
     ]
   }
@@ -177,79 +250,6 @@ const latestMovies: Movie[] = [
 
 const allMovies = [
   ...latestMovies,
-      {
-    id: '8',
-    title: 'Hisaab Barabar',
-    description: 'Hisaab Barabar (2025) 1080p [H.265 - 1.55 GB | H.264 - 2.11 GB] 720p [H.265 - 1.25 GB | H.264 - 1.46 GB] 🎧 Tamil | Telugu | Hindi (AAC 2.0 @ 248 kb/s) 📄 ESubs - GDRIVE',
-    posterUrl: 'https://assets.gadgets360cdn.com/pricee/assets/product/202501/Hisaab_Barabar_Poster_1_1736768897.jpg',
-    year: 2024,
-    genre: ['Action', 'Drama', 'Thriller'],
-    cast: ['R Madhavan', 'Neil Nitin Mukesh', 'Rashmi Desai', 'Kirti Kulhari'],
-    rating: 4.5,
-    duration: '1h 51m',
-    quality: ['1080p', '720p'],
-    audio: ['Tamil', 'Telugu', 'Hindi'],
-    downloads: 15,
-    likes: 25,
-    channelName: 'Tamilpasanga',
-    channelLink: 'https://t.me/Tamil_New_Movies_4K',
-    downloadLinks: [
-      {
-        quality: '1080p',
-        size: '2.11 GB',
-        url: 'https://gplinks.co/BE6iH'
-      },
-      {
-        quality: '1080p',
-        size: '1.55 GB',
-        url: 'https://gplinks.co/Jsud'
-      },
-      {
-        quality: '720p',
-        size: '1.46 GB',
-        url: 'https://gplinks.co/MH6SaPyX'        
-      },
-      {
-        quality: '720p',
-        size: '1.25 GB',
-        url: 'https://gplinks.co/2IJT8TIW'
-      }
-    ]
-  },
-  {
-    id: '7',
-    title: 'Thiru Manickam',
-    description: 'Thiru Manickam - 2024 2160p | 1080p | 720p [ H.265 - 2.66 GB | 1.57 GB | 1.13 GB ] 🎧 Tamil | Hindi | Telugu | Dolby Digital Plus 5.1 @ 640 kb/s 📄 ESubs  - GDRIVE',
-    posterUrl: 'https://media.assettype.com/cinemaexpress%2Fimport%2Fuploads%2Fuser%2Fckeditor_images%2Farticle%2F2024%2F1%2F1%2F3aa7878c-182d-48b7-bd50-09bd15b0c089.jpg',
-    year: 2024,
-    genre: ['Action', 'Drama', 'Thriller'],
-    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
-    rating: 4.5,
-    duration: '2h 48m',
-    quality: ['2160p', '1080p', '720p'],
-    audio: ['Tamil', 'Telugu', 'Hindi'],
-    downloads: 15,
-    likes: 25,
-    channelName: 'Tamilpasanga',
-    channelLink: 'https://t.me/Tamil_New_Movies_4K',
-    downloadLinks: [
-      {
-        quality: '2160p',
-        size: '2.66 GB',
-        url: 'https://gplinks.co/j4Ler'
-      },
-      {
-        quality: '1080p',
-        size: '1.57 GB',
-        url: 'https://gplinks.co/u4ERZwG'
-      },
-      {
-        quality: '720p',
-        size: '1.13 GB',
-        url: 'https://gplinks.co/gOVj4w'
-      }
-    ]
-  },
   {
     id: '6',
     title: 'Captain Miller',
