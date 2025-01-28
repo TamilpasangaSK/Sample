@@ -13,6 +13,166 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+    id: '8',
+    title: 'Sweet Strawberries S01',
+    description: 'Sweet Strawberries - Season 1 (2024) follows a heartfelt journey through love, drama, and the complexities of relationships in the modern world. Set against vibrant backgrounds, it explores emotional depth, humor, and the beauty of life's simple moments.',
+    posterUrl: 'https://qqcdnpictest.mxplay.com/pic/1ab3b367e7376e615dd1c9b055f95395/en/16x9/1600x900/test_pic1735541481107.jpg',
+    year: 2024,
+    genre: ['Comedy', 'Drama', 'Romance'],
+    director: ['Jesús Colmenar', 'Frank Darabont', 'Koldo Serra', 'Alejandro Bazzano', 'Javier Quintas'],
+    cast: ['Álvaro Morte', 'Úrsula Corberó', 'Itziar Ituño', 'Pedro Alonso'],
+    rating: 8.5,
+    duration: '50m - 60m',
+    quality: ['1080p', 'AV1', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Portuguese', 'DDP 2.0'],
+    downloads: 150,
+    likes: 250,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264 GDFLIX',
+        size: '71.93 GB',
+        "url": 'https://gplinks.co/vqAJdyd'
+      },
+      {
+        quality: '1080p H.264 HUBCLOUD',
+        size: '71.93 GB',
+        url: 'https://gplinks.co/WABBs'
+      },
+      {
+        quality: '1080p H.265 GDFLIX',
+        size: '38.69 GB',
+        url: 'https://gplinks.co/5AS1m'
+      },
+      {
+        quality: '1080p H.265 HUBCLOUD',
+        size: '38.69 GB',
+        url: 'https://gplinks.co/Q1AHyjC3'
+      },
+      {
+        quality: '720p H.264 GDFLIX',
+        size: '32.37 GB',
+        url: 'https://gplinks.co/6QMf7'
+      },
+      {
+        quality: '720p H.264 HUBCLOUD',
+        size: '32.37 GB',
+        url: 'https://gplinks.co/W2h2zPHS'
+      },
+      {
+        quality: '720p H.265 GDFLIX',
+        size: '12.68 GB',
+        url: 'https://gplinks.co/MdrLR'
+      },
+      {
+        quality: '720p H.265 HUBCLOUD',
+        size: '12.68 GB',
+        url: 'https://gplinks.co/NDwMAh'
+      },
+      {
+        quality: 'S01-E01',
+        size: '3.67 GB',
+        url: 'https://gplinks.co/SDTdV2WW'
+      },
+      {
+        quality: 'S01-E02',
+        size: '3.54 GB',
+        url: 'https://gplinks.co/d0sKm12'
+      },
+      {
+        quality: 'S01-E03',
+        size: '3.55 GB',
+        url: 'https://gplinks.co/TtryhN3p'
+      },
+      {
+        quality: 'S01-E04',
+        size: '3.67 GB',
+        url: 'https://gplinks.co/Xm9nRTk7'
+      },
+      {
+        quality: 'S01-E05',
+        size: '3.52 GB',
+        url: 'https://gplinks.co/vY9ObcKZ'
+      },
+      {
+        quality: 'S01-E06',
+        size: '3.87 GB',
+        url: 'https://gplinks.co/ifjh15'
+      },
+      {
+        quality: 'S01-E07',
+        size: '3.85 GB',
+        url: 'https://gplinks.co/p8ru9'
+      },
+      {
+        quality: 'S01-E08',
+        size: '3.41 GB',
+        url: 'https://gplinks.co/gBfudAJV'
+      },
+      {
+        quality: 'S01-E09',
+        size: '3.31 GB',
+        url: 'https://gplinks.co/0b8X1kd'
+      },
+      {
+        quality: 'S01-E10',
+        size: '3.8 GB',
+        url: 'https://gplinks.co/Dxt61Hr'
+      },
+      {
+        quality: 'S01-E11',
+        size: '3.89 GB',
+        url: 'https://gplinks.co/P9kizRG'
+      },
+      {
+        quality: 'S01-E12',
+        size: '3.18 GB',
+        url: 'https://gplinks.co/XWo1w'
+      },
+      {
+        quality: 'S01-E13',
+        size: '3.01 GB',
+        url: 'https://gplinks.co/iAQPC'
+      },
+      {
+        quality: 'S01-E14',
+        size: '3.52 GB',
+        url: 'https://gplinks.co/KSZBTO'
+      },
+      {
+        quality: 'S01-E15',
+        size: '3.78 GB',
+        url: 'https://gplinks.co/aOhE'
+      },
+      {
+        quality: 'S01-E16',
+        size: '3.72 GB',
+        url: 'https://gplinks.co/O5AwN'
+      },
+      {
+        quality: 'S01-E17',
+        size: '3.57 GB',
+        url: 'https://gplinks.co/mOpvB2Mm'
+      },
+      {
+        quality: 'S01-E18',
+        size: '3.41 GB',
+        url: 'https://gplinks.co/UJy8UnjS'
+      },
+      {
+        quality: 'S01-E19',
+        size: '4.07 GB',
+        url: 'https://gplinks.co/YzvDtay3'
+      },
+      {
+        quality: 'S01-E20',
+        size: '3.63 GB',
+        url: 'https://gplinks.co/LZ8CWj'
+      }
+    ]
+  },
+    {
     id: '7',
     title: 'Money Heist S01 - S05',
     description: 'Money Heist - S01 - S05 (2017-2021)  1080p - [ AV1 - 7.68 GB | 5.14 GB | 5.20 GB | 5.03 GB | 7.09 GB ] - Tamil, Telugu, English, Spanish (DDP 5.1 @ 640kb/s) - 📄 MSubs',
