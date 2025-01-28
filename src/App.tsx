@@ -49,8 +49,7 @@ const latestMovies: Movie[] = [
         quality: 'S04',
         size: '5.03 GB',
         url: 'https://gplinks.co/k7ErZb'
-      }
-                         },
+              },
       {
         quality: 'S05',
         size: '7.09 GB',
