@@ -13,52 +13,6 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
 {
-    id: '7',
-    title: 'Money Heist S01 - S05',
-    description: 'Money Heist : S01 - S05 (2017-2021)  1080p - [ AV1 - 7.68 GB | 5.14 GB | 5.20 GB | 5.03 GB | 7.09 GB ] - Tamil, Telugu, English, Spanish (DDP 5.1 @ 640kb/s) - 📄 MSubs',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
-    year: 2021,
-    genre: ['Horror', 'Drama', 'Fantasy'],
-    director: ['Jesús Colmenar', 'Frank Darabont', 'Koldo Serra', 'Alejandro Bazzano', 'Javier Quintas'],
-    cast: ['Álvaro Morte', 'Úrsula Corberó', 'Itziar Ituño', 'Pedro Alonso'],
-    rating: 9.3,
-    duration: '42m - 55m',
-    quality: ['1080p', 'AV1'],
-    audio: ['Tamil', 'Telugu', 'Spanish', 'English', 'DDP 2.0'],
-    downloads: 150,
-    likes: 250,
-    channelName: 'Tamilpasanga',
-    channelLink: 'https://t.me/Tamil_New_Movies_4K',
-    downloadLinks: [
-      {
-        quality: 'S01 ',
-        size: '7.68 GB',
-        url: 'https://gplinks.co/T0i9'
-      },
-      {
-        quality: 'S02',
-        size: '5.14 GB',
-        url: 'https://gplinks.co/GkbmU'
-      },
-      {
-        quality: 'S03',
-        size: '5.21 GB',
-        url: 'https://gplinks.co/L5T8br7p'
-             },
-      {
-        quality: 'S04',
-        size: '5.03 GB',
-        url: 'https://gplinks.co/k7ErZb'
-      }
-                         },
-      {
-        quality: 'S05',
-        size: '7.09 GB',
-        url: 'https://gplinks.co/g5PAaL06'
-      }
-    ]
-  },
-{
     id: '6',
     title: 'Hisaab Barabar',
     description: 'Hisaab Barabar (2025) 1080p [H.265 - 1.55 GB | H.264 - 2.11 GB] 720p [H.265 - 1.25 GB | H.264 - 1.46 GB] 🎧 Tamil | Telugu | Hindi (AAC 2.0 @ 248 kb/s) 📄 ESubs - GDRIVE',
