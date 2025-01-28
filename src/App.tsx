@@ -14,12 +14,12 @@ import type { Movie } from './types';
 const latestMovies: Movie[] = [
   {
     id: '1',
-    title: 'Stranger Things',
+    title: 'Stranger Things S01',
     description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
     posterUrl: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWPh6PeuTgtO_Zzmap6eXJrwBro7Rpz-VOBSqo_7j1-CW9rmEhD0fGArmbXSoWphgcr4ml',
     year: 2016,
     genre: ['Horror', 'Drama', 'Fantasy'],
-    director: 'Nelson Dilipkumar',
+    director: ['Matt Duffer', 'Shawn Levy'],
     cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
     rating: 8.7,
     duration: '42m - 55m',
@@ -46,148 +46,132 @@ const latestMovies: Movie[] = [
         url: 'https://gplinks.co/Hczs2N4J'
              },
       {
-        quality: '1080p AV1 GDRIVE',
+        quality: '1080p AV1 GDFLIX',
         size: '6.42 GB',
         url: 'https://gplinks.co/4niDbFvG'
       }
     ]
   },
+    {
     id: '2',
-    title: 'Jailer',
-    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
-    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    year: 2023,
-    genre: ['Action', 'Drama', 'Thriller'],
-    director: 'Nelson Dilipkumar',
-    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
-    rating: 4.5,
-    duration: '2h 48m',
-    quality: ['4K HDR', '1080p', '720p'],
-    audio: ['Tamil', 'Telugu', 'Hindi'],
-    downloads: 150000,
-    likes: 25000,
-    channelName: 'TamilRockers',
-    channelLink: 'https://example.com/tamilrockers',
+    title: 'Stranger Things S02',
+    description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
+    posterUrl: 'https://www.techoffside.com/wp-content/uploads/2017/11/Stranger-things-season-2.jpg',
+    year: 2017,
+    genre: ['Horror', 'Drama', 'Fantasy'],
+    director: ['Ross Duffer', 'Andrew Stanton'],
+    cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
+    rating: 8.7,
+    duration: '42m - 55m',
+    quality: ['1080p', 'AV1', 'HEVC'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English'],
+    downloads: 150,
+    likes: 250,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
       {
-        quality: '4K HDR',
-        size: '8.5 GB',
-        url: 'https://example.com/download/jailer-4k'
+        quality: '1080p HEVC GDFLIX',
+        size: '16.69 GB',
+        url: 'https://gplinks.co/B8FwEjy'
       },
       {
-        quality: '1080p',
-        size: '2.1 GB',
-        url: 'https://example.com/download/jailer-1080p'
+        quality: '1080p HEVC GDTOT',
+        size: '16.69 GB',
+        url: 'https://gplinks.co/Cwfiq'
       },
       {
-        quality: '720p',
-        size: '1.1 GB',
-        url: 'https://example.com/download/jailer-720p'
+        quality: '1080p AV1 GDTOT',
+        size: '7.61 GB',
+        url: 'https://gplinks.co/FQYi'
+             },
+      {
+        quality: '1080p AV1 GDFLIX',
+        size: '7.61 GB',
+        url: 'https://gplinks.co/0fgtjj'
       }
     ]
   },
+      {
     id: '3',
-    title: 'Jailer',
-    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
-    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    year: 2023,
-    genre: ['Action', 'Drama', 'Thriller'],
-    director: 'Nelson Dilipkumar',
-    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
-    rating: 4.5,
-    duration: '2h 48m',
-    quality: ['4K HDR', '1080p', '720p'],
-    audio: ['Tamil', 'Telugu', 'Hindi'],
-    downloads: 150000,
-    likes: 25000,
-    channelName: 'TamilRockers',
-    channelLink: 'https://example.com/tamilrockers',
+    title: 'Stranger Things S03',
+    description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
+    posterUrl: 'https://cdn1-production-images-kly.akamaized.net/3mCRc5_PPOsvKRBtoPimokMdbuk=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2845137/original/008089400_1562293837-Foto_17_-_Poster_Utama_Stranger_Things_3.jpg',
+    year: 2019,
+    genre: ['Horror', 'Drama', 'Fantasy'],
+    director: ['Uta Briesewitz', 'Nimród Antal'],
+    cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
+    rating: 8.7,
+    duration: '42m - 55m',
+    quality: ['1080p', 'AV1', 'HEVC'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English'],
+    downloads: 150,
+    likes: 250,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
       {
-        quality: '4K HDR',
-        size: '8.5 GB',
-        url: 'https://example.com/download/jailer-4k'
+        quality: '1080p HEVC GDFLIX',
+        size: '20.44 GB',
+        url: 'https://gplinks.co/gx5cF0I'
       },
       {
-        quality: '1080p',
-        size: '2.1 GB',
-        url: 'https://example.com/download/jailer-1080p'
+        quality: '1080p HEVC GDTOT',
+        size: '20.44 GB',
+        url: 'https://gplinks.co/Hczs2N4J'
       },
       {
-        quality: '720p',
-        size: '1.1 GB',
-        url: 'https://example.com/download/jailer-720p'
+        quality: '1080p AV1 GDTOT',
+        size: '10.13 GB',
+        url: 'https://gplinks.co/9CymOz'
+             },
+      {
+        quality: '1080p AV1 GDFLIX',
+        size: '10.13 GB',
+        url: 'https://gplinks.co/X3O1T'
       }
     ]
   },
+        {
     id: '4',
-    title: 'Jailer',
-    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
-    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    year: 2023,
-    genre: ['Action', 'Drama', 'Thriller'],
-    director: 'Nelson Dilipkumar',
-    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
-    rating: 4.5,
-    duration: '2h 48m',
-    quality: ['4K HDR', '1080p', '720p'],
-    audio: ['Tamil', 'Telugu', 'Hindi'],
-    downloads: 150000,
-    likes: 25000,
-    channelName: 'TamilRockers',
-    channelLink: 'https://example.com/tamilrockers',
+    title: 'Stranger Things S04',
+    description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
+    posterUrl: 'https://es.web.img2.acsta.net/c_310_420/pictures/22/05/14/13/26/5638861.jpg',
+    year: 2022,
+    genre: ['Horror', 'Drama', 'Fantasy'],
+    director: ['Rebecca Thomas', 'Frank Darabont'],
+    cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
+    rating: 8.7,
+    duration: '42m - 55m',
+    quality: ['1080p', 'AV1', 'HEVC'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English'],
+    downloads: 150,
+    likes: 250,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
       {
-        quality: '4K HDR',
-        size: '8.5 GB',
-        url: 'https://example.com/download/jailer-4k'
+        quality: '1080p HEVC GDFLIX',
+        size: '33.06 GB',
+        url: 'https://gplinks.co/4niDbFvG'
       },
       {
-        quality: '1080p',
-        size: '2.1 GB',
-        url: 'https://example.com/download/jailer-1080p'
+        quality: '1080p HEVC GDTOT',
+        size: '33.06 GB',
+        url: 'https://gplinks.co/Hczs2N4J'
       },
       {
-        quality: '720p',
-        size: '1.1 GB',
-        url: 'https://example.com/download/jailer-720p'
+        quality: '1080p AV1 GDTOT',
+        size: '14.41 GB',
+        url: 'https://gplinks.co/YjhPqN'
+             },
+      {
+        quality: '1080p AV1 GDFLIX',
+        size: '14.41 GB',
+        url: 'https://gplinks.co/MTHV9idN'
       }
     ]
-  },
-    id: '5',
-    title: 'Jailer',
-    description: 'A retired jailer goes on a manhunt to find his son\'s killers.',
-    posterUrl: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    year: 2023,
-    genre: ['Action', 'Drama', 'Thriller'],
-    director: 'Nelson Dilipkumar',
-    cast: ['Rajinikanth', 'Mohanlal', 'Jackie Shroff'],
-    rating: 4.5,
-    duration: '2h 48m',
-    quality: ['4K HDR', '1080p', '720p'],
-    audio: ['Tamil', 'Telugu', 'Hindi'],
-    downloads: 150000,
-    likes: 25000,
-    channelName: 'TamilRockers',
-    channelLink: 'https://example.com/tamilrockers',
-    downloadLinks: [
-      {
-        quality: '4K HDR',
-        size: '8.5 GB',
-        url: 'https://example.com/download/jailer-4k'
-      },
-      {
-        quality: '1080p',
-        size: '2.1 GB',
-        url: 'https://example.com/download/jailer-1080p'
-      },
-      {
-        quality: '720p',
-        size: '1.1 GB',
-        url: 'https://example.com/download/jailer-720p'
-      }
-    ]
-  },
+  }
     // ... (keep other movie data)
 ];
 
