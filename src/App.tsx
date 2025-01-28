@@ -12,12 +12,12 @@ import type { Movie } from './types';
 
 // Sample data
 const latestMovies: Movie[] = [
-          {
+{
     id: '7',
     title: 'Money Heist S01 - S05',
     description: 'Money Heist : S01 - S05 (2017-2021)  1080p - [ AV1 - 7.68 GB | 5.14 GB | 5.20 GB | 5.03 GB | 7.09 GB ] - Tamil, Telugu, English, Spanish (DDP 5.1 @ 640kb/s) - 📄 MSubs',
     posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
-    year: 2017 - 2021,
+    year: ['2017', '-2021'],
     genre: ['Horror', 'Drama', 'Fantasy'],
     director: ['Jesús Colmenar', 'Frank Darabont', 'Koldo Serra', 'Alejandro Bazzano', 'Javier Quintas'],
     cast: ['Álvaro Morte', 'Úrsula Corberó', 'Itziar Ituño', 'Pedro Alonso'],
