@@ -13,6 +13,211 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+  id: '28',
+  title: 'Thangalaan - 2024',
+  description: 'Thangalaan (2024) 2160p, 1080p, and 720p - [ H.265 - 13.43 GB | H.264 - 6.49 GB | AV1 - 3.99 GB ] - Tamil, Hindi (DDP 5.1 @ 640kb/s, AAC 5.1) - 📄 ESubs',
+  posterUrl: 'https://img.awafim.tv/images/dzwG2v3JOWx1.webp',
+  year: 2024,
+  genre: ['Action', 'Drama'],
+  director: ['Pa. Ranjith'],
+  cast: ['Vikram', 'Parvathy Thiruvothu', 'Pasupathy'],
+  rating: 8.0,
+  duration: '2h 30m',
+  quality: ['2160p', '1080p', '720p', 'H.264', 'H.265', 'AV1'],
+  audio: ['Tamil', 'Hindi', 'AAC 5.1', 'DDP 5.1'],
+  downloads: 1200,
+  likes: 1500,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '2160p - Dual - H.265 - HUBCLOUD',
+      size: '13.43 GB',
+      url: 'https://gplinks.co/dvvB0YT'
+    },
+          {
+      quality: '2160p - Dual - H.265 - GDTOT',
+      size: '13.43 GB',
+      url: 'https://gplinks.co/DgfRXO'
+    },
+    {
+      quality: '1080p - Dual - H.264 - GDFLIX',
+      size: '6.49 GB',
+      url: 'https://gplinks.co/xHwpGg'
+    },
+          {
+      quality: '1080p - Dual - H.264 - GDTOT',
+      size: '6.49 GB',
+      url: 'https://gplinks.co/RJWV'
+    },
+    {
+      quality: '1080p - Dual - H.265- GDFLIX',
+      size: '5.48 GB',
+      url: 'https://gplinks.co/d1j0mM'
+    },
+          {
+      quality: '1080p - Dual - H.265 - GDTOT',
+      size: '5.48 GB',
+      url: 'https://gplinks.co/iuqSCLD'
+    },
+    {
+      quality: '1080p - Dual - AV1 - GDFLIX',
+      size: '3.99 GB',
+      url: 'https://gplinks.co/ymfACxxU'
+    },
+    {
+      quality: '1080p - Dual - AV1 - GDFLIX',
+      size: '3.06 GB',
+      url: 'https://gplinks.co/XqsOeB'
+    },
+    {
+      quality: '720p - Dual - H.264 - GDFLIX',
+      size: '3.88 GB',
+      url: 'https://gplinks.co/XzxaP'
+    },
+    {
+      quality: '720p - Dual - AV1 - GDFLIX',
+      size: '1.33 GB',
+      url: 'https://gplinks.co/ha9n'
+    },
+    {
+      quality: '720p - Dual - HEVC - GDFLIX',
+      size: '735.7 MB',
+      url: 'https://gplinks.co/RwEO21lZ'
+    },
+    {
+      quality: '1080p - Tamil - H.264 - GDFLIX',
+      size: '3.83 GB',
+      url: 'https://gplinks.co/hkLedje'
+    },
+    {
+      quality: '1080p - Tamil - AV1 - GDFLIX',
+      size: '3.06 GB',
+      url: 'https://gplinks.co/ta42j'
+    },
+    {
+      quality: '1080p - Tamil - H.265 - GDFLIX',
+      size: '2.54 GB',
+      url: 'https://gplinks.co/kYr0nWc'
+    }
+  ]
+},
+    {
+  id: '27',
+  title: 'Minnal Murali - 2021',
+  description: 'Minnal Murali (2021) 1080p - [ H.264 - 11.2 GB | AV1 - 7.15 GB | 720p - 7.67 GB ] - Tamil, Telugu, Hindi, Malayalam, Kannada, English, Spanish (DDP 5.1 @ 768kb/s, 640kb/s) - 📄 ESubs',
+  posterUrl: 'https://m.media-amazon.com/images/M/MV5BOWY0ZGJiNWYtNTUwMC00YjE4LTg2ODYtMDVjYTEyNTNjMjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
+  year: 2021,
+  genre: ['Action', 'Superhero', 'Drama'],
+  director: ['Basil Joseph'],
+  cast: ['Tovino Thomas', 'Guru Somasundaram', 'Aju Varghese'],
+  rating: 7.6,
+  duration: '2h 21m',
+  quality: ['1080p', '720p', 'H.264', 'AV1'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada', 'English', 'Spanish', 'DDP 5.1'],
+  downloads: 700,
+  likes: 1000,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p - H.264',
+      size: '11.2 GB',
+      url: 'https://gplinks.co/sKMOs1'
+    },
+    {
+      quality: '720p - H.264',
+      size: '7.67 GB',
+      url: 'https://gplinks.co/Io3WWw'
+    },
+    {
+      quality: '1080p - AV1',
+      size: '7.15 GB',
+      url: 'https://gplinks.co/BSoApMW'
+    }
+  ]
+},
+    {
+  id: '26',
+  title: 'Fire Force: Season 2 - 2020',
+  description: 'Fire Force: Season 2 (2020) 1080p - [ H.264 - 25.73 GB | 720p - 13.93 GB ] - Tamil, Telugu, Hindi, English, Japanese (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+  posterUrl: 'https://images.justwatch.com/poster/199469628/s718/season-2.jpg',
+  year: 2020,
+  genre: ['Action', 'Animation', 'Sci-Fi'],
+  director: ['Yuki Yase'],
+  cast: ['Gakuto Kajiwara', 'Kazuya Nakai', 'Aoi Koga'],
+  rating: 8.3,
+  duration: '24m per episode',
+  quality: ['1080p', '720p', 'H.264'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'Japanese', 'DDP 2.0'],
+  downloads: 550,
+  likes: 850,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p - H.264  - GDFLIX',
+      size: '25.73 GB',
+      url: 'https://gplinks.co/0EjAVomM'
+    },
+    {
+      quality: '1080p - H.264- HUBCLOUD',
+      size: '25.73 GB',
+      url: 'https://gplinks.co/2ixh'
+    },
+    {
+      quality: '720p - H.264 - GDFLIX',
+      size: '13.93 GB',
+      url: 'https://gplinks.co/XYYh'
+    },
+    {
+      quality: '720p - H.264- HUBCLOUD',
+      size: '13.93 GB',
+      url: 'https://gplinks.co/Em9xTZM'
+    }
+  ]
+},
+    {
+  id: '25',
+  title: 'Fire Force: Season 1 - 2019',
+  description: 'Fire Force: Season 1 (2019) 1080p - [ H.264 - 23.08 GB | 720p - 12.68 GB ] - Tamil, Telugu, Hindi, English, Japanese (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+  posterUrl: 'https://images.justwatch.com/poster/199469881/s718/season-1.jpg',
+  year: 2019,
+  genre: ['Action', 'Animation', 'Sci-Fi'],
+  director: ['Yuki Yase'],
+  cast: ['Gakuto Kajiwara', 'Kazuya Nakai', 'Aoi Koga'],
+  rating: 8.2,
+  duration: '24m per episode',
+  quality: ['1080p', '720p', 'H.264'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'Japanese', 'DDP 2.0'],
+  downloads: 500,
+  likes: 800,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p - H.264 - GDFLIX',
+      size: '23.08 GB',
+      url: 'https://gplinks.co/nsUv9'
+    },
+    {
+      quality: '1080p - H.264 - HUBCLOUD',
+      size: '23.08 GB',
+      url: 'https://gplinks.co/z2Pi'
+    },
+    {
+      quality: '720p - H.264 - GDFLIX',
+      size: '12.68 GB',
+      url: 'https://gplinks.co/Xhoopjr'
+    },
+    {
+      quality: '720p - H.264- HUBCLOUD',
+      size: '12.68 GB',
+      url: 'https://gplinks.co/ucxTe86v'
+    }
+  ]
+},
+    {
   id: '24',
   title: 'Aadikeshava - 2023',
   description: 'Aadikeshava (2023) 1080p - [ H.264 - 6.1 GB | H.265 - 5.55 GB | AV1 - 5.33 GB ] - Tamil, Telugu, Malayalam (DDP 5.1 @ 640kb/s) - 📄 ESubs',
