@@ -13,6 +13,89 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+    id: '13',
+    title: 'Red Notice (2021)',
+    description: 'Red Notice (2021) 1080p, 720p - [ AV1 - 3.44 GB | 2.16 GB ] [ H.264 - 6.57 GB | 3.07 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 @ 640kb/s) - 📄 ESub',
+    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
+    year: 2021,
+    genre: ['Action', 'Comedy', 'Crime'],
+    director: ['Rawson Marshall Thurber'],
+    cast: ['Dwayne Johnson', 'Gal Gadot', 'Ryan Reynolds'],
+    rating: 6.3,
+    duration: '118m',
+    quality: ['1080p', '720p', 'H.264', 'AV1'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 5.1'],
+    downloads: 210,
+    likes: 320,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '720p AV1',
+        size: '2.16 GB',
+        url: 'https://gplinks.co/gW2nQq'
+      },
+      {
+        quality: '720p H.264',
+        size: '3.07 GB',
+        url: 'https://gplinks.co/w58b4MD'
+      },
+      {
+        quality: '1080p AV1',
+        size: '3.44 GB',
+        url: 'https://gplinks.co/OYeaL'
+      },
+      {
+        quality: '1080p H.264',
+        size: '6.57 GB',
+        url: 'https://gplinks.co/YPqV'
+      }
+    ]
+},
+    {
+    id: '12',
+    title: 'Venom: The Last Dance (2024)',
+    description: 'Venom: The Last Dance (2024) 2160p, 1080p - [ HEVC 10bit - 34.03 GB ] [ AV1 - 1.73 GB ] [ Atmos TrueHD7.1 - 3.64 GB ] [ DDP 5.1 - 3.95 GB ] - Tamil, Hindi, Telugu, English (DDP 5.1, Atmos TrueHD7.1) - 📄 ESub',
+    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
+    year: 2024,
+    genre: ['Action', 'Sci-Fi', 'Thriller'],
+    director: ['Ruben Fleischer'],
+    cast: ['Tom Hardy', 'Michelle Williams', 'Woody Harrelson', 'Naomie Harris'],
+    rating: 7.5,
+    duration: '110m',
+    quality: ['2160p', '1080p', 'HEVC', 'AV1'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 5.1', 'Atmos TrueHD7.1'],
+    downloads: 170,
+    likes: 290,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p BluRay HEVC',
+        size: '34.03 GB',
+        url: 'https://gplinks.co/7rb6Aoa5'
+      },
+      {
+        quality: 'Bonus X-Ray Edition 1080p HEVC',
+        size: '3.95 GB',
+        url: 'https://gplinks.co/DUpP9nwi',
+        alternateUrl: 'https://gplinks.co/joVgm'
+      },
+      {
+        quality: '1080p NF WEB-DL Atmos HEVC',
+        size: '3.64 GB',
+        url: 'https://gplinks.co/mwUFd',
+        alternateUrl: 'https://gplinks.co/DksJJiJe'
+      },
+      {
+        quality: '1080p NF WEB-DL AAC5.1 AV1',
+        size: '1.73 GB',
+        url: 'https://gplinks.co/vb3HNiae',
+        alternateUrl: 'https://gplinks.co/zY4kLlVR'
+      }
+    ]
+},
+    {
     id: '11',
     title: 'Venom: Let There Be Carnage (2021)',
     description: 'Venom: Let There Be Carnage (2021) 1080p, 720p - [ H.264 - 6.32 GB | 3.85 GB ] [ H.265 - 3.2 GB | 2.23 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 @ 640kb/s) - 📄 ESub',
