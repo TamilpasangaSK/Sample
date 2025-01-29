@@ -13,6 +13,46 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+    id: '9',
+    title: 'Khufiya',
+    description: 'Khufiya (2023) 1080p, 720p - [ H.264 - 10.61 GB | 3.69 GB ] [ H.265 - 3.65 GB | 2.51 GB ] - Tamil, Telugu, Hindi (DDP 5.1 @ 640kb/s) - 📄 ESub',
+    posterUrl: 'https://www.hindustantimes.com/ht-img/img/2023/10/05/original/Screenshot_2023-10-05_at_12.13.12_PM_1696488234526.png',
+    year: 2023,
+    genre: ['Thriller', 'Espionage', 'Drama'],
+    director: ['Vishal Bhardwaj'],
+    cast: ['Tabu', 'Ali Fazal', 'Wamiqa Gabbi', 'Ashish Vidyarthi'],
+    rating: 7.5,
+    duration: '157m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'DDP 5.1'],
+    downloads: 120,
+    likes: 200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        size: '10.61 GB',
+        url: 'https://gplinks.co/vJUMV4lU'
+      },
+      {
+        quality: '1080p H.265',
+        size: '3.65 GB',
+        url: 'https://gplinks.co/59WiMSh'
+      },
+      {
+        quality: '720p H.264',
+        size: '3.69 GB',
+        url: 'https://gplinks.co/jXemeS'
+      },
+      {
+        quality: '720p H.265',
+        size: '2.51 GB',
+        url: 'https://gplinks.co/U2Ez4L6'
+      }
+    ]
+},
+    {
     id: '8',
     title: 'Sweet Strawberries S01',
     description: 'Sweet Strawberries - Season 1 (2024) follows a heartfelt journey through love complexities of relationships in the modern world. Set against vibrant backgrounds, it explores emotional depth, humor, and the beauty of life',
