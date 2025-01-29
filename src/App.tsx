@@ -31,12 +31,12 @@ const latestMovies: Movie[] = [
   channelLink: 'https://t.me/Tamil_New_Movies_4K',
   downloadLinks: [
     {
-      quality: 'Full Season - 1080p AMZN WEB-DL MULTI-DDP 2.0 - H.264',
+      quality: '1080p - H.264 - ZIP',
       size: '24.63 GB',
       url: 'https://gplinks.co/2CGTZH'
     },
     {
-      quality: '720p AMZN WEB-DL MULTI-DDP 2.0 - H.264',
+      quality: '720p - H.264 - ZIP',
       size: '13.32 GB',
       url: 'https://gplinks.co/fSuvQoHS'
     },
