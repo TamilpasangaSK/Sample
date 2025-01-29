@@ -13,6 +13,46 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+    id: '10',
+    title: 'My Princess - Season 1',
+    description: 'My Princess - Season 1 (2024) 1080p, 720p - [ H.264 - 80.02 GB | 36.02 GB ] [ H.265 - 54.45 GB | 14.68 GB ] - Tamil, Telugu, Hindi, Korea (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://m.media-amazon.com/images/S/pv-target-images/bfc22e94edb339453694f9b9e05f365de501055180d295c218b0fd1caa5d0511.jpg',
+    year: 2024,
+    genre: ['Romance', 'Drama', 'Comedy'],
+    director: ['Kim Eun-sook'],
+    cast: ['Kim Tae-hee', 'Song Seung-heon', 'Park Ye-jin', 'Ryu Soo-young'],
+    rating: 8.1,
+    duration: '60m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Korean', 'DDP 2.0'],
+    downloads: 100,
+    likes: 180,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        size: '80.02 GB',
+        url: 'https://gplinks.co/ZxEiE'
+      },
+      {
+        quality: '1080p H.265',
+        size: '54.45 GB',
+        url: 'https://gplinks.co/jZxt'
+      },
+      {
+        quality: '720p H.264',
+        size: '36.02 GB',
+        url: 'https://gplinks.co/GRNpOuF'
+      },
+      {
+        quality: '720p H.265',
+        size: '14.68 GB',
+        url: 'https://gplinks.co/bA2mZZ'
+      }
+    ]
+},
+    {
     id: '9',
     title: 'Khufiya',
     description: 'Khufiya (2023) 1080p, 720p - [ H.264 - 10.61 GB | 3.69 GB ] [ H.265 - 3.65 GB | 2.51 GB ] - Tamil, Telugu, Hindi (DDP 5.1 @ 640kb/s) - 📄 ESub',
