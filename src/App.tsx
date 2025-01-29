@@ -13,6 +13,46 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+    id: '11',
+    title: 'Venom: Let There Be Carnage (2021)',
+    description: 'Venom: Let There Be Carnage (2021) 1080p, 720p - [ H.264 - 6.32 GB | 3.85 GB ] [ H.265 - 3.2 GB | 2.23 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 @ 640kb/s) - 📄 ESub',
+    posterUrl: 'https://i0.wp.com/joethemnmovieman.com/wp-content/uploads/2021/10/venom-2-let-there-be-carnage.jpg?fit=1861%2C1050&ssl=1',
+    year: 2021,
+    genre: ['Action', 'Sci-Fi', 'Thriller'],
+    director: ['Andy Serkis'],
+    cast: ['Tom Hardy', 'Woody Harrelson', 'Michelle Williams', 'Naomie Harris'],
+    rating: 6.0,
+    duration: '97m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 5.1'],
+    downloads: 180,
+    likes: 290,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        size: '6.32 GB',
+        url: 'https://gplinks.co/hwK6SmX7'
+      },
+      {
+        quality: '1080p H.265',
+        size: '3.2 GB',
+        url: 'https://gplinks.co/4giN0'
+      },
+      {
+        quality: '720p H.264',
+        size: '3.85 GB',
+        url: 'https://gplinks.co/MXTv5'
+      },
+      {
+        quality: '720p H.265',
+        size: '2.23 GB',
+        url: 'https://gplinks.co/8xFI'
+      }
+    ]
+},
+    {
     id: '10',
     title: 'Venom (2018)',
     description: 'Venom (2018) 1080p, 720p - [ H.264 - 8.36 GB | 4.54 GB ] [ H.265 - 4.4 GB | 2.69 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 @ 640kb/s) - 📄 ESub',
@@ -53,7 +93,7 @@ const latestMovies: Movie[] = [
     ]
 },
     {
-    id: '10',
+    id: '9',
     title: 'My Princess - Season 1',
     description: 'My Princess - Season 1 (2024) 1080p, 720p - [ H.264 - 80.02 GB | 36.02 GB ] [ H.265 - 54.45 GB | 14.68 GB ] - Tamil, Telugu, Hindi, Korea (DDP 2.0 @ 248kb/s) - 📄 ESubs',
     posterUrl: 'https://m.media-amazon.com/images/S/pv-target-images/bfc22e94edb339453694f9b9e05f365de501055180d295c218b0fd1caa5d0511.jpg',
@@ -93,7 +133,7 @@ const latestMovies: Movie[] = [
     ]
 },
     {
-    id: '9',
+    id: '8',
     title: 'Khufiya',
     description: 'Khufiya (2023) 1080p, 720p - [ H.264 - 10.61 GB | 3.69 GB ] [ H.265 - 3.65 GB | 2.51 GB ] - Tamil, Telugu, Hindi (DDP 5.1 @ 640kb/s) - 📄 ESub',
     posterUrl: 'https://www.hindustantimes.com/ht-img/img/2023/10/05/original/Screenshot_2023-10-05_at_12.13.12_PM_1696488234526.png',
@@ -133,7 +173,7 @@ const latestMovies: Movie[] = [
     ]
 },
     {
-    id: '8',
+    id: '7',
     title: 'Sweet Strawberries S01',
     description: 'Sweet Strawberries - Season 1 (2024) follows a heartfelt journey through love complexities of relationships in the modern world. Set against vibrant backgrounds, it explores emotional depth, humor, and the beauty of life',
     posterUrl: 'https://qqcdnpictest.mxplay.com/pic/1ab3b367e7376e615dd1c9b055f95395/en/16x9/1600x900/test_pic1735541481107.jpg',
@@ -293,7 +333,7 @@ const latestMovies: Movie[] = [
     ]
   },
     {
-    id: '7',
+    id: '6',
     title: 'Money Heist S01 - S05',
     description: 'Money Heist - S01 - S05 (2017-2021)  1080p - [ AV1 - 7.68 GB | 5.14 GB | 5.20 GB | 5.03 GB | 7.09 GB ] - Tamil, Telugu, English, Spanish (DDP 5.1 @ 640kb/s) - 📄 MSubs',
     posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
@@ -334,45 +374,6 @@ const latestMovies: Movie[] = [
         quality: 'S05',
         size: '7.09 GB',
         url: 'https://gplinks.co/g5PAaL06'
-      }
-    ]
-  },
-{
-    id: '6',
-    title: 'Hisaab Barabar',
-    description: 'Hisaab Barabar (2025) 1080p [H.265 - 1.55 GB | H.264 - 2.11 GB] 720p [H.265 - 1.25 GB | H.264 - 1.46 GB] 🎧 Tamil | Telugu | Hindi (AAC 2.0 @ 248 kb/s) 📄 ESubs - GDRIVE',
-    posterUrl: 'https://assets.gadgets360cdn.com/pricee/assets/product/202501/Hisaab_Barabar_Poster_1_1736768897.jpg',
-    year: 2024,
-    genre: ['Action', 'Drama', 'Thriller'],
-    cast: ['R Madhavan', 'Neil Nitin Mukesh', 'Rashmi Desai', 'Kirti Kulhari'],
-    rating: 4.5,
-    duration: '1h 51m',
-    quality: ['1080p', '720p'],
-    audio: ['Tamil', 'Telugu', 'Hindi'],
-    downloads: 15,
-    likes: 25,
-    channelName: 'Tamilpasanga',
-    channelLink: 'https://t.me/Tamil_New_Movies_4K',
-    downloadLinks: [
-      {
-        quality: '1080p',
-        size: '2.11 GB',
-        url: 'https://gplinks.co/BE6iH'
-      },
-      {
-        quality: '1080p',
-        size: '1.55 GB',
-        url: 'https://gplinks.co/Jsud'
-      },
-      {
-        quality: '720p',
-        size: '1.46 GB',
-        url: 'https://gplinks.co/MH6SaPyX'        
-      },
-      {
-        quality: '720p',
-        size: '1.25 GB',
-        url: 'https://gplinks.co/2IJT8TIW'
       }
     ]
   },
