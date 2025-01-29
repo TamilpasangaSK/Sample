@@ -13,6 +13,88 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+  id: '15',
+  title: 'Squid Game - [ S02 ]',
+  description: 'Squid Game - [ S02 ] 1080p - [ HEVC 10bit ] [ AV1 - 8.85 GB ] [ Atmos HEVC - 17.01 GB ] [ HDR HEVC - 15.04 GB ] [ DV HEVC - 15.91 GB ] - Tamil, Hindi, Telugu, Korean, English (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+  posterUrl: 'https://iili.io/2eIpbF2.jpg',
+  year: 2021,
+  genre: ['Drama', 'Thriller', 'Action'],
+  director: ['Hwang Dong-hyuk'],
+  cast: ['Lee Jung-jae', 'Park Hae-soo', 'Jung Ho-yeon', 'O Yeong-su'],
+  rating: 8.0,
+  duration: '50m - 60m',
+  quality: ['1080p', 'HEVC', 'AV1', 'HDR', 'DV'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'Korean', 'English', 'DDP 5.1', 'Atmos'],
+  downloads: 300,
+  likes: 450,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC',
+      size: '17.01 GB',
+      url: 'https://gplinks.co/rNCt'
+    },
+    {
+      quality: '1080p NF WEB-DL AAC5.1 AV1',
+      size: '8.85 GB',
+      url: 'https://gplinks.co/OXM6ZCzA'
+    },
+    {
+      quality: '1080p NF WEB-DL DDP5.1 Atmos HDR HEVC',
+      size: '15.04 GB',
+      url: 'https://gplinks.co/yJQGsm'
+    },
+    {
+      quality: '1080p NF WEB-DL DDP5.1 Atmos DV HEVC',
+      size: '15.91 GB',
+      url: 'https://gplinks.co/Wj5d'
+    },
+    {
+      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making',
+      size: '1.16 GB',
+      url: 'https://gplinks.co/w2olqT',
+      alternateUrl: 'https://gplinks.co/Vs7MEcu'
+    },
+    {
+      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making',
+      size: '489.2 MB',
+      url: 'https://gplinks.co/zI3P6VjI',
+      alternateUrl: 'https://gplinks.co/Q375MmQ'
+    }
+  ]
+},
+    {
+    id: '14',
+    title: 'Squid Game - [ S01 ]',
+    description: 'Squid Game - [ S01 ] 1080p - [ HEVC 10bit ] [ AV1 - 7.43 GB ] [ Atmos HEVC - 19.17 GB ] - Tamil, Hindi, Telugu, Korean, English (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+    posterUrl: 'https://iili.io/2eqFGWl.jpg',
+    year: 2021,
+    genre: ['Drama', 'Thriller', 'Action'],
+    director: ['Hwang Dong-hyuk'],
+    cast: ['Lee Jung-jae', 'Park Hae-soo', 'Jung Ho-yeon', 'O Yeong-su'],
+    rating: 8.0,
+    duration: '50m - 60m',
+    quality: ['1080p', 'HEVC'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Korean', 'English', 'DDP 5.1', 'Atmos'],
+    downloads: 300,
+    likes: 450,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC',
+        size: '19.17 GB',
+        url: 'https://gplinks.co/Vr9WK0uM'
+      },
+      {
+        quality: '1080p NF WEB-DL AAC5.1 AV1',
+        size: '7.43 GB',
+        url: 'https://gplinks.co/5p0S'
+      }
+    ]
+},
+    {
     id: '13',
     title: 'Red Notice (2021)',
     description: 'Red Notice (2021) 1080p, 720p - [ AV1 - 3.44 GB | 2.16 GB ] [ H.264 - 6.57 GB | 3.07 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 @ 640kb/s) - 📄 ESub',
@@ -71,27 +153,39 @@ const latestMovies: Movie[] = [
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
       {
-        quality: '2160p BluRay HEVC',
+        quality: '2160p BluRay HEVC - DRIVE',
         size: '34.03 GB',
         url: 'https://gplinks.co/7rb6Aoa5'
       },
       {
-        quality: 'Bonus X-Ray Edition 1080p HEVC',
+        quality: 'Bonus X-Ray Edition 1080p HEVC - FP',
         size: '3.95 GB',
         url: 'https://gplinks.co/DUpP9nwi',
-        alternateUrl: 'https://gplinks.co/joVgm'
+      },
+              {
+        quality: 'Bonus X-Ray Edition 1080p HEVC - GDT',
+        size: '3.95 GB',
+        url: 'https://gplinks.co/joVgm'
       },
       {
-        quality: '1080p NF WEB-DL Atmos HEVC',
+        quality: '1080p NF WEB-DL Atmos HEVC - FP',
         size: '3.64 GB',
         url: 'https://gplinks.co/mwUFd',
-        alternateUrl: 'https://gplinks.co/DksJJiJe'
+      },
+              {
+        quality: '1080p NF WEB-DL Atmos HEVC - GDT',
+        size: '3.64 GB',
+        url: 'https://gplinks.co/DksJJiJe'
       },
       {
-        quality: '1080p NF WEB-DL AAC5.1 AV1',
+        quality: '1080p NF WEB-DL AAC5.1 AV1 - FP',
         size: '1.73 GB',
         url: 'https://gplinks.co/vb3HNiae',
-        alternateUrl: 'https://gplinks.co/zY4kLlVR'
+      },
+              {
+        quality: '1080p NF WEB-DL AAC5.1 AV1 - GDT',
+        size: '1.73 GB',
+        url: 'https://gplinks.co/zY4kLlVR'
       }
     ]
 },
