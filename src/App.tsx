@@ -13,6 +13,116 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+  id: '23',
+  title: 'Theri - 2016',
+  description: 'Theri (2016) Tamil - [ 1080p AVC - 10.3GB | 1080p AVC - 5.5GB | 1080p x264 - 2.7GB | 1080p HEVC x265 - 1.8GB | 720p x264 - 1.4GB | 700MB ] - Tamil (DD+5.1 @ 640kb/s) - 📄 MSUB',
+  posterUrl: 'https://sund-images.sunnxt.com/131380/640x360_Theri_131380_2c3c9b2f-f679-42b9-9f76-77bf70b6589e.jpg',
+  year: 2016,
+  genre: ['Action', 'Drama'],
+  director: ['Atlee'],
+  cast: ['Vijay', 'Samantha Ruth Prabhu', 'Amy Jackson'],
+  rating: 7.8,
+  duration: '2h 39m',
+  quality: ['1080p', '720p', 'x264', 'HEVC', 'AVC'],
+  audio: ['Tamil', 'DD+5.1'],
+  downloads: 450,
+  likes: 600,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p TRUE WEB-DL AVC DD+5.1 (640kbps)',
+      size: '10.3 GB',
+      url: 'https://gplinks.co/9YrycEH'
+    },
+    {
+      quality: '1080p TRUE WEB-DL AVC DD+5.1 (640kbps)',
+      size: '5.5 GB',
+      url: 'https://gplinks.co/60inRTPd'
+    },
+    {
+      quality: '1080p HQ HDRip x264 DD+5.1 (192kbps)',
+      size: '2.7 GB',
+      url: 'https://gplinks.co/2o5T7i'
+    },
+    {
+      quality: '1080p HQ HDRip HEVC x265 DD+5.1 (192kbps)',
+      size: '1.8 GB',
+      url: 'https://gplinks.co/xWyPD'
+    },
+    {
+      quality: '720p HQ HDRip x264 DD+5.1 (192kbps)',
+      size: '1.4 GB',
+      url: 'https://gplinks.co/SSlEh'
+    },
+    {
+      quality: 'HQ HDRip x264 AAC',
+      size: '700 MB',
+      url: 'https://gplinks.co/VRwdxA3'
+    }
+  ]
+},
+    {
+  id: '22',
+  title: 'Wallace and Gromit Vengeance Most Fowl - 2025',
+  description: 'Wallace and Gromit Vengeance Most Fowl (2025) 1080p - [ H.265 - 4.7 GB | H.264 - 4.38 GB | 720p - 2.43 GB | AAC5.1 - 1.12 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 Atmos) - 📄 ESubs',
+  posterUrl: 'https://www.aardman.com/media/q3gdqibg/w-g_vmf_bbc_key_art_16-9_logojpg.jpg?mode=crop&width=1100',
+  year: 2025,
+  genre: ['Animation', 'Adventure'],
+  director: ['Nick Park'],
+  cast: ['Peter Sallis', 'Ralph Fiennes', 'Helena Bonham Carter'],
+  rating: 7.8,
+  duration: '1h 30m',
+  quality: ['1080p', '720p', 'H.264', 'H.265'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 5.1 Atmos', 'AAC5.1'],
+  downloads: 320,
+  likes: 500,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos DV H.265',
+      size: '4.7 GB',
+      url: 'https://gplinks.co/xRUCIdlz'
+    },
+    {
+      quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.264',
+      size: '4.38 GB',
+      url: 'https://gplinks.co/ONfPzrX'
+    },
+    {
+      quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.265',
+      size: '3.29 GB',
+      url: 'https://gplinks.co/W8ucU'
+    },
+    {
+      quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos HDR H.265',
+      size: '3.44 GB',
+      url: 'https://gplinks.co/kuqx6'
+    },
+    {
+      quality: '720p NF WEB-DL MULTI DDP5.1 Atmos H.264',
+      size: '2.43 GB',
+      url: 'https://gplinks.co/4LhyOZ'
+    },
+    {
+      quality: '1080p NF WEB-DL MULTI AAC5.1 AV1',
+      size: '1.12 GB',
+      url: 'https://gplinks.co/b5a7kdQy'
+    },
+    {
+      quality: '720p NF WEB-DL MULTI DDP5.1 Atmos H.265',
+      size: '1.81 GB',
+      url: 'https://gplinks.co/e7O8Wk'
+    },
+    {
+      quality: '720p NF WEB-DL MULTI AAC5.1 AV1',
+      size: '702.5 MB',
+      url: 'https://gplinks.co/ZzhTKnZe'
+    }
+  ]
+},
+    {
   id: '21',
   title: 'Youth - Season 1 - 2025',
   description: 'Youth - Season 1 (2025) 1080p - [ H.264 - 49.57 GB | H.265 - 22.88 GB | 720p - 22.57 GB ] - Tamil, Telugu, Hindi, Mandarin (Chinese) (DDP 2.0 @ 248kb/s) - 📄 ESubs',
