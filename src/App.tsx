@@ -56,7 +56,7 @@ const latestMovies: Movie[] = [
     id: '12',
     title: 'Venom: The Last Dance (2024)',
     description: 'Venom: The Last Dance (2024) 2160p, 1080p - [ HEVC 10bit - 34.03 GB ] [ AV1 - 1.73 GB ] [ Atmos TrueHD7.1 - 3.64 GB ] [ DDP 5.1 - 3.95 GB ] - Tamil, Hindi, Telugu, English (DDP 5.1, Atmos TrueHD7.1) - 📄 ESub',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
+    posterUrl: 'https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_.jpg',
     year: 2024,
     genre: ['Action', 'Sci-Fi', 'Thriller'],
     director: ['Ruben Fleischer'],
