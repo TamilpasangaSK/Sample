@@ -71,122 +71,122 @@ const latestMovies: Movie[] = [
       url: 'https://gplinks.co/vS03sWGl'
     },
     {
-      episode: '01',
+      quality: 'S01-E01',
       size: '2.07 GB',
       url: 'https://gplinks.co/4aeO'
     },
     {
-      episode: '02',
+      quality: 'S01-E02',
       size: '2.44 GB',
       url: 'https://gplinks.co/AeGBqWhJ'
     },
     {
-      episode: '03',
+      quality: 'S01-E03',
       size: '2.08 GB',
       url: 'https://gplinks.co/PFAcb'
     },
     {
-      episode: '04',
+      quality: 'S01-E04',
       size: '2.07 GB',
       url: 'https://gplinks.co/Ddvp5'
     },
     {
-      episode: '05',
+      quality: 'S01-E05',
       size: '1.87 GB',
       url: 'https://gplinks.co/4ahr2H5H'
     },
     {
-      episode: '06',
+      quality: 'S01-E06',
       size: '2.03 GB',
       url: 'https://gplinks.co/o5HNjX'
     },
     {
-      episode: '07',
+      quality: 'S01-E07',
       size: '2.31 GB',
       url: 'https://gplinks.co/hDSCVDG2'
     },
     {
-      episode: '08',
+      quality: 'S01-E08',
       size: '1.89 GB',
       url: 'https://gplinks.co/tahSP'
     },
     {
-      episode: '09',
+      quality: 'S01-E09',
       size: '2 GB',
       url: 'https://gplinks.co/KebjXJ'
     },
     {
-      episode: '10',
+      quality: 'S01-E10',
       size: '2.31 GB',
       url: 'https://gplinks.co/1r9y7Tp4'
     },
     {
-      episode: '11',
+      quality: 'S01-E11',
       size: '2.28 GB',
       url: 'https://gplinks.co/gyM8sq'
     },
     {
-      episode: '12',
+      quality: 'S01-E12',
       size: '2.07 GB',
       url: 'https://gplinks.co/iRWJ'
     },
     {
-      episode: '13',
+      quality: 'S01-E13',
       size: '2.21 GB',
       url: 'https://gplinks.co/k3ZsSx'
     },
     {
-      episode: '14',
+      quality: 'S01-E14',
       size: '2.03 GB',
       url: 'https://gplinks.co/QqmwKG'
     },
     {
-      episode: '15',
+      quality: 'S01-E15',
       size: '2.02 GB',
       url: 'https://gplinks.co/H90e3e'
     },
     {
-      episode: '16',
+      quality: 'S01-E16',
       size: '1.94 GB',
       url: 'https://gplinks.co/RMNoSW'
     },
     {
-      episode: '17',
+      quality: 'S01-E17',
       size: '1.91 GB',
       url: 'https://gplinks.co/uWodLmLG'
     },
     {
-      episode: '18',
+      quality: 'S01-E18',
       size: '2.01 GB',
       url: 'https://gplinks.co/ZC4A7d'
     },
     {
-      episode: '19',
+      quality: 'S01-E19',
       size: '1.87 GB',
       url: 'https://gplinks.co/XKPY'
     },
     {
-      episode: '20',
+      quality: 'S01-E20',
       size: '2 GB',
       url: 'https://gplinks.co/6QxsR'
     },
     {
-      episode: '21',
+      quality: 'S01-E21',
       size: '1.91 GB',
       url: 'https://gplinks.co/NW3ql'
     },
     {
-      episode: '22',
+      quality: 'S01-E22',
       size: '1.88 GB',
       url: 'https://gplinks.co/j4659S'
     },
     {
-      episode: '23',
+      quality: 'S01-E23',
       size: '2.63 GB',
       url: 'https://gplinks.co/6jo71XjP'
     },
     {
-      episode: '24',
+      quality: 'S01-E24',
       size: '1.76 GB',
       url: 'https://gplinks.co/FE96TeE'
     }
