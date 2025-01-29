@@ -13,10 +13,45 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+  id: '24',
+  title: 'Aadikeshava - 2023',
+  description: 'Aadikeshava (2023) 1080p - [ H.264 - 6.1 GB | H.265 - 5.55 GB | AV1 - 5.33 GB ] - Tamil, Telugu, Malayalam (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+  posterUrl: 'https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/6/3/8373364/384908897749.jpg',
+  year: 2023,
+  genre: ['Action', 'Drama'],
+  director: ['Director Name'],
+  cast: ['Actor Name 1', 'Actor Name 2'],
+  rating: 7.5,
+  duration: '2h 20m',
+  quality: ['1080p', 'H.264', 'H.265', 'AV1'],
+  audio: ['Tamil', 'Telugu', 'Malayalam', 'DDP 5.1'],
+  downloads: 150,
+  likes: 220,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p - H.264',
+      size: '6.1 GB',
+      url: 'https://gplinks.co/8WHNb'
+    },
+    {
+      quality: '1080p - H.265',
+      size: '5.55 GB',
+      url: 'https://gplinks.co/t6XLj'
+    },
+    {
+      quality: '1080p - AV1',
+      size: '5.33 GB',
+      url: 'https://gplinks.co/rtN4w'
+    }
+  ]
+},
+    {
   id: '23',
   title: 'Theri - 2016',
   description: 'Theri (2016) Tamil - [ 1080p AVC - 10.3GB | 1080p AVC - 5.5GB | 1080p x264 - 2.7GB | 1080p HEVC x265 - 1.8GB | 720p x264 - 1.4GB | 700MB ] - Tamil (DD+5.1 @ 640kb/s) - 📄 MSUB',
-  posterUrl: 'https://sund-images.sunnxt.com/131380/640x360_Theri_131380_2c3c9b2f-f679-42b9-9f76-77bf70b6589e.jpg',
+  posterUrl: 'https://sund-images.sunnxt.com/131380/1000x1500_Theri_131380_c29949dc-d602-483e-bbbb-f5c8621ce93f.jpg',
   year: 2016,
   genre: ['Action', 'Drama'],
   director: ['Atlee'],
