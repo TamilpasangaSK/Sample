@@ -4,6 +4,8 @@ export interface Movie {
   description: string;
   posterUrl: string;
   year: number;
+  genre: string[];
+  director: string;
   cast: string[];
   rating: number;
   duration: string;
@@ -11,7 +13,6 @@ export interface Movie {
   audio: string[];
   downloads: number;
   likes: number;
-  views: number;
   channelName: string;
   channelLink: string;
   downloadLinks: {
@@ -19,4 +20,11 @@ export interface Movie {
     size: string;
     url: string;
   }[];
+}
+
+export interface User {
+  id: string;
+  name: string;
+  email: string;
+  favorites: string[];
 }
