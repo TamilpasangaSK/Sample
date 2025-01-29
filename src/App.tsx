@@ -13,6 +13,318 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+  id: '21',
+  title: 'Youth - Season 1 - 2025',
+  description: 'Youth - Season 1 (2025) 1080p - [ H.264 - 49.57 GB | H.265 - 22.88 GB | 720p - 22.57 GB ] - Tamil, Telugu, Hindi, Mandarin (Chinese) (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+  posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
+  year: 2025,
+  genre: ['Drama', 'Romance', 'Thriller'],
+  director: ['Jonathan Levine'],
+  cast: ['Zoe Saldana', 'John Boyega', 'Kaitlyn Maher'],
+  rating: 8.1,
+  duration: '45m - 60m per episode',
+  quality: ['1080p', '720p', 'H.264', 'H.265'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'Mandarin', 'DDP 2.0'],
+  downloads: 220,
+  likes: 320,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p AMZN WEB-DL DDP2.0 H.264 - GDFX',
+      size: '49.57 GB',
+      url: 'https://gplinks.co/wBv62WZE'
+    },
+        {
+      quality: '1080p AMZN WEB-DL DDP2.0 H.264 - HCD',
+      size: '49.57 GB',
+      url: 'https://gplinks.co/TpnjGT76'
+    },
+    {
+      quality: '1080p AMZN WEB-DL DDP2.0 H.265 - GDFX',
+      size: '22.88 GB',
+      url: 'https://gplinks.co/OL1fE'
+    },
+        {
+      quality: '1080p AMZN WEB-DL DDP2.0 H.265 - HCD',
+      size: '22.88 GB',
+      url: 'https://gplinks.co/m1WDbjQ'
+    },
+    {
+      quality: '720p AMZN WEB-DL DDP2.0 H.264 - GDFX',
+      size: '22.57 GB',
+      url: 'https://gplinks.co/YqGspb'
+    },
+        {
+      quality: '720p AMZN WEB-DL DDP2.0 H.264 - HCD',
+      size: '22.57 GB',
+      url: 'https://gplinks.co/wh1KvX'
+    },
+    {
+      quality: '720p AMZN WEB-DL DDP2.0 H.265 - GDFX',
+      size: '9 GB',
+      url: 'https://gplinks.co/anPdXn'
+    },
+        {
+      quality: '720p AMZN WEB-DL DDP2.0 H.265 - HCD',
+      size: '9 GB',
+      url: 'https://gplinks.co/vS03sWGl'
+    }
+  ],
+  episodes: [
+    {
+      episode: '01',
+      size: '2.07 GB',
+      url: 'https://gplinks.co/4aeO'
+    },
+    {
+      episode: '02',
+      size: '2.44 GB',
+      url: 'https://gplinks.co/AeGBqWhJ'
+    },
+    {
+      episode: '03',
+      size: '2.08 GB',
+      url: 'https://gplinks.co/PFAcb'
+    },
+    {
+      episode: '04',
+      size: '2.07 GB',
+      url: 'https://gplinks.co/Ddvp5'
+    },
+    {
+      episode: '05',
+      size: '1.87 GB',
+      url: 'https://gplinks.co/4ahr2H5H'
+    },
+    {
+      episode: '06',
+      size: '2.03 GB',
+      url: 'https://gplinks.co/o5HNjX'
+    },
+    {
+      episode: '07',
+      size: '2.31 GB',
+      url: 'https://gplinks.co/hDSCVDG2'
+    },
+    {
+      episode: '08',
+      size: '1.89 GB',
+      url: 'https://gplinks.co/tahSP'
+    },
+    {
+      episode: '09',
+      size: '2 GB',
+      url: 'https://gplinks.co/KebjXJ'
+    },
+    {
+      episode: '10',
+      size: '2.31 GB',
+      url: 'https://gplinks.co/1r9y7Tp4'
+    },
+    {
+      episode: '11',
+      size: '2.28 GB',
+      url: 'https://gplinks.co/gyM8sq'
+    },
+    {
+      episode: '12',
+      size: '2.07 GB',
+      url: 'https://gplinks.co/iRWJ'
+    },
+    {
+      episode: '13',
+      size: '2.21 GB',
+      url: 'https://gplinks.co/k3ZsSx'
+    },
+    {
+      episode: '14',
+      size: '2.03 GB',
+      url: 'https://gplinks.co/QqmwKG'
+    },
+    {
+      episode: '15',
+      size: '2.02 GB',
+      url: 'https://gplinks.co/H90e3e'
+    },
+    {
+      episode: '16',
+      size: '1.94 GB',
+      url: 'https://gplinks.co/RMNoSW'
+    },
+    {
+      episode: '17',
+      size: '1.91 GB',
+      url: 'https://gplinks.co/uWodLmLG'
+    },
+    {
+      episode: '18',
+      size: '2.01 GB',
+      url: 'https://gplinks.co/ZC4A7d'
+    },
+    {
+      episode: '19',
+      size: '1.87 GB',
+      url: 'https://gplinks.co/XKPY'
+    },
+    {
+      episode: '20',
+      size: '2 GB',
+      url: 'https://gplinks.co/6QxsR'
+    },
+    {
+      episode: '21',
+      size: '1.91 GB',
+      url: 'https://gplinks.co/NW3ql'
+    },
+    {
+      episode: '22',
+      size: '1.88 GB',
+      url: 'https://gplinks.co/j4659S'
+    },
+    {
+      episode: '23',
+      size: '2.63 GB',
+      url: 'https://gplinks.co/6jo71XjP'
+    },
+    {
+      episode: '24',
+      size: '1.76 GB',
+      url: 'https://gplinks.co/FE96TeE'
+    }
+  ]
+},
+    {
+    id: '20',
+    title: 'The Man On The Road - 2022',
+    description: 'The Man On The Road (2022) 1080p - [ H.264 - 5.51 GB | H.265 - 3.43 GB | 720p - 3.72 GB ] - Tamil, Telugu, Hindi, Italian (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdb8TO1KdJNQWmXBfGShWdAovpdB44q_URIQ&s',
+    year: 2022,
+    genre: ['Drama', 'Thriller'],
+    director: ['Marco Bellocchio'],
+    cast: ['Toni Servillo', 'Alba Rohrwacher', 'Luigi Lo Cascio'],
+    rating: 7.2,
+    duration: '2h 15m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Italian', 'DDP 5.1'],
+    downloads: 180,
+    likes: 290,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p AMZN WEB-DL DDP5.1 H.264',
+        size: '5.51 GB',
+        url: 'https://gplinks.co/DSkT8YR'
+      },
+      {
+        quality: '1080p AMZN WEB-DL DDP5.1 H.265',
+        size: '3.43 GB',
+        url: 'https://gplinks.co/YuGiMZ6'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP5.1 H.264',
+        size: '3.72 GB',
+        url: 'https://gplinks.co/Ia1pu'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP5.1 H.265',
+        size: '2.16 GB',
+        url: 'https://gplinks.co/Xd0Unm'
+      }
+    ]
+},
+    {
+    id: '19',
+    title: 'Big Game - 2014',
+    description: 'Big Game (2014) 1080p - [ H.264 - 6.16 GB | H.265 - 3.31 GB | 720p - 2.8 GB ] - Tamil, Telugu, Hindi, English (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://resizing.flixster.com/YjhU3tjhm1Nmm71_wJwj1a5Z4eI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11308265_v_h9_ah.jpg',
+    year: 2014,
+    genre: ['Action', 'Adventure', 'Thriller'],
+    director: ['Jalmari Helander'],
+    cast: ['Samuel L. Jackson', 'Onni Tommila', 'Ray Stevenson'],
+    rating: 6.4,
+    duration: '1h 30m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 2.0'],
+    downloads: 220,
+    likes: 340,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.264',
+        size: '6.16 GB',
+        url: 'https://gplinks.co/1bDmPHp5'
+      },
+      {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.265',
+        size: '3.31 GB',
+        url: 'https://gplinks.co/xJIh3uk'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.264',
+        size: '2.8 GB',
+        url: 'https://gplinks.co/A9QO6zF'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.265',
+        size: '1.25 GB',
+        url: 'https://gplinks.co/BXBHGv'
+      }
+    ]
+},
+    {
+    id: '18',
+    title: 'Yashoda - 2022',
+    description: 'Yashoda (2022) 1080p - [ H.264 - 8.67 GB ] - Tamil, Hindi, Telugu, Kannada, Malayalam (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+    posterUrl: 'https://m.media-amazon.com/images/M/MV5BMWNjNWVmYmUtYWYxYS00NjZkLTliMzEtMjhkNTU2NTVkMDJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
+    year: 2022,
+    genre: ['Action', 'Thriller', 'Drama'],
+    director: ['Hari'],
+    cast: ['Samantha Ruth Prabhu', 'Unni Mukundan', 'Varalaxmi Sarathkumar'],
+    rating: 7.8,
+    duration: '2h 15m',
+    quality: ['1080p', 'H.264'],
+    audio: ['Tamil', 'Hindi', 'Telugu', 'Kannada', 'Malayalam', 'DDP 5.1'],
+    downloads: 110,
+    likes: 170,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p AMZN WEB-DL DDP5.1 H.264',
+        size: '8.67 GB',
+        url: 'https://gplinks.co/Fdoab2K'
+      }
+    ]
+},
+    {
+    id: '16',
+    title: 'Kathal- A Jackfruit Mystery - 2023',
+    description: 'Kathal: A Jackfruit Mystery (2023) 1080p - [ H.264 - 5.68 GB ] - Tamil, Hindi, Telugu (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+    posterUrl: 'https://m.media-amazon.com/images/M/MV5BY2M5NTllZDctNTlmYy00YTBhLTgzYWItZjQ2OWZkOThiOGE2XkEyXkFqcGc@._V1_.jpg',
+    year: 2023,
+    genre: ['Comedy', 'Drama', 'Mystery'],
+    director: ['Yashowardhan Mishra'],
+    cast: ['Sanya Malhotra', 'Rajpal Yadav', 'Anant Vidhate'],
+    rating: 7.4,
+    duration: '1h 55m',
+    quality: ['1080p', 'H.264'],
+    audio: ['Tamil', 'Hindi', 'Telugu', 'DDP 5.1'],
+    downloads: 120,
+    likes: 190,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p NF WEB-DL DDP5.1 Atmos H.264',
+        size: '5.68 GB',
+        url: 'https://gplinks.co/rWPOLSu'
+      }
+    ]
+},
+    {
   id: '15',
   title: 'Squid Game - [ S02 ]',
   description: 'Squid Game - [ S02 ] 1080p - [ HEVC 10bit ] [ AV1 - 8.85 GB ] [ Atmos HEVC - 17.01 GB ] [ HDR HEVC - 15.04 GB ] [ DV HEVC - 15.91 GB ] - Tamil, Hindi, Telugu, Korean, English (DDP 5.1 @ 640kb/s) - 📄 ESubs',
@@ -51,16 +363,24 @@ const latestMovies: Movie[] = [
       url: 'https://gplinks.co/Wj5d'
     },
     {
-      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making',
+      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making - FP',
       size: '1.16 GB',
-      url: 'https://gplinks.co/w2olqT',
-      alternateUrl: 'https://gplinks.co/Vs7MEcu'
+      url: 'https://gplinks.co/w2olqT'
+    },
+          {
+      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making - GDT',
+      size: '1.16 GB',
+      url: 'https://gplinks.co/Vs7MEcu'
     },
     {
-      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making',
+      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making - FP',
       size: '489.2 MB',
       url: 'https://gplinks.co/zI3P6VjI',
-      alternateUrl: 'https://gplinks.co/Q375MmQ'
+    },
+          {
+      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making - GDT',
+      size: '489.2 MB',
+      url: 'https://gplinks.co/Q375MmQ'
     }
   ]
 },
@@ -510,7 +830,7 @@ const latestMovies: Movie[] = [
     ]
   },
     {
-    id: '6',
+    id: '17',
     title: 'Money Heist S01 - S05',
     description: 'Money Heist - S01 - S05 (2017-2021)  1080p - [ AV1 - 7.68 GB | 5.14 GB | 5.20 GB | 5.03 GB | 7.09 GB ] - Tamil, Telugu, English, Spanish (DDP 5.1 @ 640kb/s) - 📄 MSubs',
     posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
