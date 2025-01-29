@@ -16,7 +16,7 @@ const latestMovies: Movie[] = [
     id: '13',
     title: 'Red Notice (2021)',
     description: 'Red Notice (2021) 1080p, 720p - [ AV1 - 3.44 GB | 2.16 GB ] [ H.264 - 6.57 GB | 3.07 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 @ 640kb/s) - 📄 ESub',
-    posterUrl: 'https://adesiflava.com/wp-content/uploads/2021/12/76F96DC4-BBC6-4636-AED9-5FBFB06FA94E.jpeg',
+    posterUrl: 'https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2021/11/Untitled-design-26.jpg?fit=1200%2C675&ssl=1',
     year: 2021,
     genre: ['Action', 'Comedy', 'Crime'],
     director: ['Rawson Marshall Thurber'],
