@@ -14,6 +14,46 @@ import type { Movie } from './types';
 const latestMovies: Movie[] = [
     {
     id: '10',
+    title: 'Venom (2018)',
+    description: 'Venom (2018) 1080p, 720p - [ H.264 - 8.36 GB | 4.54 GB ] [ H.265 - 4.4 GB | 2.69 GB ] - Tamil, Telugu, Hindi, English (DDP 5.1 @ 640kb/s) - 📄 ESub',
+    posterUrl: 'https://preview.redd.it/what-is-your-opinion-on-the-venom-movies-v0-fbk6kvnuevtb1.jpg?width=640&crop=smart&auto=webp&s=28686f78cb641a2d726715d451b951a57fb0587d',
+    year: 2018,
+    genre: ['Action', 'Sci-Fi', 'Thriller'],
+    director: ['Ruben Fleischer'],
+    cast: ['Tom Hardy', 'Michelle Williams', 'Riz Ahmed', 'Woody Harrelson'],
+    rating: 6.7,
+    duration: '112m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 5.1'],
+    downloads: 220,
+    likes: 350,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        size: '8.36 GB',
+        url: 'https://gplinks.co/yoVNH'
+      },
+      {
+        quality: '1080p H.265',
+        size: '4.4 GB',
+        url: 'https://gplinks.co/mMiA'
+      },
+      {
+        quality: '720p H.264',
+        size: '4.54 GB',
+        url: 'https://gplinks.co/STmA'
+      },
+      {
+        quality: '720p H.265',
+        size: '2.69 GB',
+        url: 'https://gplinks.co/GnJqDF'
+      }
+    ]
+},
+    {
+    id: '10',
     title: 'My Princess - Season 1',
     description: 'My Princess - Season 1 (2024) 1080p, 720p - [ H.264 - 80.02 GB | 36.02 GB ] [ H.265 - 54.45 GB | 14.68 GB ] - Tamil, Telugu, Hindi, Korea (DDP 2.0 @ 248kb/s) - 📄 ESubs',
     posterUrl: 'https://m.media-amazon.com/images/S/pv-target-images/bfc22e94edb339453694f9b9e05f365de501055180d295c218b0fd1caa5d0511.jpg',
