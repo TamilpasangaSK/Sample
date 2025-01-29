@@ -13,6 +13,151 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+  id: '30',
+  title: 'Live On Season 1 - 2025',
+  description: 'Live On Season 1 (2025) - [ H.264 - 24.63 GB (Full Season) | 1080p - 3.07 GB - 3.4 GB per Episode ] - Tamil, Telugu, Hindi, Korea (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+  posterUrl: 'https://picsxtra.com/images/2025/01/07/ce2ac394b4e271.md.jpg',
+  year: 2025,
+  genre: ['Drama', 'Romance'],
+  director: ['Director Name'],  // Replace with actual director name if available
+  cast: ['Actor Name', 'Actress Name'],  // Replace with actual cast names
+  rating: 8.0,  // Replace with actual rating if available
+  duration: 'Unknown',
+  quality: ['1080p', '720p', 'H.264'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'Korea', 'DDP 2.0'],
+  downloads: 200,
+  likes: 300,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: 'Full Season - 1080p AMZN WEB-DL MULTI-DDP 2.0 - H.264',
+      size: '24.63 GB',
+      url: 'https://gplinks.co/2CGTZH'
+    },
+    {
+      quality: '720p AMZN WEB-DL MULTI-DDP 2.0 - H.264',
+      size: '13.32 GB',
+      url: 'https://gplinks.co/fSuvQoHS'
+    },
+    {
+      quality: 'S01-E01 - GDFLIX',
+      size: '3.07 GB',
+      url: 'https://gplinks.co/0J6J1ed'
+    },
+          {
+      quality: 'S01-E01 - HUBCLOUD',
+      size: '3.07 GB',
+      url: 'https://gplinks.co/i2vbj08'
+    },
+    {
+      quality: 'S01-E02 - GDFLIX',
+      size: '2.96 GB',
+      url: 'https://gplinks.co/aBXr8GZ'
+    },
+          {
+      quality: 'S01-E02 - HUBCLOUD',
+      size: '2.96 GB',
+      url: 'https://gplinks.co/q4azA'
+    },
+    {
+      quality: 'S01-E03 - GDFLIX',
+      size: '3.1 GB',
+      url: 'https://gplinks.co/3Ut2R5'
+    },
+          {
+      quality: 'S01-E03 - HUBCLOUD',
+      size: '3.1 GB',
+      url: 'https://gplinks.co/4HnyU'
+    },
+    {
+      quality: 'S01-E04 - GDFLIX',
+      size: '3.24 GB',
+      url: 'https://gplinks.co/hZWtiFRd'
+    },
+          {
+      quality: 'S01-E04 - HUBCLOUD',
+      size: '3.24 GB',
+      url: 'https://gplinks.co/bj6tbM'
+    },
+    {
+      quality: 'S01-E05 - GDFLIX',
+      size: '2.86 GB',
+      url: 'https://gplinks.co/e5BlFo'
+    },
+          {
+      quality: 'S01-E05 - HUBCLOUD',
+      size: '2.86 GB',
+      url: 'https://gplinks.co/lef2'
+    },
+    {
+      quality: 'S01-E06 - GDFLIX',
+      size: '2.99 GB',
+      url: 'https://gplinks.co/WqDfp5'
+    },
+          {
+      quality: 'S01-E06 - HUBCLOUD',
+      size: '2.99 GB',
+      url: 'https://gplinks.co/NupYmI'
+    },
+    {
+      quality: 'S01-E07 - GDFLIX',
+      size: '3.01 GB',
+      url: 'https://gplinks.co/lWWA2Nb'
+    },
+          {
+      quality: 'S01-E07 - HUBCLOUD',
+      size: '3.01 GB',
+      url: 'https://gplinks.co/RCFHr'
+    },
+    {
+      quality: 'S01-E08 - GDFLIX',
+      size: '3.4 GB',
+      url: 'https://gplinks.co/6pqngo'
+    },
+          {
+      quality: 'S01-E08 - HUBCLOUD',
+      size: '3.4 GB',
+      url: 'https://gplinks.co/9c8HczWG'
+    }
+  ]
+},
+    {
+  id: '29',
+  title: 'Kantara - 2022',
+  description: 'Kantara (2022) 1080p - [ H.264 - 12.48 GB ] - Tamil, Telugu, Malayalam, Kannada (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+  posterUrl: 'https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230930110122.jpg',
+  year: 2022,
+  genre: ['Action', 'Drama'],
+  director: ['Rishab Shetty'],
+  cast: ['Rishab Shetty', 'Kishore', 'Sapthami Gowda'],
+  rating: 8.3,
+  duration: '2h 30m',
+  quality: ['1080p', 'H.264'],
+  audio: ['Tamil', 'Telugu', 'Malayalam', 'Kannada', 'DDP 5.1'],
+  downloads: 1800,
+  likes: 2200,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080p - H.264 - GDFLIX',
+      size: '12.48 GB',
+      url: 'https://gplinks.co/1cfX2q'
+    },
+    {
+      quality: '1080p - H.264 - GDTOT',
+      size: '12.48 GB',
+      url: 'https://gplinks.co/8DSMrB'
+    },
+    {
+      quality: '1080p - H.264 - HUBCLOUD',
+      size: '12.48 GB',
+      url: 'https://gplinks.co/uK5Dt'
+    }
+  ]
+},
+    {
   id: '28',
   title: 'Thangalaan - 2024',
   description: 'Thangalaan (2024) 2160p, 1080p, and 720p - [ H.265 - 13.43 GB | H.264 - 6.49 GB | AV1 - 3.99 GB ] - Tamil, Hindi (DDP 5.1 @ 640kb/s, AAC 5.1) - 📄 ESubs',
