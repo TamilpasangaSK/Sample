@@ -16,7 +16,7 @@ const latestMovies: Movie[] = [
   id: '21',
   title: 'Youth - Season 1 - 2025',
   description: 'Youth - Season 1 (2025) 1080p - [ H.264 - 49.57 GB | H.265 - 22.88 GB | 720p - 22.57 GB ] - Tamil, Telugu, Hindi, Mandarin (Chinese) (DDP 2.0 @ 248kb/s) - 📄 ESubs',
-  posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
+  posterUrl: 'https://m.media-amazon.com/images/S/pv-target-images/b1a199b33830de222daaa4ac2970e6df91241303dbb194740e87e9ba759d6adf.jpg',
   year: 2025,
   genre: ['Drama', 'Romance', 'Thriller'],
   director: ['Jonathan Levine'],
@@ -31,47 +31,45 @@ const latestMovies: Movie[] = [
   channelLink: 'https://t.me/Tamil_New_Movies_4K',
   downloadLinks: [
     {
-      quality: '1080p AMZN WEB-DL DDP2.0 H.264 - GDFX',
+      quality: '1080p AMZN WEB-DL DDP2.0 H.264 - GDFLIX',
       size: '49.57 GB',
       url: 'https://gplinks.co/wBv62WZE'
     },
         {
-      quality: '1080p AMZN WEB-DL DDP2.0 H.264 - HCD',
+      quality: '1080p AMZN WEB-DL DDP2.0 H.264 - HUBCLOUD',
       size: '49.57 GB',
       url: 'https://gplinks.co/TpnjGT76'
     },
     {
-      quality: '1080p AMZN WEB-DL DDP2.0 H.265 - GDFX',
+      quality: '1080p AMZN WEB-DL DDP2.0 H.265 - GDFLIX',
       size: '22.88 GB',
       url: 'https://gplinks.co/OL1fE'
     },
         {
-      quality: '1080p AMZN WEB-DL DDP2.0 H.265 - HCD',
+      quality: '1080p AMZN WEB-DL DDP2.0 H.265 - HUBCLOUD',
       size: '22.88 GB',
       url: 'https://gplinks.co/m1WDbjQ'
     },
     {
-      quality: '720p AMZN WEB-DL DDP2.0 H.264 - GDFX',
+      quality: '720p AMZN WEB-DL DDP2.0 H.264 - GDFLIX',
       size: '22.57 GB',
       url: 'https://gplinks.co/YqGspb'
     },
         {
-      quality: '720p AMZN WEB-DL DDP2.0 H.264 - HCD',
+      quality: '720p AMZN WEB-DL DDP2.0 H.264 - HUBCLOUD',
       size: '22.57 GB',
       url: 'https://gplinks.co/wh1KvX'
     },
     {
-      quality: '720p AMZN WEB-DL DDP2.0 H.265 - GDFX',
+      quality: '720p AMZN WEB-DL DDP2.0 H.265 - GDFLIX',
       size: '9 GB',
       url: 'https://gplinks.co/anPdXn'
     },
         {
-      quality: '720p AMZN WEB-DL DDP2.0 H.265 - HCD',
+      quality: '720p AMZN WEB-DL DDP2.0 H.265 - HUBCLOUD',
       size: '9 GB',
       url: 'https://gplinks.co/vS03sWGl'
-    }
-  ],
-  episodes: [
+    },
     {
       episode: '01',
       size: '2.07 GB',
@@ -198,7 +196,7 @@ const latestMovies: Movie[] = [
     id: '20',
     title: 'The Man On The Road - 2022',
     description: 'The Man On The Road (2022) 1080p - [ H.264 - 5.51 GB | H.265 - 3.43 GB | 720p - 3.72 GB ] - Tamil, Telugu, Hindi, Italian (DDP 5.1 @ 640kb/s) - 📄 ESubs',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdb8TO1KdJNQWmXBfGShWdAovpdB44q_URIQ&s',
+    posterUrl: 'https://m.media-amazon.com/images/S/pv-target-images/da36fe0ff7fd606fc15379a3f8dd975977cbb75726b80eebf226f667eb96b94a.jpg',
     year: 2022,
     genre: ['Drama', 'Thriller'],
     director: ['Marco Bellocchio'],
@@ -363,22 +361,22 @@ const latestMovies: Movie[] = [
       url: 'https://gplinks.co/Wj5d'
     },
     {
-      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making - FP',
+      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making - FILEPRESS',
       size: '1.16 GB',
       url: 'https://gplinks.co/w2olqT'
     },
           {
-      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making - GDT',
+      quality: '1080p NF WEB-DL DDP5.1 Atmos HEVC - Making - GDTOT',
       size: '1.16 GB',
       url: 'https://gplinks.co/Vs7MEcu'
     },
     {
-      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making - FP',
+      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making - FILEPRESS',
       size: '489.2 MB',
       url: 'https://gplinks.co/zI3P6VjI',
     },
           {
-      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making - GDT',
+      quality: '1080p NF WEB-DL AAC5.1 AV1 - Making - GDTOT',
       size: '489.2 MB',
       url: 'https://gplinks.co/Q375MmQ'
     }
@@ -478,32 +476,32 @@ const latestMovies: Movie[] = [
         url: 'https://gplinks.co/7rb6Aoa5'
       },
       {
-        quality: 'Bonus X-Ray Edition 1080p HEVC - FP',
+        quality: 'Bonus X-Ray Edition 1080p HEVC - FILEPRESS',
         size: '3.95 GB',
         url: 'https://gplinks.co/DUpP9nwi',
       },
               {
-        quality: 'Bonus X-Ray Edition 1080p HEVC - GDT',
+        quality: 'Bonus X-Ray Edition 1080p HEVC - GDTOT',
         size: '3.95 GB',
         url: 'https://gplinks.co/joVgm'
       },
       {
-        quality: '1080p NF WEB-DL Atmos HEVC - FP',
+        quality: '1080p NF WEB-DL Atmos HEVC - FILEPRESS',
         size: '3.64 GB',
         url: 'https://gplinks.co/mwUFd',
       },
               {
-        quality: '1080p NF WEB-DL Atmos HEVC - GDT',
+        quality: '1080p NF WEB-DL Atmos HEVC - GDTOT',
         size: '3.64 GB',
         url: 'https://gplinks.co/DksJJiJe'
       },
       {
-        quality: '1080p NF WEB-DL AAC5.1 AV1 - FP',
+        quality: '1080p NF WEB-DL AAC5.1 AV1 - FILEPRESS',
         size: '1.73 GB',
         url: 'https://gplinks.co/vb3HNiae',
       },
               {
-        quality: '1080p NF WEB-DL AAC5.1 AV1 - GDT',
+        quality: '1080p NF WEB-DL AAC5.1 AV1 - GDTOT',
         size: '1.73 GB',
         url: 'https://gplinks.co/zY4kLlVR'
       }
@@ -833,7 +831,7 @@ const latestMovies: Movie[] = [
     id: '17',
     title: 'Money Heist S01 - S05',
     description: 'Money Heist - S01 - S05 (2017-2021)  1080p - [ AV1 - 7.68 GB | 5.14 GB | 5.20 GB | 5.03 GB | 7.09 GB ] - Tamil, Telugu, English, Spanish (DDP 5.1 @ 640kb/s) - 📄 MSubs',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRzf_ZG1zfHNiqWtuJFc8KmDo4RSreCxyOKGeLabjO4YfcSidAJ6TRIDGRcIEOHpQsSQ&usqp=CAU',
+    posterUrl: 'https://wallpapers.com/images/featured/money-heist-segtwbhffwy01w82.jpg',
     year: 2021,
     genre: ['Horror', 'Drama', 'Fantasy'],
     director: ['Jesús Colmenar', 'Frank Darabont', 'Koldo Serra', 'Alejandro Bazzano', 'Javier Quintas'],
