@@ -78,6 +78,106 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+  id: '32',
+  title: 'Pushpa 2 The Rule',
+  description: 'Pushpa 2 The Rule - 1080P & HDR - Black Border: YES - Audio: DTS 5.1 - Audio Languages: Tam + Hin + Tel + Mal - Audio Tracks: 4 In 1',
+  posterUrl: 'https://i.ytimg.com/vi/UtCWVmh9gxc/maxresdefault.jpg',
+  year: 2025,
+  genre: ['Action', 'Thriller', 'Songs'],
+  director: ['Sukumar'],
+  cast: ['Allu Arjun', 'Rashmika Mandanna', 'Fahadh Faasil'],
+  rating: 8.5,
+  duration: '2h 45m',
+  quality: ['1080P', 'HDR'],
+  audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'DDP 5.1'],
+  downloads: 3500,
+  likes: 4500,
+  channelName: 'Tamilpasanga',
+  channelLink: 'https://t.me/Tamil_New_Movies_4K',
+  downloadLinks: [
+    {
+      quality: '1080P - PUSHPA PUSHPA - SHAREDISK',
+      size: '169.11 MB',
+      url: 'https://gplinks.co/Ys7oYAVJ'
+    },
+    {
+      quality: 'HDR - PUSHPA PUSHPA - SHAREDISK',
+      size: '159.12 MB',
+      url: 'https://gplinks.co/JEGQyST5'
+    },
+    {
+      quality: 'PEELINGS - SHAREDISK',
+      size: '205.26 MB',
+      url: 'https://gplinks.co/dxwpm'
+    },
+    {
+      quality: 'PEELINGS - HDR - SHAREDISK',
+      size: '198.72 MB',
+      url: 'https://gplinks.co/fLgAUtm0'
+    },
+    {
+      quality: 'Angaaron - SHAREDISK',
+      size: '237.64 MB',
+      url: 'https://gplinks.co/VJtmreg'
+    },
+    {
+      quality: 'Angaaron - HDR - SHAREDISK',
+      size: '250.63 MB',
+      url: 'https://gplinks.co/Xg7i7'
+    },
+    {
+      quality: 'KISSIK - SHAREDISK',
+      size: '230.66 MB',
+      url: 'https://gplinks.co/Lrle'
+    },
+    {
+      quality: 'KISSIK - HDR - SHAREDISK',
+      size: '254.53 MB',
+      url: 'https://gplinks.co/7pYiMSr'
+    },
+          {
+      quality: '1080P - PUSHPA PUSHPA - UP4EVER',
+      size: '169.11 MB',
+      url: 'https://gplinks.co/HsX6'
+    },
+    {
+      quality: 'HDR - PUSHPA PUSHPA - UP4EVER',
+      size: '159.12 MB',
+      url: 'https://gplinks.co/oPDO'
+    },
+    {
+      quality: 'PEELINGS - UP4EVER',
+      size: '205.26 MB',
+      url: 'https://gplinks.co/bmYNr0X'
+    },
+    {
+      quality: 'PEELINGS - HDR - UP4EVER',
+      size: '198.72 MB',
+      url: 'https://gplinks.co/oOwBqE'
+    },
+    {
+      quality: 'Angaaron - UP4EVER',
+      size: '237.64 MB',
+      url: 'https://gplinks.co/WBa7pKP'
+    },
+    {
+      quality: 'Angaaron - HDR - UP4EVER',
+      size: '250.63 MB',
+      url: 'https://gplinks.co/iL1Ax'
+    },
+    {
+      quality: 'KISSIK - UP4EVER',
+      size: '230.66 MB',
+      url: 'https://gplinks.co/oIV56'
+    },
+    {
+      quality: 'KISSIK - HDR - UP4EVER',
+      size: '254.53 MB',
+      url: 'https://gplinks.co/Tm8zhl5u'
+    }
+  ]
+},
+    {
     id: '31',
     title: 'Emergency Couple - Season 1 - 2025',
     description: 'Emergency Couple: Season 1 (2025) 1080p - [ H.264 - 4.69 GB (per episode) ] - Tamil, Telugu, Hindi, Korean (DDP 2.0 @ 248kb/s) - 📄 ESubs',
