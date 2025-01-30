@@ -16,7 +16,7 @@ const latestMovies: Movie[] = [
     id: '50',
     title: 'Pushpa 2: The Rule Reloaded Version - 2025',
     description: 'Pushpa 2: The Rule Reloaded Version (2025) 1080p - [ H.264 - 11.82 GB | H.265 - 8.64 GB | AV1 - 7.57 GB | VP9 - 6.59 GB ] - Tamil, Telugu, Hindi, Malayalam (DDP 5.1 @ 640kb/s) - 📄 ESubs',
-    posterUrl: 'https://example.com/pushpa2-poster.jpg',
+    posterUrl: 'https://i.ytimg.com/vi/UtCWVmh9gxc/maxresdefault.jpg',
     year: 2025,
     genre: ['Action', 'Thriller', 'Drama'],
     director: ['Sukumar'],
