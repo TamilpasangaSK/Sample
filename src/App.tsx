@@ -13,6 +13,66 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
+    id: '50',
+    title: 'Pushpa 2: The Rule Reloaded Version - 2025',
+    description: 'Pushpa 2: The Rule Reloaded Version (2025) 1080p - [ H.264 - 11.82 GB | H.265 - 8.64 GB | AV1 - 7.57 GB | VP9 - 6.59 GB ] - Tamil, Telugu, Hindi, Malayalam (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+    posterUrl: 'https://example.com/pushpa2-poster.jpg',
+    year: 2025,
+    genre: ['Action', 'Thriller', 'Drama'],
+    director: ['Sukumar'],
+    cast: ['Allu Arjun', 'Rashmika Mandanna', 'Fahadh Faasil'],
+    rating: 8.5,
+    duration: '2h 45m',
+    quality: ['1080p', '720p', 'H.264', 'H.265', 'AV1', 'VP9'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'DDP 5.1'],
+    downloads: 250,
+    likes: 500,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p - H.264 - HUBCLOUD',
+        size: '11.82 GB',
+        url: 'https://gplinks.co/lFp8Ht'
+      },
+              {
+        quality: '1080p - H.264 - GDFLIX',
+        size: '11.82 GB',
+        url: 'https://gplinks.co/Dgy1wp'
+      },
+      {
+        quality: '1080p - H.265 - DV HDR ',
+        size: '8.64 GB',
+        url: 'https://gplinks.co/OLjnpVVN'
+      },
+      {
+        quality: '1080p AV1',
+        size: '7.57 GB',
+        url: 'https://gplinks.co/01x09'
+      },
+      {
+        quality: '1080p VP9',
+        size: '6.59 GB',
+        url: 'https://gplinks.co/nqYxN51w'
+      },
+      {
+        quality: '720p H.264',
+        size: '7.74 GB',
+        url: 'https://gplinks.co/x7grQeyl'
+      },
+      {
+        quality: '720p AV1',
+        size: '5.22 GB',
+        url: 'https://gplinks.co/tLIWF7'
+      },
+      {
+        quality: '720p AAC5.1 VP9',
+        size: '2.71 GB',
+        url: 'https://gplinks.co/2Pl5Ra'
+      }
+    ]
+},
+    {
   id: '30',
   title: 'Live On Season 1 - 2025',
   description: 'Live On Season 1 (2025) - [ H.264 - 24.63 GB (Full Season) | 1080p - 3.07 GB - 3.4 GB per Episode ] - Tamil, Telugu, Hindi, Korea (DDP 2.0 @ 248kb/s) - 📄 ESubs',
