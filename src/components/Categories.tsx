@@ -24,6 +24,7 @@ export function Categories({ onCategorySelect, selectedCategory, movies }: Categ
 
   const categories = [
     { id: 'action', name: 'Action', gradient: 'from-blue-500 to-blue-700' },
+    { id: 'songs', name: 'Songs', gradient: 'from-rose-500 to-rose-700' },
     { id: 'comedy', name: 'Comedy', gradient: 'from-green-500 to-green-700' },
     { id: 'drama', name: 'Drama', gradient: 'from-yellow-500 to-yellow-700' },
     { id: 'romance', name: 'Romance', gradient: 'from-pink-500 to-pink-700' },
