@@ -78,6 +78,131 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '31',
+    title: 'Emergency Couple - Season 1 - 2025',
+    description: 'Emergency Couple: Season 1 (2025) 1080p - [ H.264 - 4.69 GB (per episode) ] - Tamil, Telugu, Hindi, Korean (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://picsxtra.com/images/2025/01/30/Emergency-Couple.md.jpg',
+    year: 2025,
+    genre: ['Romance', 'Medical Drama', 'Comedy'],
+    director: ['Kim Cheol-kyu'],
+    cast: ['Song Ji-hyo', 'Choi Jin-hyuk', 'Lee Pil-mo'],
+    rating: 7.8,
+    duration: '21 Episodes (Each ~1h)',
+    quality: ['1080p', 'H.264'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Korean', 'DDP 2.0'],
+    downloads: 300,
+    likes: 600,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: 'Episode 1',
+        size: '4.06 GB',
+        url: 'https://gplinks.co/DXeSS'
+      },
+      {
+        quality: 'Episode 2',
+        size: '4.15 GB',
+        url: 'https://gplinks.co/LrkMs3cJ'
+      },
+      {
+        quality: 'Episode 3',
+        size: '4.12 GB',
+        url: 'https://gplinks.co/QwSSYucC'
+      },
+      {
+        quality: 'Episode 4',
+        size: '4.46 GB',
+        url: 'https://gplinks.co/u6eiv'
+      },
+      {
+        quality: 'Episode 5',
+        size: '3.97 GB',
+        url: 'https://gplinks.co/MeZu1ZRP'
+      },
+      {
+        quality: 'Episode 6',
+        size: '4.33 GB',
+        url: 'https://gplinks.co/VdBmy'
+      },
+      {
+        quality: 'Episode 7',
+        size: '4.31 GB',
+        url: 'https://gplinks.co/CCiGgQM'
+      },
+      {
+        quality: 'Episode 8',
+        size: '4.65 GB',
+        url: 'https://gplinks.co/5BwACYN'
+      },
+      {
+        quality: 'Episode 9',
+        size: '4.66 GB',
+        url: 'https://gplinks.co/j2ZgKa'
+      },
+      {
+        quality: 'Episode 10',
+        size: '4.69 GB',
+        url: 'https://gplinks.co/2JWTnWG'
+      },
+      {
+        quality: 'Episode 11',
+        size: '4.46 GB',
+        url: 'https://gplinks.co/WjO1Uu'
+      },
+      {
+        quality: 'Episode 12',
+        size: '4.58 GB',
+        url: 'https://gplinks.co/pUafkJg'
+      },
+      {
+        quality: 'Episode 13',
+        size: '4.61 GB',
+        url: 'https://gplinks.co/DnJjE1'
+      },
+      {
+        quality: 'Episode 14',
+        size: '4.59 GB',
+        url: 'https://gplinks.co/kw3N'
+      },
+      {
+        quality: 'Episode 15',
+        size: '4.44 GB',
+        url: 'https://gplinks.co/wfir0dfR'
+      },
+      {
+        quality: 'Episode 16',
+        size: '4.61 GB',
+        url: 'https://gplinks.co/uccakIyh'
+      },
+      {
+        quality: 'Episode 17',
+        size: '4.61 GB',
+        url: 'https://gplinks.co/fLAVSSww'
+      },
+      {
+        quality: 'Episode 18',
+        size: '4.57 GB',
+        url: 'https://gplinks.co/T89h1eh'
+      },
+      {
+        quality: 'Episode 19',
+        size: '4.47 GB',
+        url: 'https://gplinks.co/APtE'
+      },
+      {
+        quality: 'Episode 20',
+        size: '4.3 GB',
+        url: 'https://gplinks.co/nCjYeC'
+      },
+      {
+        quality: 'Episode 21',
+        size: '4.47 GB',
+        url: 'https://gplinks.co/ZhsX1'
+      }
+    ]
+},
+    {
   id: '30',
   title: 'Live On Season 1 - 2025',
   description: 'Live On Season 1 (2025) - [ H.264 - 24.63 GB (Full Season) | 1080p - 3.07 GB - 3.4 GB per Episode ] - Tamil, Telugu, Hindi, Korea (DDP 2.0 @ 248kb/s) - 📄 ESubs',
