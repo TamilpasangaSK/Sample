@@ -30,6 +30,11 @@ const latestMovies: Movie[] = [
     channelName: 'Tamilpasanga',
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
+              {
+        quality: '1080p - H.265 - DV ',
+        size: '12.71 GB',
+        url: 'https://gplinks.co/QrtI'
+      },
       {
         quality: '1080p - H.264 - HUBCLOUD',
         size: '11.82 GB',
