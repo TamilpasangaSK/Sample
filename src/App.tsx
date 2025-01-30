@@ -22,7 +22,7 @@ const latestMovies: Movie[] = [
     director: ['Sukumar'],
     cast: ['Allu Arjun', 'Rashmika Mandanna', 'Fahadh Faasil'],
     rating: 8.5,
-    duration: '2h 45m',
+    duration: '3h 44m',
     quality: ['1080p', '720p', 'H.264', 'H.265', 'AV1', 'VP9'],
     audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'DDP 5.1'],
     downloads: 250,
