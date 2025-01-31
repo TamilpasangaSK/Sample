@@ -78,6 +78,241 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '43',
+    title: 'The Killer\'s Game - 2024',
+    description: 'The Killer\'s Game (2024) 2160p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [13.5 GB] | 2160p AMZN WEB-DL MULTI DDP5.1 HDR H.265-mkv [13.46 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [9.15 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [5.27 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [4.9 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [3.32 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [3.89 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [1.24 GB] - Tamil, Telugu, Hindi, Kannada, Malayalam, English (DDP 5.1, Dolby TrueHD Atmos) - 📄 MSubs, ESubs',
+    posterUrl: 'https://pics.filmaffinity.com/The_Killer_s_Game-656153704-large.jpg',
+    year: 2024,
+    genre: ['Action', 'Thriller'],
+    director: ['John Doe'],  // Replace 'John Doe' with the actual director's name
+    cast: ['Actor 1', 'Actor 2'],  // Replace with actual actors
+    rating: 7.8,
+    duration: '2h 10m',
+    quality: ['2160p', '1080p', '720p', 'HEVC', 'HDR', 'WEB-DL'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Kannada', 'Malayalam', 'English', 'DDP 5.1', 'Dolby TrueHD Atmos'],
+    downloads: 1500,
+    likes: 1800,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p AMZN WEB-DL MULTI DDP5.1 H.265',
+        size: '13.5 GB',
+        url: 'https://gplinks.co/sGBIHQxO'
+      },
+      {
+        quality: '2160p AMZN WEB-DL MULTI DDP5.1 HDR H.265',
+        size: '13.46 GB',
+        url: 'https://gplinks.co/1xFTDS'
+      },
+      {
+        quality: '1080p AMZN WEB-DL MULTI DDP5.1 H.264',
+        size: '9.15 GB',
+        url: 'https://gplinks.co/3vBmDk81'
+      },
+      {
+        quality: '720p AMZN WEB-DL MULTI DDP5.1 H.264',
+        size: '5.27 GB',
+        url: 'https://gplinks.co/Td0z'
+      },
+      {
+        quality: '1080p AMZN WEB-DL MULTI DDP5.1 H.265',
+        size: '4.9 GB',
+        url: 'https://gplinks.co/6YJDIjMZ'
+      },
+      {
+        quality: '720p AMZN WEB-DL MULTI DDP5.1 H.265',
+        size: '3.32 GB',
+        url: 'https://gplinks.co/QtC1Ojg'
+      },
+      {
+        quality: '1080p AMZN WEB-DL MULTI DDP5.1 H.264',
+        size: '3.89 GB',
+        url: 'https://gplinks.co/qztln'
+      },
+      {
+        quality: '720p AMZN WEB-DL MULTI DDP5.1 H.264',
+        size: '1.24 GB',
+        url: 'https://gplinks.co/wa8eG'
+      }
+    ]
+},
+    {
+    id: '42',
+    title: 'Sonic the Hedgehog 3 - 2024',
+    description: 'Sonic the Hedgehog 3 (2024) 2160p iT WEB-DL DV HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265-mkv [19.62 GB] | 2160p AMZN WEB-DL HDR 8bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265-mkv [12.52 GB] | 2160p AMZN WEB-DL 8bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265-mkv [12.52 GB] | 2160p AMZN WEB-DL SDR 8bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265-mkv [12.59 GB] | 2160p AMZN WEBRip SDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265-mkv [5.72 GB] | 1080p DS4K AMZN WEBRip 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265-mkv [3.85 GB] - Hindi, English (DDP 5.1 + Dolby Atmos 5.1) - 📄 ESubs',
+    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpFDjYigkZFskTxESiEoSCbTqMZ-Pp4OcCQ&s',
+    year: 2024,
+    genre: ['Action', 'Adventure', 'Animation'],
+    director: ['Director Name'],
+    cast: ['Actor 1', 'Actor 2'],
+    rating: 8.5,
+    duration: '2h 15m',
+    quality: ['2160p', '1080p', 'HEVC', 'HDR', 'WEB-DL'],
+    audio: ['Hindi', 'English', 'DDP 5.1', 'Dolby Atmos 5.1'],
+    downloads: 1200,
+    likes: 1500,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p DV HDR 10bit HEVC',
+        size: '19.62 GB',
+        url: 'https://gplinks.co/kf7rPDj'
+      },
+      {
+        quality: '2160p HDR 8bit HEVC',
+        size: '12.52 GB',
+        url: 'https://gplinks.co/Dr6DvNi'
+      },
+      {
+        quality: '2160p 8bit HEVC',
+        size: '12.52 GB',
+        url: 'https://gplinks.co/HdtaXlL1'
+      },
+      {
+        quality: '2160p SDR 8bit HEVC',
+        size: '12.59 GB',
+        url: 'https://gplinks.co/n5sWlWW'
+      },
+      {
+        quality: '2160p SDR 10bit HEVC',
+        size: '5.72 GB',
+        url: 'https://gplinks.co/pWD6Pc'
+      },
+      {
+        quality: '1080p 10bit HEVC',
+        size: '3.85 GB',
+        url: 'https://gplinks.co/uiQYv'
+      }
+    ]
+},
+    {
+    id: '41',
+    title: 'Hisaab Barabar - 2025',
+    description: 'Hisaab Barabar (2025) 720p ZEE5 WEB-DL MULTi AAC 2.0 H.265 - mkv [1.25 GB] | 720p ZEE5 WEB-DL MULTi AAC 2.0 H.264 - mkv [1.46 GB] | 1080p ZEE5 WEB-DL MULTi AAC 2.0 H.265 - mkv [1.55 GB] | 1080p ZEE5 WEB-DL MULTi AAC 2.0 H.264 - mkv [2.11 GB] - Tamil, Telugu, Hindi (AAC 2.0) - 📄 ESubs',
+    posterUrl: 'https://m.media-amazon.com/images/M/MV5BM2EyYzdhMjgtYTI5NS00NjIzLTkyNjktNThjNWQ0NGJkNGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
+    year: 2025,
+    genre: ['Drama', 'Thriller'],
+    director: ['Director Name'],
+    cast: ['Actor 1', 'Actor 2'],
+    rating: 7.8,
+    duration: '2h 10m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'AAC 2.0'],
+    downloads: 800,
+    likes: 1200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '720p H.265',
+        size: '1.25 GB',
+        url: 'https://gplinks.co/2IJT8TIW'
+      },
+      {
+        quality: '720p H.264',
+        size: '1.46 GB',
+        url: 'https://gplinks.co/MH6SaPyX'
+      },
+      {
+        quality: '1080p H.265',
+        size: '1.55 GB',
+        url: 'https://gplinks.co/Jsud'
+      },
+      {
+        quality: '1080p H.264',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/BE6iH'
+      }
+    ]
+},
+    {
+    id: '40',
+    title: 'Law Abiding Citizen - 2009',
+    description: 'Law Abiding Citizen (2009) 1080p AMZN WEB-DL DDP 2.0 H.264 - mkv [7.22 GB] | 1080p AMZN WEB-DL DDP 2.0 H.265 - mkv [2.83 GB] | 720p AMZN WEB-DL DDP 2.0 H.264 - mkv [3.09 GB] | 720p AMZN WEB-DL DDP 2.0 H.265 - mkv [1.07 GB] - Tamil, Telugu, Hindi, English (DDP 2.0) - 📄 ESubs',
+    posterUrl: 'https://m.media-amazon.com/images/S/pv-target-images/6bc5c65a8910778d4025799c49b98511ca89181a981f3bbfcf30181e6fcbeddf.jpg',
+    year: 2009,
+    genre: ['Action', 'Thriller'],
+    director: ['F. Gary Gray'],
+    cast: ['Gerard Butler', 'Jamie Foxx', 'Colm Meaney'],
+    rating: 7.4,
+    duration: '1h 49m',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 2.0'],
+    downloads: 1200,
+    likes: 1600,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        size: '7.22 GB',
+        url: 'https://gplinks.co/nsqREnDC'
+      },
+      {
+        quality: '1080p H.265',
+        size: '2.83 GB',
+        url: 'https://gplinks.co/DX2h'
+      },
+      {
+        quality: '720p H.264',
+        size: '3.09 GB',
+        url: 'https://gplinks.co/eN7ztY'
+      },
+      {
+        quality: '720p H.265',
+        size: '1.07 GB',
+        url: 'https://gplinks.co/oL5a'
+      }
+    ]
+},
+    {
+    id: '39',
+    title: 'The Smile Man - 2024',
+    description: 'The Smile Man (2024) 2160p AHA WEB-DL DDP 5.1 H.265 - mkv [2.12 GB] | 1080p AHA WEB-DL DDP 5.1 H.264 - mkv [1.67 GB] | 1080p AHA WEB-DL DDP 5.1 H.265 - mkv [773.4 MB] | 720p AHA WEB-DL DDP 5.1 H.264 - mkv [920.06 MB] | 720p AHA WEB-DL DDP 5.1 H.265 - mkv [492.98 MB] - Tamil (Dolby Digital Plus 5.1) - 📄 ESubs',
+    posterUrl: 'https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-smile-man-et00420595-1735023512.jpg',
+    year: 2024,
+    genre: ['Drama', 'Thriller'],
+    director: ['N/A'],
+    cast: ['N/A'],
+    rating: 8.1,
+    duration: '1h 45m',
+    quality: ['2160p', '1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Dolby Digital Plus 5.1'],
+    downloads: 800,
+    likes: 1100,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p H.265',
+        size: '2.12 GB',
+        url: 'https://gplinks.co/Jr7CX7E'
+      },
+      {
+        quality: '1080p H.264',
+        size: '1.67 GB',
+        url: 'https://gplinks.co/5CwD1'
+      },
+      {
+        quality: '1080p H.265',
+        size: '773.4 MB',
+        url: 'https://gplinks.co/zDQ8qL'
+      },
+      {
+        quality: '720p H.264',
+        size: '920.06 MB',
+        url: 'https://gplinks.co/nIMK8YHk'
+      },
+      {
+        quality: '720p H.265',
+        size: '492.98 MB',
+        url: 'https://gplinks.co/EQkeDun'
+      }
+    ]
+},
+    {
     id: '38',
     title: 'Mark Antony - 2023',
     description: 'Mark Antony (2023) 2160p AMZN WEB-DL H265 SDR DDP 5.1 DUAL - mkv [16.33 GB] | 1080p AMZN WEB-DL H264 SDR DDP 5.1 DUAL - mkv [10.55 GB] - Tamil, Hindi (Dolby Digital Plus 5.1 & 2.0) - 📄 ESubs',
