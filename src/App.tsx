@@ -78,6 +78,161 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '47',
+    title: 'Lucca\'s World - 2024',
+    description: 'Lucca\'s World (2024) 1080p NF WEB-DL DDP5.1 DV H.265 [2.52 GB], 1080p NF WEB-DL DDP5.1 HDR H.265 [2.81 GB], 1080p NF WEB-DL DDP5.1 H.264 [4.68 GB], 1080p NF WEB-DL DDP5.1 H.265 [3.03 GB], 1080p NF WEB-DL DDP5.1 AV1-ViSTA [2.13 GB], 1080p NF WEB-DL AAC5.1 AV1 [1.14 GB], 720p NF WEB-DL DDP5.1 H.264 [2.25 GB], 720p NF WEB-DL AAC5.1 AV1 [659.11 MB] - Hindi, English, Spanish (DDP 5.1, AAC 5.1)',
+    posterUrl: 'https://occ-0-6245-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWjepgZyWIbRhuhdkS6sok4XO4E2mUPLKBcuKnqjjvorkXiZJNQcfzLUjOquJezEAy_5jGJrz-1q7o57jSsRu2Bdwr0zC1_Gfiy9eMHhsNOT2zO2aWg5gu9ExotCDwEd4z7vqQ.jpg?r=5b7',
+    year: 2024,
+    genre: ['Adventure', 'Drama'],
+    director: ['Not Available'],
+    cast: ['Not Available'],
+    rating: 'Not Available',
+    duration: 'Not Available',
+    quality: ['1080p', '720p', 'WEB-DL', 'DV', 'HDR'],
+    audio: ['Hindi', 'English', 'Spanish', 'DDP 5.1', 'AAC 5.1'],
+    downloads: 1200,
+    likes: 1500,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+        {
+            quality: '1080p NF WEB-DL DDP5.1 DV H.265',
+            size: '2.52 GB',
+            url: 'https://gplinks.co/nGsqpeI'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 HDR H.265',
+            size: '2.81 GB',
+            url: 'https://gplinks.co/55CmX'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 H.264',
+            size: '4.68 GB',
+            url: 'https://gplinks.co/Zh6xOtQ'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 H.265',
+            size: '3.03 GB',
+            url: 'https://gplinks.co/HisE'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 AV1-ViSTA',
+            size: '2.13 GB',
+            url: 'https://gplinks.co/4BHdGjSR'
+        },
+        {
+            quality: '1080p NF WEB-DL AAC5.1 AV1',
+            size: '1.14 GB',
+            url: 'https://gplinks.co/pllJ'
+        },
+        {
+            quality: '720p NF WEB-DL DDP5.1 H.264',
+            size: '2.25 GB',
+            url: 'https://gplinks.co/EIdg2Oq'
+        },
+        {
+            quality: '720p NF WEB-DL AAC5.1 AV1',
+            size: '659.11 MB',
+            url: 'https://gplinks.co/IUMZfnD'
+        }
+    ]
+},
+    {
+    id: '46',
+    title: "Hulk - 2003",
+    description: "Hulk (2003) 2160p 4K UHD HDR10 BluRay x265 10bit HEVC-Multi (DDP5.1+ DTS-X 7.1) [36.76 GB] | 1080p UHD HDR10 BluRay x265 10bit HEVC Multi (DDP5.1+ DDP 7.1) [24.41 GB] | 1080p BluRay REMUX VC-1 Multi (DDP5.1+ DTS-HD MA 5.1) [29.01 GB] | 1080p BluRay AVC x264 Multi (DDP5.1) [18.39 GB] | 1080p BluRay x265 10bit HEVC Multi (DDP5.1) [7.77 GB] - Tamil, Hindi, Telugu, English (DDP 5.1, DTS-X 7.1)",
+    posterUrl: 'https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32133_p_v13_al.jpg',
+    year: 2003,
+    genre: ['Action', 'Adventure', 'Sci-Fi'],
+    director: ['Ang Lee'],
+    cast: ['Eric Bana', 'Jennifer Connelly', 'Sam Elliott'],
+    rating: 6.7,
+    duration: '2h 18m',
+    quality: ['2160p', '1080p', 'BluRay', 'HDR10', 'HEVC', 'DTS-X'],
+    audio: ['Tamil', 'Hindi', 'Telugu', 'English', 'DDP 5.1', 'DTS-X 7.1'],
+    downloads: 3200,
+    likes: 3500,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+        {
+            quality: '2160p 4K UHD HDR10 BluRay x265 10bit HEVC-Multi (DDP5.1+ DTS-X 7.1)',
+            size: '36.76 GB',
+            url: 'https://gplinks.co/ttUh62'
+        },
+        {
+            quality: '1080p UHD HDR10 BluRay x265 10bit HEVC Multi (DDP5.1+ DDP 7.1)',
+            size: '24.41 GB',
+            url: 'https://gplinks.co/6MPCz8RA'
+        },
+        {
+            quality: '1080p BluRay REMUX VC-1 Multi (DDP5.1+ DTS-HD MA 5.1)',
+            size: '29.01 GB',
+            url: 'https://gplinks.co/FbEE55bk'
+        },
+        {
+            quality: '1080p BluRay AVC x264 Multi (DDP5.1)',
+            size: '18.39 GB',
+            url: 'https://gplinks.co/qAxRuXj'
+        },
+        {
+            quality: '1080p BluRay x265 10bit HEVC Multi (DDP5.1)',
+            size: '7.77 GB',
+            url: 'https://gplinks.co/qEaSKNhG'
+        }
+    ]
+},
+    {
+    id: '45',
+    title: 'Godzilla x Kong - The New Empire - 2024',
+    description: 'Godzilla x Kong - The New Empire (2024) 1080p BluRay REMUX AVC x264 Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] [26.92 GB] | 1080p BluRay AVC x264 Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] [17.16 GB] | 1080p BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] [6.27 GB] | 2160p WEB-DL MULTI DDP 5.1 Atmos DV HDR H.265 [21.14 GB] | 2160p WEB-DL MULTI DDP 5.1 Atmos DV HDR H.265 [21.19 GB] | 2160p WEB-DL MULTI DDP 5.1 Atmos H.265 [17.96 GB] - Tamil, Telugu, Hindi, English (DDP 5.1, Dolby Atmos)',
+    posterUrl: 'https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_.jpg',
+    year: 2024,
+    genre: ['Action', 'Adventure', 'Sci-Fi'],
+    director: ['Adam Wingard'],  // Replace with actual director
+    cast: ['Alexander Skarsgård', 'Millie Bobby Brown', 'Rebecca Hall'],  // Replace with actual actors
+    rating: 7.5,
+    duration: '2h 30m',
+    quality: ['2160p', '1080p', 'BluRay', 'HEVC', 'HDR', 'WEB-DL'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 5.1', 'Dolby Atmos'],
+    downloads: 2200,
+    likes: 2300,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+        {
+            quality: '1080p BluRay REMUX AVC x264',
+            size: '26.92 GB',
+            url: 'https://gplinks.co/M8StQQu'
+        },
+        {
+            quality: '1080p BluRay AVC x264',
+            size: '17.16 GB',
+            url: 'https://gplinks.co/2lYTk'
+        },
+        {
+            quality: '1080p BluRay x265 10bit HEVC',
+            size: '6.27 GB',
+            url: 'https://gplinks.co/fDXXnJ'
+        },
+        {
+            quality: '2160p DV H.265',
+            size: '21.14 GB',
+            url: 'https://gplinks.co/lB1D'
+        },
+        {
+            quality: '2160p DV HDR H.265',
+            size: '21.19 GB',
+            url: 'https://gplinks.co/IBTb'
+        },
+        {
+            quality: '2160p H.265',
+            size: '17.96 GB',
+            url: 'https://gplinks.co/Cw3Fng'
+        }
+    ]
+},
+    {
     id: '43',
     title: 'The Killer\'s Game - 2024',
     description: 'The Killer\'s Game (2024) 2160p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [13.5 GB] | 2160p AMZN WEB-DL MULTI DDP5.1 HDR H.265-mkv [13.46 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [9.15 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [5.27 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [4.9 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [3.32 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [3.89 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [1.24 GB] - Tamil, Telugu, Hindi, Kannada, Malayalam, English (DDP 5.1, Dolby TrueHD Atmos) - 📄 MSubs, ESubs',
