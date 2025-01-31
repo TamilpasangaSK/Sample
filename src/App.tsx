@@ -1813,19 +1813,19 @@ const latestMovies: Movie[] = [
   },  
   {
     id: '1',
-    title: 'Stranger Things S01',
-    description: 'In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.',
+    title: 'Stranger Things: Season 1 - 2016',
+    description: 'Stranger Things: Season 1 (2016) 1080p - [ HEVC 10bit | AV1 | H.264 ] - Tamil, Telugu, Hindi, English (Dolby Digital Plus 5.1 @ 640kb/s) - 📄 ESubs',
     posterUrl: 'https://img.rgstatic.com/content/show/244c3e6a-0057-4354-b535-8b52fd83c3e1/poster-342.jpg',
     year: 2016,
-    genre: ['Horror', 'Drama', 'Fantasy'],
-    director: ['Matt Duffer', 'Shawn Levy'],
-    cast: ['David Harbour', 'Finn Wolfhard', 'Winona Ryder', 'Natalia Dyer'],
+    genre: ['Sci-Fi', 'Horror', 'Mystery'],
+    director: ['The Duffer Brothers'],
+    cast: ['Winona Ryder', 'David Harbour', 'Millie Bobby Brown', 'Finn Wolfhard', 'Gaten Matarazzo', 'Caleb McLaughlin'],
     rating: 8.7,
-    duration: '42m - 55m',
-    quality: ['1080p', 'AV1', 'HEVC'],
-    audio: ['Tamil', 'Telugu', 'Hindi', 'English'],
-    downloads: 150,
-    likes: 250,
+    duration: '8 Episodes (~50m each)',
+    quality: ['1080p', 'HEVC 10bit', 'AV1', 'H.264'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 5.1'],
+    downloads: 320,
+    likes: 750,
     channelName: 'Tamilpasanga',
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
@@ -1848,6 +1848,46 @@ const latestMovies: Movie[] = [
         quality: '1080p AV1 GDFLIX',
         size: '6.42 GB',
         url: 'https://gplinks.co/4niDbFvG'
+      },
+      {
+        quality: 'S01E01',
+        size: '3.18 GB',
+        url: 'https://gplinks.co/iV6Pj0M'
+      },
+      {
+        quality: 'S01E02',
+        size: '3.44 GB',
+        url: 'https://gplinks.co/q0i37xB'
+      },
+      {
+        quality: 'S01E03',
+        size: '2.70 GB',
+        url: 'https://gplinks.co/BPocwBj'
+      },
+      {
+        quality: 'S01E04',
+        size: '3.49 GB',
+        url: 'https://gplinks.co/Dg1A18jC'
+      },
+      {
+        quality: 'S01E05',
+        size: '2.76 GB',
+        url: 'https://gplinks.co/4GJuhEu'
+      },
+      {
+        quality: 'S01E06',
+        size: '2.44 GB',
+        url: 'https://gplinks.co/UwvEeUv'
+      },
+      {
+        quality: 'S01E07',
+        size: '2.18 GB',
+        url: 'https://gplinks.co/qwkKUfmI'
+      },
+      {
+        quality: 'S01E08',
+        size: '2.85 GB',
+        url: 'https://gplinks.co/tKTCxxmi'
       }
     ]
   }
