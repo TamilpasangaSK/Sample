@@ -250,21 +250,41 @@ const latestMovies: Movie[] = [
     {
     id: '31',
     title: 'Emergency Couple - Season 1 - 2025',
-    description: 'Emergency Couple: Season 1 (2025) 1080p - [ H.264 - 4.69 GB (per episode) ] - Tamil, Telugu, Hindi, Korean (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    description: 'Emergency Couple: Season 1 (2025) 1080p - [ H.264 - 93.12 GB | H.265 - 38 GB | 720p H.264 - 41.63 GB | 720p H.265 - 14.61 GB ] - Tamil, Telugu, Hindi, Korean (DDP 2.0 @ 248kb/s) - 📄 ESubs',
     posterUrl: 'https://picsxtra.com/images/2025/01/30/Emergency-Couple.md.jpg',
     year: 2025,
     genre: ['Romance', 'Medical Drama', 'Comedy'],
     director: ['Kim Cheol-kyu'],
     cast: ['Song Ji-hyo', 'Choi Jin-hyuk', 'Lee Pil-mo'],
-    rating: 7.8,
+    rating: 8.0,
     duration: '21 Episodes (Each ~1h)',
-    quality: ['1080p', 'H.264'],
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
     audio: ['Tamil', 'Telugu', 'Hindi', 'Korean', 'DDP 2.0'],
-    downloads: 300,
-    likes: 600,
+    downloads: 500,
+    likes: 800,
     channelName: 'Tamilpasanga',
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
+              {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.264',
+        size: '93.12 GB',
+        url: 'https://gplinks.co/wQVQ'
+      },
+      {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.265',
+        size: '38 GB',
+        url: 'https://gplinks.co/5H784EK'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.264',
+        size: '41.63 GB',
+        url: 'https://gplinks.co/VFxfu'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.265',
+        size: '14.61 GB',
+        url: 'https://gplinks.co/iFUwAbd'
+      },
       {
         quality: 'Episode 1',
         size: '4.06 GB',
