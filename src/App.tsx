@@ -96,42 +96,42 @@ const latestMovies: Movie[] = [
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
       {
-        quality: '2160p AMZN WEB-DL MULTI DDP5.1 H.265',
+        quality: '2160p H.265',
         size: '13.5 GB',
         url: 'https://gplinks.co/sGBIHQxO'
       },
       {
-        quality: '2160p AMZN WEB-DL MULTI DDP5.1 HDR H.265',
+        quality: '2160p HDR H.265',
         size: '13.46 GB',
         url: 'https://gplinks.co/1xFTDS'
       },
       {
-        quality: '1080p AMZN WEB-DL MULTI DDP5.1 H.264',
+        quality: '1080p H.264',
         size: '9.15 GB',
         url: 'https://gplinks.co/3vBmDk81'
       },
       {
-        quality: '720p AMZN WEB-DL MULTI DDP5.1 H.264',
+        quality: '720p H.264',
         size: '5.27 GB',
         url: 'https://gplinks.co/Td0z'
       },
       {
-        quality: '1080p AMZN WEB-DL MULTI DDP5.1 H.265',
+        quality: '1080p H.265',
         size: '4.9 GB',
         url: 'https://gplinks.co/6YJDIjMZ'
       },
       {
-        quality: '720p AMZN WEB-DL MULTI DDP5.1 H.265',
+        quality: '720p H.265',
         size: '3.32 GB',
         url: 'https://gplinks.co/QtC1Ojg'
       },
       {
-        quality: '1080p AMZN WEB-DL MULTI DDP5.1 H.264',
+        quality: '1080p H.264',
         size: '3.89 GB',
         url: 'https://gplinks.co/qztln'
       },
       {
-        quality: '720p AMZN WEB-DL MULTI DDP5.1 H.264',
+        quality: '720p H.264',
         size: '1.24 GB',
         url: 'https://gplinks.co/wa8eG'
       }
@@ -343,7 +343,7 @@ const latestMovies: Movie[] = [
     ]
 },
     {
-    id: '37',
+    id: '44',
     title: 'Unlock My Boss S01',
     description: 'Unlock My Boss S01 (2022) 1080p - [ H.264 - 39.22 GB | H.265 - 12.24 GB | 720p H.264 - 17.31 GB | 720p H.265 - 7.09 GB ] - Tamil, Telugu, Hindi, Korean (DDP 2.0 @ 248kb/s) - 📄 ESubs',
     posterUrl: 'https://picsxtra.com/images/2025/01/29/Unlock-My-Boss-2025-TBL.md.jpg',
