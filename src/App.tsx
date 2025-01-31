@@ -139,8 +139,8 @@ const latestMovies: Movie[] = [
 },
     {
     id: '46',
-    title: "Hulk - 2003",
-    description: "Hulk (2003) 2160p 4K UHD HDR10 BluRay x265 10bit HEVC-Multi (DDP5.1+ DTS-X 7.1) [36.76 GB] | 1080p UHD HDR10 BluRay x265 10bit HEVC Multi (DDP5.1+ DDP 7.1) [24.41 GB] | 1080p BluRay REMUX VC-1 Multi (DDP5.1+ DTS-HD MA 5.1) [29.01 GB] | 1080p BluRay AVC x264 Multi (DDP5.1) [18.39 GB] | 1080p BluRay x265 10bit HEVC Multi (DDP5.1) [7.77 GB] - Tamil, Hindi, Telugu, English (DDP 5.1, DTS-X 7.1)",
+    title: 'Hulk - 2003',
+    description: 'Hulk (2003) 2160p 4K UHD HDR10 BluRay x265 10bit HEVC-Multi (DDP5.1+ DTS-X 7.1) [36.76 GB] | 1080p UHD HDR10 BluRay x265 10bit HEVC Multi (DDP5.1+ DDP 7.1) [24.41 GB] | 1080p BluRay REMUX VC-1 Multi (DDP5.1+ DTS-HD MA 5.1) [29.01 GB] | 1080p BluRay AVC x264 Multi (DDP5.1) [18.39 GB] | 1080p BluRay x265 10bit HEVC Multi (DDP5.1) [7.77 GB] - Tamil, Hindi, Telugu, English (DDP 5.1, DTS-X 7.1)',
     posterUrl: 'https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32133_p_v13_al.jpg',
     year: 2003,
     genre: ['Action', 'Adventure', 'Sci-Fi'],
