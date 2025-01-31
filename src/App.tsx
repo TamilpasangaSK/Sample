@@ -78,6 +78,46 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '22',
+    title: 'You\'re Cordially Invited - 2025',
+    description: 'You\'re Cordially Invited (2025) 1080p - [ H.264 - 7.9 GB | HEVC - 3.62 GB ] - Tamil, Telugu, Hindi, Malayalam, Kannada, English (DDP 5.1 @ 640kb/s)',
+    posterUrl: 'https://example.com/youre-cordially-invited-poster.jpg',
+    year: 2025,
+    genre: ['Comedy', 'Romance'],
+    director: ['Nicholas Stoller'],
+    cast: ['Reese Witherspoon', 'Will Ferrell'],
+    rating: 7.2,
+    duration: '1h 45m',
+    quality: ['1080p', '720p', 'H.264', 'HEVC'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada', 'English', 'DDP 5.1'],
+    downloads: 180,
+    likes: 400,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '720p H.264 - GDFLIX',
+        size: '5.3 GB',
+        url: 'https://gplinks.co/JUTgd'
+      },
+      {
+        quality: '1080p H.264 - GDFLIX',
+        size: '7.9 GB',
+        url: 'https://gplinks.co/iZjTdj'
+      },
+      {
+        quality: '1080p HEVC - FILEPRESS',
+        size: '3.62 GB',
+        url: 'https://gplinks.co/L8X0SsJ9'
+      },
+              {
+        quality: '1080p HEVC - GDTOT',
+        size: '3.62 GB',
+        url: 'https://gplinks.co/CljT6NX5'
+      }
+    ]
+},
+    {
   id: '32',
   title: 'Pushpa 2 The Rule',
   description: 'Pushpa 2 The Rule - 1080P & HDR - Black Border: YES - Audio: DTS 5.1 - Audio Languages: Tam + Hin + Tel + Mal - Audio Tracks: 4 In 1',
