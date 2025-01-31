@@ -78,6 +78,126 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '37',
+    title: 'Transformers Prime: Season 3 - 2013',
+    description: 'Transformers Prime: Season 3 (2013) 1080p - [ H.264 - 17.09 GB | H.265 - 8.05 GB | 720p H.264 - 8.85 GB | 720p H.265 - 4.3 GB ] - Tamil, Telugu, Hindi, English (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://m.media-amazon.com/images/I/91yAQmpa6TL._AC_UF1000,1000_QL80_.jpg',
+    year: 2013,
+    genre: ['Action', 'Animation', 'Sci-Fi'],
+    director: ['David Hartman'],
+    cast: ['Peter Cullen', 'Frank Welker', 'Sumalee Montano'],
+    rating: 8.3,
+    duration: '13 Episodes',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 2.0'],
+    downloads: 500,
+    likes: 950,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        size: '17.09 GB',
+        url: 'https://gplinks.co/9oVnoA'
+      },
+      {
+        quality: '1080p H.265',
+        size: '8.05 GB',
+        url: 'https://gplinks.co/Ffl3sR'
+      },
+      {
+        quality: '720p H.264',
+        size: '8.85 GB',
+        url: 'https://gplinks.co/NfiRj'
+      },
+      {
+        quality: '720p H.265',
+        size: '4.3 GB',
+        url: 'https://gplinks.co/oDFuw'
+      }
+    ]
+},
+    {
+    id: '36',
+    title: 'Transformers Prime: Season 2 - 2012',
+    description: 'Transformers Prime: Season 2 (2012) 1080p - [ H.264 - 32.11 GB | H.265 - 14.08 GB | 720p H.264 - 16.86 GB | 720p H.265 - 7.51 GB ] - Tamil, Telugu, Hindi, English (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://images.justwatch.com/poster/9504515/s718/season-2.jpg',
+    year: 2012,
+    genre: ['Action', 'Animation', 'Sci-Fi'],
+    director: ['David Hartman'],
+    cast: ['Peter Cullen', 'Frank Welker', 'Sumalee Montano'],
+    rating: 8.2,
+    duration: '26 Episodes',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 2.0'],
+    downloads: 600,
+    likes: 1100,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        size: '32.11 GB',
+        url: 'https://gplinks.co/MhfYRLb'
+      },
+      {
+        quality: '1080p H.265',
+        size: '14.08 GB',
+        url: 'https://gplinks.co/JIgfb'
+      },
+      {
+        quality: '720p H.264',
+        size: '16.86 GB',
+        url: 'https://gplinks.co/J7KxpF'
+      },
+      {
+        quality: '720p H.265',
+        size: '7.51 GB',
+        url: 'https://gplinks.co/TtYR'
+      }
+    ]
+},
+    {
+    id: '35',
+    title: 'Transformers Prime: Season 1 - 2011',
+    description: 'Transformers Prime: Season 1 (2011) 1080p - [ H.264 - 33.98 GB | H.265 - 14.67 GB | 720p H.264 - 18 GB | 720p H.265 - 8.13 GB ] - Tamil, Telugu, Hindi, English (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://images.justwatch.com/poster/9504501/s718/season-1.jpg',
+    year: 2011,
+    genre: ['Action', 'Animation', 'Sci-Fi'],
+    director: ['David Hartman'],
+    cast: ['Peter Cullen', 'Frank Welker', 'Sumalee Montano'],
+    rating: 8.2,
+    duration: '26 Episodes',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'DDP 2.0'],
+    downloads: 700,
+    likes: 1200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p DDP2.0 H.264',
+        size: '33.98 GB',
+        url: 'https://gplinks.co/IktJlQ'
+      },
+      {
+        quality: '1080p DDP2.0 H.265',
+        size: '14.67 GB',
+        url: 'https://gplinks.co/2hAyuC'
+      },
+      {
+        quality: '720p DDP2.0 H.264',
+        size: '18 GB',
+        url: 'https://gplinks.co/rEFt2d'
+      },
+      {
+        quality: '720p DDP2.0 H.265',
+        size: '8.13 GB',
+        url: 'https://gplinks.co/iN6pX'
+      }
+    ]
+},
+    {
     id: '34',
     title: 'Kris Roll No. 21 - S01 & S02',
     description: 'Kris Roll No. 21 - S01 & S02 (1080p) - [ H.264 - 5.36 GB | 5.4 GB ] - Tamil, Telugu, Hindi, Malayalam, Kannada, English (AAC 2.0 @ 128kb/s) - 📄 ESubs',
