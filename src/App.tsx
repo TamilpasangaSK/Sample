@@ -78,6 +78,106 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '27',
+    title: 'Unlock My Boss S01',
+    description: 'Unlock My Boss S01 (2022) 1080p - [ H.264 - 39.22 GB | H.265 - 12.24 GB | 720p H.264 - 17.31 GB | 720p H.265 - 7.09 GB ] - Tamil, Telugu, Hindi, Korean (DDP 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://picsxtra.com/images/2025/01/29/Unlock-My-Boss-2025-TBL.md.jpg',
+    year: 2022,
+    genre: ['Comedy', 'Drama', 'Thriller'],
+    director: ['Kim Jung-Kwon'],
+    cast: ['Choi Siwon', 'Kwon Yu-Ri', 'Kim Ki-Bang'],
+    rating: 8.2,
+    duration: '12 Episodes',
+    quality: ['1080p', '720p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Korean', 'DDP 2.0'],
+    downloads: 500,
+    likes: 950,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.264',
+        size: '39.22 GB',
+        url: 'https://gplinks.co/IcUsR'
+      },
+      {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.265',
+        size: '12.24 GB',
+        url: 'https://gplinks.co/OMe8A4'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.264',
+        size: '17.31 GB',
+        url: 'https://gplinks.co/Ax9ycK'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.265',
+        size: '7.09 GB',
+        url: 'https://gplinks.co/8u8pI7e4'
+      },
+         {
+        quality: 'S01 - E01',
+        size: '3.57 GB',
+        url: 'https://gplinks.co/xETLo3a'
+      },
+      {
+        quality: 'S01 - E02',
+        size: '3.27 GB',
+        url: 'https://gplinks.co/ou16RfV'
+      },
+      {
+        quality: 'S01 - E03',
+        size: '3.36 GB',
+        url: 'https://gplinks.co/rPgHE5Xs'
+      },
+      {
+        quality: 'S01 - E04',
+        size: '2.67 GB',
+        url: 'https://gplinks.co/Se5c5SZ4'
+      },
+      {
+        quality: 'S01 - E05',
+        size: '3.82 GB',
+        url: 'https://gplinks.co/I7cwotJf'
+      },
+      {
+        quality: 'S01 - E06',
+        size: '3.62 GB',
+        url: 'https://gplinks.co/o0HWOWe'
+      },
+      {
+        quality: 'S01 - E07',
+        size: '3.38 GB',
+        url: 'https://gplinks.co/l6OarbBY'
+      },
+      {
+        quality: 'S01 - E08',
+        size: '2.93 GB',
+        url: 'https://gplinks.co/GUFAb6'
+      },
+      {
+        quality: 'S01 - E09',
+        size: '3.23 GB',
+        url: 'https://gplinks.co/v0WDT2'
+      },
+      {
+        quality: 'S01 - E10',
+        size: '3.2 GB',
+        url: 'https://gplinks.co/n52OwdWd'
+      },
+      {
+        quality: 'S01 - E11',
+        size: '3.15 GB',
+        url: 'https://gplinks.co/mWjJ'
+      },
+      {
+        quality: 'S01 - E12',
+        size: '3.02 GB',
+        url: 'https://gplinks.co/Yg5cPEP'
+      }        
+    ]
+},
+    {
     id: '37',
     title: 'Transformers Prime: Season 3 - 2013',
     description: 'Transformers Prime: Season 3 (2013) 1080p - [ H.264 - 17.09 GB | H.265 - 8.05 GB | 720p H.264 - 8.85 GB | 720p H.265 - 4.3 GB ] - Tamil, Telugu, Hindi, English (DDP 2.0 @ 248kb/s) - 📄 ESubs',
