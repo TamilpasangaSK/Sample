@@ -78,7 +78,37 @@ const latestMovies: Movie[] = [
     ]
 },
     {
-    id: '27',
+    id: '38',
+    title: 'Mark Antony - 2023',
+    description: 'Mark Antony (2023) 2160p AMZN WEB-DL H265 SDR DDP 5.1 DUAL - mkv [16.33 GB] | 1080p AMZN WEB-DL H264 SDR DDP 5.1 DUAL - mkv [10.55 GB] - Tamil, Hindi (Dolby Digital Plus 5.1 & 2.0) - 📄 ESubs',
+    posterUrl: 'https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/mark-antony-et00367366-1692281157.jpg',
+    year: 2023,
+    genre: ['Action', 'Drama'],
+    director: ['A. R. Murugadoss'],
+    cast: ['S.J. Suryah', 'Vishal', 'Ritu Varma'],
+    rating: 7.5,
+    duration: '2h 40m',
+    quality: ['2160p', '1080p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Hindi', 'Dolby Digital Plus 5.1', 'Dolby Digital Plus 2.0'],
+    downloads: 1000,
+    likes: 1200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p H265 SDR DDP 5.1 DUAL',
+        size: '16.33 GB',
+        url: 'https://gplinks.co/0SgBO9'
+      },
+      {
+        quality: '1080p H264 SDR DDP 5.1 DUAL',
+        size: '10.55 GB',
+        url: 'https://gplinks.co/k8pNq'
+      }
+    ]
+},
+    {
+    id: '37',
     title: 'Unlock My Boss S01',
     description: 'Unlock My Boss S01 (2022) 1080p - [ H.264 - 39.22 GB | H.265 - 12.24 GB | 720p H.264 - 17.31 GB | 720p H.265 - 7.09 GB ] - Tamil, Telugu, Hindi, Korean (DDP 2.0 @ 248kb/s) - 📄 ESubs',
     posterUrl: 'https://picsxtra.com/images/2025/01/29/Unlock-My-Boss-2025-TBL.md.jpg',
