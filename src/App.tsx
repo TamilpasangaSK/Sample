@@ -78,10 +78,40 @@ const latestMovies: Movie[] = [
     ]
 },
     {
-    id: '22',
+    id: '34',
+    title: 'Kris Roll No. 21 - S01 & S02',
+    description: 'Kris Roll No. 21 - S01 & S02 (1080p) - [ H.264 - 5.36 GB | 5.4 GB ] - Tamil, Telugu, Hindi, Malayalam, Kannada, English (AAC 2.0 @ 128kb/s) - 📄 ESubs',
+    posterUrl: 'https://images.justwatch.com/poster/139138301/s718/season-2.jpg',
+    year: 2024,
+    genre: ['Animation', 'Adventure', 'Comedy'],
+    director: ['P. Jayakumar'],
+    cast: ['Varun Buddhadev', 'Vinod Kulkarni'],
+    rating: 7.8,
+    duration: 'Multiple Episodes',
+    quality: ['1080p', 'H.264'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada', 'English', 'AAC 2.0'],
+    downloads: 150,
+    likes: 300,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: 'S01 1080p H.264',
+        size: '5.36 GB',
+        url: 'https://gplinks.co/kTOGRCOs'
+      },
+      {
+        quality: 'S02 1080p H.264',
+        size: '5.4 GB',
+        url: 'https://gplinks.co/n6gua'
+      }
+    ]
+},
+    {
+    id: '33',
     title: 'You\'re Cordially Invited - 2025',
     description: 'You\'re Cordially Invited (2025) 1080p - [ H.264 - 7.9 GB | HEVC - 3.62 GB ] - Tamil, Telugu, Hindi, Malayalam, Kannada, English (DDP 5.1 @ 640kb/s)',
-    posterUrl: 'https://example.com/youre-cordially-invited-poster.jpg',
+    posterUrl: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_BuWXbZ6XW8YJm3HGvVEpk4UxneX3FpbUQ-Abm2vAjaLpP3Uffcqb7YzYvsPBraA0ucYA',
     year: 2025,
     genre: ['Comedy', 'Romance'],
     director: ['Nicholas Stoller'],
