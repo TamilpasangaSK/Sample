@@ -77,6 +77,66 @@ const latestMovies: Movie[] = [
       }
     ]
 },
+        {
+    id: '43',
+    title: 'The Killer\'s Game - 2024',
+    description: 'The Killer\'s Game (2024) 2160p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [13.5 GB] | 2160p AMZN WEB-DL MULTI DDP5.1 HDR H.265-mkv [13.46 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [9.15 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [5.27 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [4.9 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.265-mkv [3.32 GB] | 1080p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [3.89 GB] | 720p AMZN WEB-DL MULTI DDP5.1 H.264-mkv [1.24 GB] - Tamil, Telugu, Hindi, Kannada, Malayalam, English (DDP 5.1, Dolby TrueHD Atmos) - 📄 MSubs, ESubs',
+    posterUrl: 'https://pics.filmaffinity.com/The_Killer_s_Game-656153704-large.jpg',
+    year: 2024,
+    genre: ['Action', 'Thriller'],
+    director: ['John Doe'],  // Replace 'John Doe' with the actual director's name
+    cast: ['Actor 1', 'Actor 2'],  // Replace with actual actors
+    rating: 7.8,
+    duration: '2h 10m',
+    quality: ['2160p', '1080p', '720p', 'HEVC', 'HDR', 'WEB-DL'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Kannada', 'Malayalam', 'English', 'DDP 5.1', 'Dolby TrueHD Atmos'],
+    downloads: 1500,
+    likes: 1800,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p H.265',
+        size: '13.5 GB',
+        url: 'https://gplinks.co/sGBIHQxO'
+      },
+      {
+        quality: '2160p HDR H.265',
+        size: '13.46 GB',
+        url: 'https://gplinks.co/1xFTDS'
+      },
+      {
+        quality: '1080p H.264',
+        size: '9.15 GB',
+        url: 'https://gplinks.co/3vBmDk81'
+      },
+      {
+        quality: '720p H.264',
+        size: '5.27 GB',
+        url: 'https://gplinks.co/Td0z'
+      },
+      {
+        quality: '1080p H.265',
+        size: '4.9 GB',
+        url: 'https://gplinks.co/6YJDIjMZ'
+      },
+      {
+        quality: '720p H.265',
+        size: '3.32 GB',
+        url: 'https://gplinks.co/QtC1Ojg'
+      },
+      {
+        quality: '1080p H.264',
+        size: '3.89 GB',
+        url: 'https://gplinks.co/qztln'
+      },
+      {
+        quality: '720p H.264',
+        size: '1.24 GB',
+        url: 'https://gplinks.co/wa8eG'
+      }
+    ]
+},
     {
     id: '42',
     title: 'Sonic the Hedgehog 3 - 2024',
