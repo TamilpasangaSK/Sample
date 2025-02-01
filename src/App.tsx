@@ -123,6 +123,281 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '57',
+    title: 'Viduthalai Part 2 - 2024',
+    description: 'Viduthalai Part 2 (2024) HQ 2160p AMZN WEB-DL x265 [Tamil (DD+ 5.1 - 640kbps)] ESub.mkv [17.07 GB] | 2160p AMZN WEB-DL x265 [Tamil (DD+ 5.1 - 640kbps)] ESub.mkv [11.64 GB] | 1080p AMZN WEB-DL x264 [Tamil (DD+ 5.1 - 640kbps)] ESub.mkv [8.85 GB] | 720p AMZN WEB-DL DDP5.1 H.264-mkv [7.73 GB] | 1080p AMZN WEB-DL x265 [Tamil (DD+ 5.1 - 640kbps)] ESub.mkv [3.85 GB] | 1080p AMZN WEB-DL x265 [Tamil (DD+ 5.1 - 640kbps)] ESub.mkv [1.92 GB]',
+    posterUrl: 'https://images.filmibeat.com/img/popcorn/movie_posters/viduthalaipart2-20240717114831-22555.jpg',
+    year: 2024,
+    genre: ['Action', 'Drama', 'Thriller'],
+    director: ['Vetrimaaran'],
+    cast: ['Soori', 'Vijay Sethupathi', 'Bhavani Sre', 'Gautham Menon', 'Chetan'],
+    rating: 8.2,
+    duration: '2h 35m',
+    quality: ['2160p', '1080p', '720p', 'x264', 'x265'],
+    audio: ['Tamil', 'Telugu', 'DDP 5.1'],
+    downloads: 4000,
+    likes: 4700,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+        {
+            quality: '2160p x265 Tamil - GDFLIX',
+            size: '17.07 GB',
+            url: 'https://gplinks.co/vE1u'
+        },
+        {
+            quality: '2160p x265 Tamil - HUBCLOUD',
+            size: '17.07 GB',
+            url: 'https://gplinks.co/TITIWxz'
+        },
+        {
+            quality: '2160p x265 Tamil - GDFLIX',
+            size: '11.64 GB',
+            url: 'https://gplinks.co/vRJ39BiE'
+        },
+        {
+            quality: '1080p x264 Tamil - GDFLIX',
+            size: '8.85 GB',
+            url: 'https://gplinks.co/W5yAT'
+        },
+        {
+            quality: '1080p x264 Tamil - HUBCLOUD',
+            size: '8.85 GB',
+            url: 'https://gplinks.co/qBLHG50'
+        },
+        {
+            quality: '720p H.264 Tamil - HUBCLOUD',
+            size: '7.73 GB',
+            url: 'https://gplinks.co/H0N2J'
+        },
+        {
+            quality: '1080p x265 Tamil - GDFLIX',
+            size: '3.85 GB',
+            url: 'https://gplinks.co/mQtUpD'
+        },
+        {
+            quality: '1080p x265 Tamil - HUBCLOUD',
+            size: '3.85 GB',
+            url: 'https://gplinks.co/6DpDzCkK'
+        },
+        {
+            quality: '1080p x265 Tamil - GDFLIX',
+            size: '1.92 GB',
+            url: 'https://gplinks.co/Z4hq'
+        },
+        {
+            quality: '1080p H.265 Tamil - HUBCLOUD',
+            size: '1.63 GB',
+            url: 'https://gplinks.co/0imwqfG'
+        },
+        {
+            quality: '720p x265 Tamil - GDFLIX',
+            size: '932.49 MB',
+            url: 'https://gplinks.co/Qj2SXNH'
+        },
+        {
+            quality: '1080p H.264 Telugu - HUBCLOUD',
+            size: '9.18 GB',
+            url: 'https://gplinks.co/uARddJIm'
+        },
+        {
+            quality: '1080p H.265 Telugu - HUBCLOUD',
+            size: '4.06 GB',
+            url: 'https://gplinks.co/ezY5HDI'
+        },
+        {
+            quality: '720p H.264 Telugu - HUBCLOUD',
+            size: '4.89 GB',
+            url: 'https://gplinks.co/LbFjVvAn'
+        },
+        {
+            quality: '720p H.265 Telugu - HUBCLOUD',
+            size: '1.7 GB',
+            url: 'https://gplinks.co/eduRKvZ'
+        }
+    ]
+},
+    {
+    id: '56',
+    title: 'Viduthalai Part 1 - 2023',
+    description: 'Viduthalai Part 1 (2023) 2160p AMZN WEB-DL x265 [DDP 5.1] - mkv [15.32 GB] | 1080p AMZN WEB-DL x264 [DDP 5.1] - mkv [7.25 GB] | 1080p AMZN WEB-DL x265 [DDP 5.1] - mkv [3.62 GB] | 720p AMZN WEB-DL x264 [DDP 5.1] - mkv [3.73 GB] | 720p AMZN WEB-DL x265 [DDP 5.1] - mkv [1.86 GB]',
+    posterUrl: 'https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/viduthalai-part--1-et00310832-1679481437.jpg',
+    year: 2023,
+    genre: ['Action', 'Drama', 'Thriller'],
+    director: ['Vetrimaaran'],
+    cast: ['Soori', 'Vijay Sethupathi', 'Bhavani Sre', 'Gautham Menon', 'Chetan'],
+    rating: 8.0,
+    duration: '2h 30m',
+    quality: ['2160p', '1080p', '720p', 'AMZN WEB-DL', 'x264', 'x265'],
+    audio: ['Tamil', 'Telugu', 'DDP 5.1'],
+    downloads: 3500,
+    likes: 4200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+        {
+            quality: '2160p x265 - Dual - GDFLIX',
+            size: '15.32 GB',
+            url: 'https://gplinks.co/cKHfeBx'
+        },
+        {
+            quality: '2160p x265 - Dual - HUBCLOUD',
+            size: '15.32 GB',
+            url: 'https://gplinks.co/slm3CG'
+        },
+        {
+            quality: '1080p x264 - Dual - GDFLIX',
+            size: '7.25 GB',
+            url: 'https://gplinks.co/oBGyGaz'
+        },
+        {
+            quality: '1080p x264 - Dual - HUBCLOUD',
+            size: '7.25 GB',
+            url: 'https://gplinks.co/oBGyGaz'
+        },
+        {
+            quality: '1080p x265 - Dual - HUBCLOUD',
+            size: '3.62 GB',
+            url: 'https://gplinks.co/dLrg2'
+        },
+        {
+            quality: '720p x264 - Dual - HUBCLOUD',
+            size: '3.73 GB',
+            url: 'https://gplinks.co/0ymsZXos'
+        },
+        {
+            quality: '720p x265 - Dual - HUBCLOUD',
+            size: '1.86 GB',
+            url: 'https://gplinks.co/uYymAKxw'
+        },
+        {
+            quality: '2160p x265 - Tamil - GDFLIX',
+            size: '10.03 GB',
+            url: 'https://gplinks.co/aCpWBVw'
+        },
+        {
+            quality: '1080p x264 - Tamil - GDFLIX',
+            size: '6.64 GB',
+            url: 'https://gplinks.co/iQQ0v'
+        },
+        {
+            quality: '1080p x265 - Tamil - GDFLIX',
+            size: '3.12 GB',
+            url: 'https://gplinks.co/y1IlWdL'
+        },
+        {
+            quality: '1080p x265 - Tamil - GDFLIX',
+            size: '1.57 GB',
+            url: 'https://gplinks.co/FcbVr3'
+        },
+        {
+            quality: '720p x265 - Tamil - GDFLIX',
+            size: '743.44 MB',
+            url: 'https://gplinks.co/R1zXE'
+        }
+    ]
+},
+    {
+    id: '55',
+    title: 'Viduthalai Part 1 - 2023 - DIRECTOR\'S CUT',
+    description: 'Viduthalai Part 1 (2023) 720p ZEE5 WEB-DL MULTI AAC2.0 H.265 | 1080p ZEE5 WEB-DL MULTI DDP5.1 Atmos H.264 | Dolby Digital Plus 5.1 @ 640kb/s - 📄 ESubs',
+    posterUrl: 'https://m.media-amazon.com/images/M/MV5BYzFjYTE5MDctYzYwNS00MGQ3LThiMTgtZDgxMTJiYzlhYTdlXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg',
+    year: 2023,
+    genre: ['Action', 'Drama', 'Thriller'],
+    director: ['Vetrimaaran'],
+    cast: ['Soori', 'Vijay Sethupathi', 'Bhavani Sre', 'Gautham Menon', 'Chetan'],
+    rating: 8.0,
+    duration: '2h 30m',
+    quality: ['720p', '1080p', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Telugu', 'Kannada', 'Malayalam', 'Dolby Digital Plus 5.1', 'Atmos'],
+    downloads: 2500,
+    likes: 3200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+        {
+            quality: '720p H.265',
+            size: '1.8 GB',
+            url: 'https://gplinks.co/MfPg'
+        },
+        {
+            quality: '720p H.264',
+            size: '1.85 GB',
+            url: 'https://gplinks.co/4ngh'
+        },
+        {
+            quality: '1080p H.265',
+            size: '2.61 GB',
+            url: 'https://gplinks.co/UrgkuYuP'
+        },
+        {
+            quality: '1080p DDP5.1 Atmos H.264',
+            size: '2.9 GB',
+            url: 'https://gplinks.co/EOjt'
+        }
+    ]
+},
+            {
+    id: '54',
+    title: 'Spider-Man Far from Home - 2019',
+    description: 'Spider-Man Far from Home (2019) 1080p NF WEB-DL MULTI DDP5.1 Atmos H.264 | 1080p NF WEB-DL MULTI DDP5.1 Atmos H.265 - 📄 ESubs',
+    posterUrl: 'https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/03/19121911/4q2NNj4S5dG2RLF9CpXsej7yXl-scaled.jpg',
+    year: 2019,
+    genre: ['Action', 'Adventure', 'Sci-Fi'],
+    director: ['Jon Watts'],
+    cast: ['Tom Holland', 'Jake Gyllenhaal', 'Samuel L. Jackson', 'Zendaya', 'Marisa Tomei'],
+    rating: 7.4,
+    duration: '2h 9m',
+    quality: ['1080p', 'WEB-DL', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Hindi', 'Telugu', 'Bengali', 'Malayalam', 'English', 'Dolby Digital Plus 5.1 Atmos'],
+    downloads: 2800,
+    likes: 3500,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.264',
+        size: '8.09 GB',
+        url: 'https://gplinks.co/QCYvz8mJ'
+      },
+      {
+        quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.265',
+        size: '5.57 GB',
+        url: 'https://gplinks.co/dq0Tv'
+      }
+    ]
+},
+    {
+    id: '53',
+    title: 'Spider-Man Homecoming - 2017',
+    description: 'Spider-Man Homecoming (2017) 1080p NF WEB-DL MULTI DDP5.1 H.264 | 1080p NF WEB-DL MULTI AAC5.1 VP9 - 📄 ESubs',
+    posterUrl: 'https://www.dvdplanetstore.pk/wp-content/uploads/2017/12/kY2c7wKgOfQjvbqe7yVzLTYkxJO.jpg',
+    year: 2017,
+    genre: ['Action', 'Adventure', 'Sci-Fi'],
+    director: ['Jon Watts'],
+    cast: ['Tom Holland', 'Michael Keaton', 'Robert Downey Jr.', 'Zendaya', 'Marisa Tomei'],
+    rating: 7.4,
+    duration: '2h 13m',
+    quality: ['1080p', 'WEB-DL', 'H.264', 'VP9'],
+    audio: ['Tamil', 'English', 'Hindi', 'Telugu', 'Kannada', 'Bengali', 'Malayalam', 'Dolby Digital Plus 5.1'],
+    downloads: 2500,
+    likes: 3200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p NF WEB-DL MULTI DDP5.1 H.264',
+        size: '8.83 GB',
+        url: 'https://gplinks.co/KcNInx8'
+      },
+      {
+        quality: '1080p NF WEB-DL MULTI AAC5.1 VP9',
+        size: '2.32 GB',
+        url: 'https://gplinks.co/Lu8c84'
+      }
+    ]
+},
+    {
     id: '52',
     title: '65 - 2023',
     description: '65 (2023) 1080p NF WEB-DL MULTI DDP5.1 Atmos H.264 | 1080p NF WEB-DL MULTI DDP5.1 Atmos H.265 | 1080p NF WEB-DL MULTI DDP5.1 Atmos VP9 - தமிழ் | हिन्दी | తెలుగు | English - 📄 ESubs',
@@ -154,66 +429,6 @@ const latestMovies: Movie[] = [
         quality: '1080p MULTI DDP5.1 Atmos VP9',
         size: '1.45 GB',
         url: 'https://gplinks.co/Ywu2qt'
-      }
-    ]
-},
-        {
-    id: '53',
-    title: 'Spider-Man Far from Home - 2019',
-    description: 'Spider-Man Far from Home (2019) 1080p NF WEB-DL MULTI DDP5.1 Atmos H.264 | 1080p NF WEB-DL MULTI DDP5.1 Atmos H.265 - 📄 ESubs',
-    posterUrl: 'https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/03/19121911/4q2NNj4S5dG2RLF9CpXsej7yXl-scaled.jpg',
-    year: 2019,
-    genre: ['Action', 'Adventure', 'Sci-Fi'],
-    director: ['Jon Watts'],
-    cast: ['Tom Holland', 'Jake Gyllenhaal', 'Samuel L. Jackson', 'Zendaya', 'Marisa Tomei'],
-    rating: 7.4,
-    duration: '2h 9m',
-    quality: ['1080p', 'WEB-DL', 'H.264', 'H.265'],
-    audio: ['Tamil', 'Hindi', 'Telugu', 'Bengali', 'Malayalam', 'English', 'Dolby Digital Plus 5.1 Atmos'],
-    downloads: 2800,
-    likes: 3500,
-    channelName: 'Tamilpasanga',
-    channelLink: 'https://t.me/Tamil_New_Movies_4K',
-    downloadLinks: [
-      {
-        quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.264',
-        size: '8.09 GB',
-        url: 'https://gplinks.co/QCYvz8mJ'
-      },
-      {
-        quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.265',
-        size: '5.57 GB',
-        url: 'https://gplinks.co/dq0Tv'
-      }
-    ]
-},
-    {
-    id: '52',
-    title: 'Spider-Man Homecoming - 2017',
-    description: 'Spider-Man Homecoming (2017) 1080p NF WEB-DL MULTI DDP5.1 H.264 | 1080p NF WEB-DL MULTI AAC5.1 VP9 - 📄 ESubs',
-    posterUrl: 'https://www.dvdplanetstore.pk/wp-content/uploads/2017/12/kY2c7wKgOfQjvbqe7yVzLTYkxJO.jpg',
-    year: 2017,
-    genre: ['Action', 'Adventure', 'Sci-Fi'],
-    director: ['Jon Watts'],
-    cast: ['Tom Holland', 'Michael Keaton', 'Robert Downey Jr.', 'Zendaya', 'Marisa Tomei'],
-    rating: 7.4,
-    duration: '2h 13m',
-    quality: ['1080p', 'WEB-DL', 'H.264', 'VP9'],
-    audio: ['Tamil', 'English', 'Hindi', 'Telugu', 'Kannada', 'Bengali', 'Malayalam', 'Dolby Digital Plus 5.1'],
-    downloads: 2500,
-    likes: 3200,
-    channelName: 'Tamilpasanga',
-    channelLink: 'https://t.me/Tamil_New_Movies_4K',
-    downloadLinks: [
-      {
-        quality: '1080p NF WEB-DL MULTI DDP5.1 H.264',
-        size: '8.83 GB',
-        url: 'https://gplinks.co/KcNInx8'
-      },
-      {
-        quality: '1080p NF WEB-DL MULTI AAC5.1 VP9',
-        size: '2.32 GB',
-        url: 'https://gplinks.co/Lu8c84'
       }
     ]
 },
