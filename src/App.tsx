@@ -13,7 +13,7 @@ import type { Movie } from './types';
 // Sample data
 const latestMovies: Movie[] = [
     {
-    id: '50',
+    id: '90',
     title: 'Pushpa 2: The Rule Reloaded Version - 2025',
     description: 'Pushpa 2: The Rule Reloaded Version (2025) 1080p - [ H.264 - 11.82 GB | H.265 - 8.64 GB | AV1 - 7.57 GB | VP9 - 6.59 GB ] - Tamil, Telugu, Hindi, Malayalam, Kannada (DDP 5.1 @ 640kb/s) - 📄 ESubs',
     posterUrl: 'https://i.ytimg.com/vi/UtCWVmh9gxc/maxresdefault.jpg',
@@ -84,6 +84,56 @@ const latestMovies: Movie[] = [
         quality: '720p AAC5.1 VP9 - 4Lan',
         size: '2.71 GB',
         url: 'https://gplinks.co/2Pl5Ra'
+      }
+    ]
+},
+    {
+    id: '50',
+    title: 'Madha Gaja Raja - 2025',
+    description: 'Madha Gaja Raja (2025) 1080p HD AVC UNTOUCHED x264 AAC 2.0 | 1080p HQ HDRip x264 AAC 2.0 | 1080p HQ HDRip HEVC x265 AAC 2.0 | 720p HQ HDRip x264 AAC 2.0 | 720p HQ HDRip HEVC x265 AAC 2.0 | HDRip x264 AAC - Tamil (AAC 2.0) - 📄 ESubs',
+    posterUrl: 'https://www.cinevez.io/wp-content/uploads/2025/01/Madha-Gaja-Raja-Tamil-Poster.jpg',
+    year: 2025,
+    genre: ['Action', 'Comedy', 'Drama'],
+    director: ['Sundar C.'],
+    cast: ['Vishal Krishna', 'Anjali', 'Varalaxmi Sarathkumar', 'Santhanam', 'Manobala', 'Sonu Sood'],
+    rating: 7.9,
+    duration: '2h 25m',
+    quality: ['1080p', '720p', 'HDRip', 'HEVC', 'x264'],
+    audio: ['Tamil', 'AAC 2.0'],
+    downloads: 1400,
+    likes: 1700,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p HD AVC UNTOUCHED x264 AAC 2.0',
+        size: '3.4 GB',
+        url: 'https://gplinks.co/Y9uL7'
+      },
+      {
+        quality: '1080p HQ HDRip x264 AAC 2.0',
+        size: '2.7 GB',
+        url: 'https://gplinks.co/nbBg6MX'
+      },
+      {
+        quality: '1080p HQ HDRip HEVC x265 AAC 2.0',
+        size: '1.8 GB',
+        url: 'https://gplinks.co/DO2Bf4k9'
+      },
+      {
+        quality: '720p HQ HDRip x264 AAC 2.0',
+        size: '1.4 GB',
+        url: 'https://gplinks.co/v6fBb'
+      },
+      {
+        quality: '720p HQ HDRip HEVC x265 AAC 2.0',
+        size: '950 MB',
+        url: 'https://gplinks.co/ecJ9G1l'
+      },
+      {
+        quality: 'HDRip x264 AAC',
+        size: '700 MB',
+        url: 'https://gplinks.co/l87vCj'
       }
     ]
 },
