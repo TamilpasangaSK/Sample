@@ -88,6 +88,41 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '49',
+    title: 'Identity - 2025',
+    description: 'Identity (2025) 2160p ZEE5 WEB-DL x265 DDP5.1 | 1080p ZEE5 WEB-DL x264 DDP5.1 | 720p ZEE5 WEB-DL x265 DDP5.1 - Tamil, Telugu, Malayalam, Kannada (Dolby Digital Plus 5.1) - 📄 ESubs',
+    posterUrl: 'https://assetscdn1.paytm.com/images/cinema/Identity--600X800-bd821900-c437-11ef-a259-4b3c6d26f4a9.jpg',
+    year: 2025,
+    genre: ['Thriller', 'Mystery', 'Drama'],
+    director: ['Director Name'],
+    cast: ['Actor 1', 'Actor 2'],
+    rating: 8.2,
+    duration: '2h 5m',
+    quality: ['2160p', '1080p', '720p', 'WEB-DL', 'HEVC', 'x264'],
+    audio: ['Tamil', 'Telugu', 'Malayalam', 'Kannada', 'Dolby Digital Plus 5.1'],
+    downloads: 1800,
+    likes: 2200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p x265',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/BzlSM'
+      },
+      {
+        quality: '1080p x264',
+        size: '2.38 GB',
+        url: 'https://gplinks.co/9RPZgPF'
+      },
+      {
+        quality: '720p x265',
+        size: '1.27 GB',
+        url: 'https://gplinks.co/FoLprV'
+      }
+    ]
+},
+    {
     id: '48',
     title: 'Deadpool & Wolverine - 2024',
     description: 'Deadpool & Wolverine (2024) 2160p UHD BluRay DV HDR 10bit HEVC | 1080p BluRay REMUX AVC x264 | 1080p BluRay x264 | 1080p BluRay 10bit HEVC x265 - தமிழ், हिन्दी, తెలుగు, English (Dolby Digital Plus 5.1, TrueHD Atmos 7.1) - 📄 ESubs',
