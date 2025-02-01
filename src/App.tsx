@@ -87,6 +87,122 @@ const latestMovies: Movie[] = [
       }
     ]
 },
+    {
+    id: '47',
+    title: 'Bering Sea Gold - Season 1',
+    description: 'Bering Sea Gold Season 1 1080p DSCVP WEB-DL MULTi AAC 2.0 H.264-mkv | 720p DSCVP WEB-DL MULTi AAC 2.0 H.264-mkv - Tamil, Telugu, Hindi, English, Bengali (AAC 2.0 @ 248kb/s) - 📄 ESubs',
+    posterUrl: 'https://images.justwatch.com/poster/323736045/s718/bering-sea-gold.jpg',
+    year: 2012,
+    genre: ['Reality-TV', 'Documentary'],
+    director: ['Discovery Channel'],
+    cast: ['Shawn Pomrenke', 'Emily Riedel', 'Zeke Tenhoff'],
+    rating: 7.0,
+    duration: '8 Episodes',
+    quality: ['1080p', '720p', 'WEB-DL', 'H.264'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'English', 'Bengali', 'AAC 2.0'],
+    downloads: 800,
+    likes: 950,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p H.264',
+        episode: 'S01E01',
+        size: '1.92 GB',
+        url: 'https://gplinks.co/ZxXjgWtX'
+      },
+      {
+        quality: '1080p H.264',
+        episode: 'S01E02',
+        size: '2.3 GB',
+        url: 'https://gplinks.co/XjlaL'
+      },
+      {
+        quality: '1080p H.264',
+        episode: 'S01E03',
+        size: '2.45 GB',
+        url: 'https://gplinks.co/WZXBK01'
+      },
+      {
+        quality: '1080p H.264',
+        episode: 'S01E04',
+        size: '2.22 GB',
+        url: 'https://gplinks.co/DTDThv'
+      },
+      {
+        quality: '1080p H.264',
+        episode: 'S01E05',
+        size: '2.04 GB',
+        url: 'https://gplinks.co/Cnt0'
+      },
+      {
+        quality: '1080p H.264',
+        episode: 'S01E06',
+        size: '1.89 GB',
+        url: 'https://gplinks.co/bcfl1p'
+      },
+      {
+        quality: '1080p H.264',
+        episode: 'S01E07',
+        size: '1.67 GB',
+        url: 'https://gplinks.co/6Vif3l2'
+      },
+      {
+        quality: '1080p H.264',
+        episode: 'S01E08',
+        size: '2.28 GB',
+        url: 'https://gplinks.co/GhtHiFK'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E01',
+        size: '735.85 MB',
+        url: 'https://gplinks.co/7Dpl7U'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E02',
+        size: '1.06 GB',
+        url: 'https://gplinks.co/PKr5Q'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E03',
+        size: '1.07 GB',
+        url: 'https://gplinks.co/gJPyBn'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E04',
+        size: '877.69 MB',
+        url: 'https://gplinks.co/IWKOS'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E05',
+        size: '951.36 MB',
+        url: 'https://gplinks.co/JzuRsU'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E06',
+        size: '924.44 MB',
+        url: 'https://gplinks.co/Ox5z3n4'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E07',
+        size: '672.79 MB',
+        url: 'https://gplinks.co/jYNm31E'
+      },
+      {
+        quality: '720p H.264',
+        episode: 'S01E08',
+        size: '937.68 MB',
+        url: 'https://gplinks.co/0Ynv2O'
+      }
+    ]
+}
         {
     id: '46',
     title: 'Hulk - 2003',
