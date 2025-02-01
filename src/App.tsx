@@ -88,10 +88,45 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '79',
+    title: 'Identity - 2025',
+    description: 'Identity (2025) 2160p ZEE5 WEB-DL x265 DDP5.1 | 1080p ZEE5 WEB-DL x264 DDP5.1 | 720p ZEE5 WEB-DL x265 DDP5.1 - Tamil, Telugu, Malayalam, Kannada (Dolby Digital Plus 5.1) - 📄 ESubs',
+    posterUrl: 'https://assetscdn1.paytm.com/images/cinema/Identity--600X800-bd821900-c437-11ef-a259-4b3c6d26f4a9.jpg',
+    year: 2025,
+    genre: ['Thriller', 'Mystery', 'Drama'],
+    director: ['Director Name'],
+    cast: ['Actor 1', 'Actor 2'],
+    rating: 8.2,
+    duration: '2h 5m',
+    quality: ['2160p', '1080p', '720p', 'WEB-DL', 'HEVC', 'x264'],
+    audio: ['Tamil', 'Telugu', 'Malayalam', 'Kannada', 'Dolby Digital Plus 5.1'],
+    downloads: 1800,
+    likes: 2200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p x265',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/BzlSM'
+      },
+      {
+        quality: '1080p x264',
+        size: '2.38 GB',
+        url: 'https://gplinks.co/9RPZgPF'
+      },
+      {
+        quality: '720p x265',
+        size: '1.27 GB',
+        url: 'https://gplinks.co/FoLprV'
+      }
+    ]
+},
+        {
     id: '50',
     title: 'Madha Gaja Raja - 2025',
     description: 'Madha Gaja Raja (2025) 1080p HD AVC UNTOUCHED x264 AAC 2.0 | 1080p HQ HDRip x264 AAC 2.0 | 1080p HQ HDRip HEVC x265 AAC 2.0 | 720p HQ HDRip x264 AAC 2.0 | 720p HQ HDRip HEVC x265 AAC 2.0 | HDRip x264 AAC - Tamil (AAC 2.0) - 📄 ESubs',
-    posterUrl: 'https://www.cinevez.io/wp-content/uploads/2025/01/Madha-Gaja-Raja-Tamil-Poster.jpg',
+    posterUrl: 'https://media-cache.cinematerial.com/p/500x/7hu3qgry/madha-gaja-raja-indian-movie-poster.jpg?v=1516740484',
     year: 2025,
     genre: ['Action', 'Comedy', 'Drama'],
     director: ['Sundar C.'],
@@ -139,36 +174,41 @@ const latestMovies: Movie[] = [
 },
     {
     id: '49',
-    title: 'Identity - 2025',
-    description: 'Identity (2025) 2160p ZEE5 WEB-DL x265 DDP5.1 | 1080p ZEE5 WEB-DL x264 DDP5.1 | 720p ZEE5 WEB-DL x265 DDP5.1 - Tamil, Telugu, Malayalam, Kannada (Dolby Digital Plus 5.1) - 📄 ESubs',
-    posterUrl: 'https://assetscdn1.paytm.com/images/cinema/Identity--600X800-bd821900-c437-11ef-a259-4b3c6d26f4a9.jpg',
+    title: 'Vanangaan - 2025',
+    description: 'Vanangaan (2025) 1080p HD AVC UNTOUCHED x264 AAC 2.0 | 1080p HDRip HEVC x265 AAC 2.0 | 720p HDRip x264 AAC 2.0 | HDRip x264 AAC - Tamil (AAC 2.0) - 📄 ESubs',
+    posterUrl: 'https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vanangaan-et00334020-1736149319.jpg',
     year: 2025,
-    genre: ['Thriller', 'Mystery', 'Drama'],
-    director: ['Director Name'],
-    cast: ['Actor 1', 'Actor 2'],
-    rating: 8.2,
-    duration: '2h 5m',
-    quality: ['2160p', '1080p', '720p', 'WEB-DL', 'HEVC', 'x264'],
-    audio: ['Tamil', 'Telugu', 'Malayalam', 'Kannada', 'Dolby Digital Plus 5.1'],
-    downloads: 1800,
-    likes: 2200,
+    genre: ['Action', 'Drama'],
+    director: ['Bala'],
+    cast: ['Arun Vijay', 'Roshini Prakash', 'Samuthirakani', 'Mysskin'],
+    rating: 7.5,
+    duration: '2h 1m',
+    quality: ['1080p', '720p', 'HDRip', 'HEVC', 'x264'],
+    audio: ['Tamil', 'AAC 2.0'],
+    downloads: 1200,
+    likes: 1500,
     channelName: 'Tamilpasanga',
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
       {
-        quality: '2160p x265',
-        size: '2.11 GB',
-        url: 'https://gplinks.co/BzlSM'
+        quality: '1080p HD AVC UNTOUCHED x264 AAC 2.0',
+        size: '2.9 GB',
+        url: 'https://gplinks.co/3RxKn'
       },
       {
-        quality: '1080p x264',
-        size: '2.38 GB',
-        url: 'https://gplinks.co/9RPZgPF'
+        quality: '1080p HDRip HEVC x265 AAC 2.0',
+        size: '1.6 GB',
+        url: 'https://gplinks.co/weOfsGy'
       },
       {
-        quality: '720p x265',
-        size: '1.27 GB',
-        url: 'https://gplinks.co/FoLprV'
+        quality: '720p HDRip x264 AAC 2.0',
+        size: '1.4 GB',
+        url: 'https://gplinks.co/dNMSvR'
+      },
+      {
+        quality: 'HDRip x264 AAC',
+        size: '700 MB',
+        url: 'https://gplinks.co/kSe5ld'
       }
     ]
 },
