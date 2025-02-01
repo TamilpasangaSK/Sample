@@ -24,7 +24,7 @@ const latestMovies: Movie[] = [
     rating: 8.5,
     duration: '3h 44m',
     quality: ['1080p', '720p', 'H.264', 'H.265', 'AV1', 'VP9'],
-    audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada' 'DDP 5.1'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada', 'DDP 5.1'],
     downloads: 250,
     likes: 500,
     channelName: 'Tamilpasanga',
