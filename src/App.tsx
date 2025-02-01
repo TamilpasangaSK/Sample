@@ -189,14 +189,14 @@ const latestMovies: Movie[] = [
     posterUrl: 'https://pics.filmaffinity.com/The_Killer_s_Game-656153704-large.jpg',
     year: 2024,
     genre: ['Action', 'Thriller'],
-    director: ['John Doe'],  // Replace 'John Doe' with the actual director's name
-    cast: ['Actor 1', 'Actor 2'],  // Replace with actual actors
+    director: ['J.J. Perry'],
+    cast: ['Dave Bautista', 'Sofia Boutella', 'Terry Crews'],
     rating: 7.8,
     duration: '2h 10m',
     quality: ['2160p', '1080p', '720p', 'HEVC', 'HDR', 'WEB-DL'],
-    audio: ['Tamil', 'Telugu', 'Hindi', 'Kannada', 'Malayalam', 'English', 'DDP 5.1', 'Dolby TrueHD Atmos'],
-    downloads: 1500,
-    likes: 1800,
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Kannada', 'Malayalam', 'English', 'DDP 5.1', 'Dolby TrueHD Atmos 5.1'],
+    downloads: 2500,
+    likes: 3200,
     channelName: 'Tamilpasanga',
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
