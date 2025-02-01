@@ -78,6 +78,66 @@ const latestMovies: Movie[] = [
     ]
 },
         {
+    id: '48',
+    title: 'Lucca\'s World - 2024',
+    description: 'Lucca\'s World (2024) 1080p NF WEB-DL DDP5.1 DV H.265 [2.52 GB], 1080p NF WEB-DL DDP5.1 HDR H.265 [2.81 GB], 1080p NF WEB-DL DDP5.1 H.264 [4.68 GB], 1080p NF WEB-DL DDP5.1 H.265 [3.03 GB], 1080p NF WEB-DL DDP5.1 AV1-ViSTA [2.13 GB], 1080p NF WEB-DL AAC5.1 AV1 [1.14 GB], 720p NF WEB-DL DDP5.1 H.264 [2.25 GB], 720p NF WEB-DL AAC5.1 AV1 [659.11 MB] - Hindi, English, Spanish (DDP 5.1, AAC 5.1)',
+    posterUrl: 'https://m.media-amazon.com/images/M/MV5BYTY0YzM1MzEtMmI5OS00MjFjLWIwZDQtMWU4MjYyZTQ2NjVlXkEyXkFqcGc@._V1_.jpg',
+    year: 2024,
+    genre: ['Adventure', 'Drama'],
+    director: ['Not Available'],
+    cast: ['Not Available'],
+    rating: 'Not Available',
+    duration: 'Not Available',
+    quality: ['1080p', '720p', 'WEB-DL', 'DV', 'HDR'],
+    audio: ['Hindi', 'English', 'Spanish', 'DDP 5.1', 'AAC 5.1'],
+    downloads: 1200,
+    likes: 1500,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+        {
+            quality: '1080p NF WEB-DL DDP5.1 DV H.265',
+            size: '2.52 GB',
+            url: 'https://gplinks.co/nGsqpeI'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 HDR H.265',
+            size: '2.81 GB',
+            url: 'https://gplinks.co/55CmX'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 H.264',
+            size: '4.68 GB',
+            url: 'https://gplinks.co/Zh6xOtQ'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 H.265',
+            size: '3.03 GB',
+            url: 'https://gplinks.co/HisE'
+        },
+        {
+            quality: '1080p NF WEB-DL DDP5.1 AV1',
+            size: '2.13 GB',
+            url: 'https://gplinks.co/4BHdGjSR'
+        },
+        {
+            quality: '1080p NF WEB-DL AAC5.1 AV1',
+            size: '1.14 GB',
+            url: 'https://gplinks.co/pllJ'
+        },
+        {
+            quality: '720p NF WEB-DL DDP5.1 H.264',
+            size: '2.25 GB',
+            url: 'https://gplinks.co/EIdg2Oq'
+        },
+        {
+            quality: '720p NF WEB-DL AAC5.1 AV1',
+            size: '659.11 MB',
+            url: 'https://gplinks.co/IUMZfnD'
+        }
+    ]
+},
+        {
     id: '46',
     title: 'Hulk - 2003',
     description: 'Hulk (2003) 2160p 4K UHD HDR10 BluRay x265 10bit HEVC-Multi (DDP5.1+ DTS-X 7.1) [36.76 GB] | 1080p UHD HDR10 BluRay x265 10bit HEVC Multi (DDP5.1+ DDP 7.1) [24.41 GB] | 1080p BluRay REMUX VC-1 Multi (DDP5.1+ DTS-HD MA 5.1) [29.01 GB] | 1080p BluRay AVC x264 Multi (DDP5.1) [18.39 GB] | 1080p BluRay x265 10bit HEVC Multi (DDP5.1) [7.77 GB] - Tamil, Hindi, Telugu, English (DDP 5.1, DTS-X 7.1)',
