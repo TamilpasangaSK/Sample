@@ -88,6 +88,46 @@ const latestMovies: Movie[] = [
     ]
 },
     {
+    id: '48',
+    title: 'Deadpool & Wolverine - 2024',
+    description: 'Deadpool & Wolverine (2024) 2160p UHD BluRay DV HDR 10bit HEVC | 1080p BluRay REMUX AVC x264 | 1080p BluRay x264 | 1080p BluRay 10bit HEVC x265 - தமிழ், हिन्दी, తెలుగు, English (Dolby Digital Plus 5.1, TrueHD Atmos 7.1) - 📄 ESubs',
+    posterUrl: 'https://media.themoviedb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg',
+    year: 2024,
+    genre: ['Action', 'Comedy', 'Superhero'],
+    director: ['Shawn Levy'],
+    cast: ['Ryan Reynolds', 'Hugh Jackman', 'Emma Corrin'],
+    rating: 8.8,
+    duration: '2h 10m',
+    quality: ['2160p', '1080p', 'BluRay', 'HEVC', 'HDR', 'REMUX'],
+    audio: ['Tamil', 'Hindi', 'Telugu', 'English', 'Dolby Digital Plus 5.1', 'TrueHD Atmos 7.1'],
+    downloads: 2500,
+    likes: 3200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '2160p UHD BluRay DV HDR 10bit HEVC x265',
+        size: '26.64 GB',
+        url: 'https://gplinks.co/PAZS7'
+      },
+      {
+        quality: '1080p BluRay REMUX AVC x264',
+        size: '33.62 GB',
+        url: 'https://gplinks.co/ke9Q2kkG'
+      },
+      {
+        quality: '1080p BluRay x264',
+        size: '11.94 GB',
+        url: 'https://gplinks.co/cwaWI8V4'
+      },
+      {
+        quality: '1080p BluRay 10bit HEVC x265',
+        size: '6.78 GB',
+        url: 'https://gplinks.co/gl5NfA'
+      }
+    ]
+},
+    {
     id: '47',
     title: 'Bering Sea Gold - Season 1',
     description: 'Bering Sea Gold Season 1 1080p DSCVP WEB-DL MULTi AAC 2.0 H.264-mkv | 720p DSCVP WEB-DL MULTi AAC 2.0 H.264-mkv - Tamil, Telugu, Hindi, English, Bengali (AAC 2.0 @ 248kb/s) - 📄 ESubs',
