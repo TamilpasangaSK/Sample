@@ -122,6 +122,141 @@ const latestMovies: Movie[] = [
       }
     ]
 },
+    {
+    id: '52',
+    title: '65 - 2023',
+    description: '65 (2023) 1080p NF WEB-DL MULTI DDP5.1 Atmos H.264 | 1080p NF WEB-DL MULTI DDP5.1 Atmos H.265 | 1080p NF WEB-DL MULTI DDP5.1 Atmos VP9 - தமிழ் | हिन्दी | తెలుగు | English - 📄 ESubs',
+    posterUrl: 'https://stat4.bollywoodhungama.in/wp-content/uploads/2023/03/65-English-2.jpg',
+    year: 2023,
+    genre: ['Sci-Fi', 'Action', 'Thriller'],
+    director: ['Scott Beck', 'Bryan Woods'],
+    cast: ['Adam Driver', 'Ariana Greenblatt', 'Chloe Coleman'],
+    rating: 5.4,
+    duration: '1h 33m',
+    quality: ['1080p NF WEB-DL', 'H.264', 'H.265', 'VP9'],
+    audio: ['தமிழ்', 'हिन्दी', 'తెలుగు', 'English'],
+    downloads: 1800,
+    likes: 2200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p MULTI DDP5.1 Atmos H.264',
+        size: '4.95 GB',
+        url: 'https://gplinks.co/V5FSgzFx'
+      },
+      {
+        quality: '1080p MULTI DDP5.1 Atmos H.265',
+        size: '3.54 GB',
+        url: 'https://gplinks.co/xJbvy'
+      },
+      {
+        quality: '1080p MULTI DDP5.1 Atmos VP9',
+        size: '1.45 GB',
+        url: 'https://gplinks.co/Ywu2qt'
+      }
+    ]
+},
+        {
+    id: '53',
+    title: 'Spider-Man Far from Home - 2019',
+    description: 'Spider-Man Far from Home (2019) 1080p NF WEB-DL MULTI DDP5.1 Atmos H.264 | 1080p NF WEB-DL MULTI DDP5.1 Atmos H.265 - 📄 ESubs',
+    posterUrl: 'https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/03/19121911/4q2NNj4S5dG2RLF9CpXsej7yXl-scaled.jpg',
+    year: 2019,
+    genre: ['Action', 'Adventure', 'Sci-Fi'],
+    director: ['Jon Watts'],
+    cast: ['Tom Holland', 'Jake Gyllenhaal', 'Samuel L. Jackson', 'Zendaya', 'Marisa Tomei'],
+    rating: 7.4,
+    duration: '2h 9m',
+    quality: ['1080p', 'WEB-DL', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Hindi', 'Telugu', 'Bengali', 'Malayalam', 'English', 'Dolby Digital Plus 5.1 Atmos'],
+    downloads: 2800,
+    likes: 3500,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.264',
+        size: '8.09 GB',
+        url: 'https://gplinks.co/QCYvz8mJ'
+      },
+      {
+        quality: '1080p NF WEB-DL MULTI DDP5.1 Atmos H.265',
+        size: '5.57 GB',
+        url: 'https://gplinks.co/dq0Tv'
+      }
+    ]
+},
+    {
+    id: '52',
+    title: 'Spider-Man Homecoming - 2017',
+    description: 'Spider-Man Homecoming (2017) 1080p NF WEB-DL MULTI DDP5.1 H.264 | 1080p NF WEB-DL MULTI AAC5.1 VP9 - 📄 ESubs',
+    posterUrl: 'https://www.dvdplanetstore.pk/wp-content/uploads/2017/12/kY2c7wKgOfQjvbqe7yVzLTYkxJO.jpg',
+    year: 2017,
+    genre: ['Action', 'Adventure', 'Sci-Fi'],
+    director: ['Jon Watts'],
+    cast: ['Tom Holland', 'Michael Keaton', 'Robert Downey Jr.', 'Zendaya', 'Marisa Tomei'],
+    rating: 7.4,
+    duration: '2h 13m',
+    quality: ['1080p', 'WEB-DL', 'H.264', 'VP9'],
+    audio: ['Tamil', 'English', 'Hindi', 'Telugu', 'Kannada', 'Bengali', 'Malayalam', 'Dolby Digital Plus 5.1'],
+    downloads: 2500,
+    likes: 3200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p NF WEB-DL MULTI DDP5.1 H.264',
+        size: '8.83 GB',
+        url: 'https://gplinks.co/KcNInx8'
+      },
+      {
+        quality: '1080p NF WEB-DL MULTI AAC5.1 VP9',
+        size: '2.32 GB',
+        url: 'https://gplinks.co/Lu8c84'
+      }
+    ]
+},
+    {
+    id: '51',
+    title: 'White House Down - 2013',
+    description: 'White House Down (2013) 1080p AMZN WEB-DL DDP2.0 H.264 | 1080p AMZN WEB-DL DDP2.0 H.265 | 720p AMZN WEB-DL DDP2.0 H.264 | 720p AMZN WEB-DL DDP2.0 H.265 - தமிழ் | Hindi | English - 📄 ESubs',
+    posterUrl: 'https://images.moviesanywhere.com/e6babf28b5a64df8b8051d6a502831f9/20eddab6-c649-40e5-bca8-44059fbccd1a.jpg',
+    year: 2013,
+    genre: ['Action', 'Thriller'],
+    director: ['Roland Emmerich'],
+    cast: ['Channing Tatum', 'Jamie Foxx', 'Maggie Gyllenhaal', 'Jason Clarke'],
+    rating: 6.4,
+    duration: '2h 11m',
+    quality: ['1080p', '720p', 'WEB-DL', 'H.264', 'H.265'],
+    audio: ['Tamil', 'Hindi', 'English', 'Dolby Digital Plus 2.0'],
+    downloads: 1800,
+    likes: 2200,
+    channelName: 'Tamilpasanga',
+    channelLink: 'https://t.me/Tamil_New_Movies_4K',
+    downloadLinks: [
+      {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.264',
+        size: '9.74 GB',
+        url: 'https://gplinks.co/sAtwba'
+      },
+      {
+        quality: '1080p AMZN WEB-DL DDP2.0 H.265',
+        size: '4.53 GB',
+        url: 'https://gplinks.co/dVXfY'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.264',
+        size: '4.59 GB',
+        url: 'https://gplinks.co/Sk74Adyf'
+      },
+      {
+        quality: '720p AMZN WEB-DL DDP2.0 H.265',
+        size: '2.11 GB',
+        url: 'https://gplinks.co/AaL6'
+      }
+    ]
+},
         {
     id: '50',
     title: 'Madha Gaja Raja - 2025',
@@ -218,9 +353,9 @@ const latestMovies: Movie[] = [
     description: 'Deadpool & Wolverine (2024) 2160p UHD BluRay DV HDR 10bit HEVC | 1080p BluRay REMUX AVC x264 | 1080p BluRay x264 | 1080p BluRay 10bit HEVC x265 - தமிழ், हिन्दी, తెలుగు, English (Dolby Digital Plus 5.1, TrueHD Atmos 7.1) - 📄 ESubs',
     posterUrl: 'https://media.themoviedb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg',
     year: 2024,
-    genre: ['Action', 'Comedy', 'Superhero'],
+    genre: ['Action', 'Comedy', 'Superhero', 'Adventure'],
     director: ['Shawn Levy'],
-    cast: ['Ryan Reynolds', 'Hugh Jackman', 'Emma Corrin'],
+    cast: ['Ryan Reynolds', 'Hugh Jackman', 'Emma Corrin', 'Matthew Macfadyen'],
     rating: 8.8,
     duration: '2h 10m',
     quality: ['2160p', '1080p', 'BluRay', 'HEVC', 'HDR', 'REMUX'],
