@@ -15,7 +15,7 @@ const latestMovies: Movie[] = [
     {
     id: '50',
     title: 'Pushpa 2: The Rule Reloaded Version - 2025',
-    description: 'Pushpa 2: The Rule Reloaded Version (2025) 1080p - [ H.264 - 11.82 GB | H.265 - 8.64 GB | AV1 - 7.57 GB | VP9 - 6.59 GB ] - Tamil, Telugu, Hindi, Malayalam (DDP 5.1 @ 640kb/s) - 📄 ESubs',
+    description: 'Pushpa 2: The Rule Reloaded Version (2025) 1080p - [ H.264 - 11.82 GB | H.265 - 8.64 GB | AV1 - 7.57 GB | VP9 - 6.59 GB ] - Tamil, Telugu, Hindi, Malayalam, Kannada (DDP 5.1 @ 640kb/s) - 📄 ESubs',
     posterUrl: 'https://i.ytimg.com/vi/UtCWVmh9gxc/maxresdefault.jpg',
     year: 2025,
     genre: ['Action', 'Thriller', 'Drama'],
@@ -24,14 +24,24 @@ const latestMovies: Movie[] = [
     rating: 8.5,
     duration: '3h 44m',
     quality: ['1080p', '720p', 'H.264', 'H.265', 'AV1', 'VP9'],
-    audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'DDP 5.1'],
+    audio: ['Tamil', 'Telugu', 'Hindi', 'Malayalam', 'Kannada' 'DDP 5.1'],
     downloads: 250,
     likes: 500,
     channelName: 'Tamilpasanga',
     channelLink: 'https://t.me/Tamil_New_Movies_4K',
     downloadLinks: [
+                      {
+        quality: '2160p - H.265 - DV - 5Lan - GDFLIX',
+        size: '33.31 GB',
+        url: 'https://gplinks.co/suYBa4na'
+      },
+      {
+        quality: '2160p - H.265 - DV HDR - 5Lan - GDFLIX',
+        size: '22.19 GB',
+        url: 'https://gplinks.co/ns55'
+      },
               {
-        quality: '1080p - H.265 - DV ',
+        quality: '1080p - H.265 - DV - 4Lan - GDFLIX ',
         size: '12.71 GB',
         url: 'https://gplinks.co/QrtI'
       },
@@ -41,100 +51,40 @@ const latestMovies: Movie[] = [
         url: 'https://gplinks.co/lFp8Ht'
       },
               {
-        quality: '1080p - H.264 - GDFLIX',
+        quality: '1080p - H.264 - 4Lan - GDFLIX',
         size: '11.82 GB',
         url: 'https://gplinks.co/Dgy1wp'
       },
       {
-        quality: '1080p - H.265 - DV HDR ',
+        quality: '1080p - H.265 - DV HDR - 4Lan',
         size: '8.64 GB',
         url: 'https://gplinks.co/OLjnpVVN'
       },
       {
-        quality: '1080p AV1',
+        quality: '1080p AV1 - 4Lan',
         size: '7.57 GB',
         url: 'https://gplinks.co/01x09'
       },
       {
-        quality: '1080p VP9',
+        quality: '1080p VP9 - 4Lan',
         size: '6.59 GB',
         url: 'https://gplinks.co/nqYxN51w'
       },
       {
-        quality: '720p H.264',
+        quality: '720p H.264 - 4Lan',
         size: '7.74 GB',
         url: 'https://gplinks.co/x7grQeyl'
       },
       {
-        quality: '720p AV1',
+        quality: '720p AV1 - 4Lan',
         size: '5.22 GB',
         url: 'https://gplinks.co/tLIWF7'
       },
       {
-        quality: '720p AAC5.1 VP9',
+        quality: '720p AAC5.1 VP9 - 4Lan',
         size: '2.71 GB',
         url: 'https://gplinks.co/2Pl5Ra'
       }
-    ]
-},
-        {
-    id: '48',
-    title: 'Lucca\'s World - 2024',
-    description: 'Lucca\'s World (2024) 1080p NF WEB-DL DDP5.1 DV H.265 [2.52 GB], 1080p NF WEB-DL DDP5.1 HDR H.265 [2.81 GB], 1080p NF WEB-DL DDP5.1 H.264 [4.68 GB], 1080p NF WEB-DL DDP5.1 H.265 [3.03 GB], 1080p NF WEB-DL DDP5.1 AV1-ViSTA [2.13 GB], 1080p NF WEB-DL AAC5.1 AV1 [1.14 GB], 720p NF WEB-DL DDP5.1 H.264 [2.25 GB], 720p NF WEB-DL AAC5.1 AV1 [659.11 MB] - Hindi, English, Spanish (DDP 5.1, AAC 5.1)',
-    posterUrl: 'https://m.media-amazon.com/images/M/MV5BYTY0YzM1MzEtMmI5OS00MjFjLWIwZDQtMWU4MjYyZTQ2NjVlXkEyXkFqcGc@._V1_.jpg',
-    year: 2024,
-    genre: ['Adventure', 'Drama'],
-    director: ['Not Available'],
-    cast: ['Not Available'],
-    rating: 'Not Available',
-    duration: 'Not Available',
-    quality: ['1080p', '720p', 'WEB-DL', 'DV', 'HDR'],
-    audio: ['Hindi', 'English', 'Spanish', 'DDP 5.1', 'AAC 5.1'],
-    downloads: 1200,
-    likes: 1500,
-    channelName: 'Tamilpasanga',
-    channelLink: 'https://t.me/Tamil_New_Movies_4K',
-    downloadLinks: [
-        {
-            quality: '1080p NF WEB-DL DDP5.1 DV H.265',
-            size: '2.52 GB',
-            url: 'https://gplinks.co/nGsqpeI'
-        },
-        {
-            quality: '1080p NF WEB-DL DDP5.1 HDR H.265',
-            size: '2.81 GB',
-            url: 'https://gplinks.co/55CmX'
-        },
-        {
-            quality: '1080p NF WEB-DL DDP5.1 H.264',
-            size: '4.68 GB',
-            url: 'https://gplinks.co/Zh6xOtQ'
-        },
-        {
-            quality: '1080p NF WEB-DL DDP5.1 H.265',
-            size: '3.03 GB',
-            url: 'https://gplinks.co/HisE'
-        },
-        {
-            quality: '1080p NF WEB-DL DDP5.1 AV1',
-            size: '2.13 GB',
-            url: 'https://gplinks.co/4BHdGjSR'
-        },
-        {
-            quality: '1080p NF WEB-DL AAC5.1 AV1',
-            size: '1.14 GB',
-            url: 'https://gplinks.co/pllJ'
-        },
-        {
-            quality: '720p NF WEB-DL DDP5.1 H.264',
-            size: '2.25 GB',
-            url: 'https://gplinks.co/EIdg2Oq'
-        },
-        {
-            quality: '720p NF WEB-DL AAC5.1 AV1',
-            size: '659.11 MB',
-            url: 'https://gplinks.co/IUMZfnD'
-        }
     ]
 },
         {
